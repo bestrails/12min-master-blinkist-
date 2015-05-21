@@ -1,0 +1,35 @@
+.modal.fade#credit-card-modal aria-hidden="true" aria-labelledby="mySmallModalLabel" role="dialog" tabindex="-1" 
+  .modal-dialog.modal-sm
+    .modal-content
+      form#credit-card
+        .modal-body
+          .errors
+          .row
+            .col-xs-8
+              .input-group
+                i.fa.fa-credit-card.fa-fw
+                input.cc-number.form-control data-iugu="number" placeholder=t('.card_number') type="text" autofocus="true"/
+            .col-xs-4
+              .input-group
+                i.fa.fa-key.fa-fw
+                input.cc-cvc.form-control data-iugu="verification_value" placeholder=t('.cvv') type="password" /
+          = "&nbsp;".html_safe
+          .row
+            .col-xs-7
+              .input-group
+                i.fa.fa-user.fa-fw
+                input.cc-full-name.form-control data-iugu="full_name" placeholder=t('.full_name') type="text" /
+            .col-xs-5
+              .input-group
+                i.fa.fa-calendar.fa-fw
+                input.cc-exp.form-control data-iugu="expiration" placeholder=t('.expire') type="text" /
+        .modal-footer
+          button.btn.btn-primary type="submit" data-disable-with=t('.verifying')
+            = t('.add_card')
+          .pull-left
+            i.fa.fa-cc-amex.fa-2x
+            = "&nbsp;".html_safe
+            i.fa.fa-cc-visa.fa-2x
+            = "&nbsp;".html_safe
+            i.fa.fa-cc-mastercard.fa-2x
+        

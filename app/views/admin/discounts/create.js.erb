@@ -1,0 +1,5 @@
+<% unless @discount.errors.empty? %>
+  $(".admin-discount-form .pull-right").before("<%= escape_javascript(parse_errors(@discount.errors)) %>");
+<% else %>
+  $("main").html("<%= escape_javascript(render 'list') %>");
+<% end %>

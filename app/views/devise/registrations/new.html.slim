@@ -1,0 +1,19 @@
+body.trial__signup
+  .reset-password__container
+    .reset-password__header
+      = t('.sign_up')
+    .reset-password__cta__container
+      = form_for resource, as: resource_name, url: registration_path(resource_name), html: { class: 'reset-password__form' } do |f|
+        div style="margin:0;padding:0;display:inline"
+          = devise_error_messages!
+          .reset-password__cta
+            .control-group
+              = f.email_field :email, autofocus: true, id: 'reset_password_email', placeholder: "E-mail"
+            .control-group
+              = f.password_field :password, autocomplete: "off", id: 'reset_password_email', placeholder: t('.password')
+            .control-group
+              = f.password_field :password_confirmation, autocomplete: "off", id: 'reset_password_email', placeholder: t('.repeat_password')
+            .control-group.submit
+              = f.submit t('.sign_up')
+            .login__footer
+              = link_to t('.sign_in'), new_user_session_path

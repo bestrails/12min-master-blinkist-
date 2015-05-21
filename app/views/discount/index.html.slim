@@ -1,0 +1,24 @@
+.special-offer__container
+  .special-offer__background__container
+    .special-offer__headline
+      = t('.offer_headline')
+    .special-offer__sub-headline
+      = t('.offer_sub_headline')
+    .special-offer__cta
+      = t('.offer_cta', percentage: number_to_percentage(@discount.percentage, precision: 0).to_s)
+    .special-offer__subscribe-now
+      .shared__purchase-button-container
+        form#subscribe-form_52f3644d313838000c0e0000.subscribe-form_yearly accept-charset="UTF-8" action=take_discount_index_path method="post" data-remote="true"
+          div style="margin:0;padding:0;display:inline" 
+            input name='_method' type='hidden' value='put'
+            button.button.green-wide name="button" type="submit" = t('.offer_button', yearly_price: number_to_currency(yearly_price(@discount), precision: 2, unit: '$'))
+      .special-offer__skip
+        = link_to t('.offer_skip'), library_index_path, remote: true
+  .special-offer__credit-card
+    .special-offer__credit-card__top-container
+      .special-offer__credit-card__top-container_visa
+      .special-offer__credit-card__top-container_mastercard
+      .special-offer__credit-card__top-container_americanexpress
+    .special-offer__credit-card__bottom-container
+      .special-offer__credit-card__bottom-container_guarantee
+        p = t('.offer_guarantee')

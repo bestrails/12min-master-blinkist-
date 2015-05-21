@@ -1,0 +1,17 @@
+$('.create__library__header__container').remove();
+
+$("main").html("<%= escape_javascript(render 'library/index') %>");
+
+if (!$('.libray-menu__container').length) {
+  $("main").before("<%= escape_javascript(render 'library/menu') %>");
+}
+
+window.msnry = new Masonry(".dynamic-grid__container", {
+  columnWidth: 258,
+  itemSelector: '.dynamic-grid__element'
+});
+
+$('.libray-menu__container .top-menu__item a').on('click', function(e) {
+  $('.libray-menu__container .top-menu__item').removeClass('active');
+  $(this).parent().addClass('active');
+});

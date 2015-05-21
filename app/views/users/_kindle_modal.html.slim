@@ -1,0 +1,26 @@
+#simplemodal-container.simplemodal-container.modal.fade style=("position: fixed; height: 502px; width: 320px; left: 577px; top: 152px;") tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="kindle-title"
+  a.login__modal-close.simplemodal-close data-dismiss="modal" X
+  .simplemodal-wrap style=("height: 100%; outline: 0px; width: 100%; overflow: visible;") tabindex="-1" 
+    #simplemodal-data.simplemodal-data style="" 
+      .kindle-popup__container
+        .kindle-popup__header.modal-title id="kindle-title"
+          = t('.set')
+          = "&nbsp;".html_safe
+          span.kindle-button__kindle-color Kindle
+        p.kindle-popup__paragraph_gray
+          = t('.description')
+        .kindle-popup__section-header
+          = t('.step_1')
+        p.kindle-popup__paragraph
+          = raw t('.explain', amazon_url: (link_to t('.amazon'), "https://www.amazon.com/mn/dcw/myx.html/ref=kinw_myk_redirect#/home/settings/", target:"_blank"))
+        p.kindle-popup__separator
+          i = t('.and')
+        .kindle-popup__section-header
+          = t('.step_2')
+        = form_for user, url: user_path(user), method: :put, remote: true, class: 'kindle-popup__email-form__container', html: { id: 'edit-user' } do |f|
+          = f.text_field :kindle, id: 'mailbox', class: 'kindle-popup__email-form__container_left', placeholder: t(".send_to_kindle"), 'data-append' => '@kindle.com'
+          a.kindle-popup__email-form__container_right href="#"
+            | @kindle.com
+          = f.submit t(".add_email")
+          span.kindle-popup__error
+        a.kindle-popup__link_bottom href="#" target="_blank" = t('.need_help')

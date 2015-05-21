@@ -1,0 +1,459 @@
+pt-BR:
+  date:
+    abbr_day_names:
+    - Dom
+    - Seg
+    - Ter
+    - Qua
+    - Qui
+    - Sex
+    - Sáb
+    abbr_month_names:
+    -
+    - Jan
+    - Fev
+    - Mar
+    - Abr
+    - Mai
+    - Jun
+    - Jul
+    - Ago
+    - Set
+    - Out
+    - Nov
+    - Dez
+    day_names:
+    - Domingo
+    - Segunda
+    - Terça
+    - Quarta
+    - Quinta
+    - Sexta
+    - Sábado
+    formats:
+      default: ! '%d/%m/%Y'
+      long: ! '%d de %B de %Y'
+      short: ! '%d de %B'
+    month_names:
+    -
+    - Janeiro
+    - Fevereiro
+    - Março
+    - Abril
+    - Maio
+    - Junho
+    - Julho
+    - Agosto
+    - Setembro
+    - Outubro
+    - Novembro
+    - Dezembro
+    order:
+    - :day
+    - :month
+    - :year
+  datetime:
+    distance_in_words:
+      about_x_hours:
+        one: aproximadamente 1 hora
+        other: aproximadamente %{count} horas
+      about_x_months:
+        one: aproximadamente 1 mês
+        other: aproximadamente %{count} meses
+      about_x_years:
+        one: aproximadamente 1 ano
+        other: aproximadamente %{count} anos
+      almost_x_years:
+        one: quase 1 ano
+        other: quase %{count} anos
+      half_a_minute: meio minuto
+      less_than_x_minutes:
+        one: menos de um minuto
+        other: menos de %{count} minutos
+      less_than_x_seconds:
+        one: menos de 1 segundo
+        other: menos de %{count} segundos
+      over_x_years:
+        one: mais de 1 ano
+        other: mais de %{count} anos
+      x_days:
+        one: 1 dia
+        other: ! '%{count} dias'
+      x_minutes:
+        one: 1 minuto
+        other: ! '%{count} minutos'
+      x_months:
+        one: 1 mês
+        other: ! '%{count} meses'
+      x_seconds:
+        one: 1 segundo
+        other: ! '%{count} segundos'
+    prompts:
+      day: Dia
+      hour: Hora
+      minute: Minuto
+      month: Mês
+      second: Segundo
+      year: Ano
+  errors:
+    format: ! '%{attribute} %{message}'
+    messages:
+      accepted: deve ser aceito
+      blank: não pode ficar em branco
+      present: deve ficar em branco
+      confirmation: não é igual a %{attribute}
+      empty: não pode ficar vazio
+      equal_to: deve ser igual a %{count}
+      even: deve ser par
+      exclusion: não está disponível
+      greater_than: deve ser maior que %{count}
+      greater_than_or_equal_to: deve ser maior ou igual a %{count}
+      inclusion: não está incluído na lista
+      invalid: não é válido
+      less_than: deve ser menor que %{count}
+      less_than_or_equal_to: deve ser menor ou igual a %{count}
+      not_a_number: não é um número
+      not_an_integer: não é um número inteiro
+      odd: deve ser ímpar
+      record_invalid: ! 'A validação falhou: %{errors}'
+      restrict_dependent_destroy:
+        one: "Não é possível excluir o registro pois existe um %{record} dependente"
+        many: "Não é possível excluir o registro pois existem %{record} dependentes"
+      taken: já está em uso
+      too_long: ! 'é muito longo (máximo: %{count} caracteres)'
+      too_short: ! 'é muito curto (mínimo: %{count} caracteres)'
+      wrong_length: não possui o tamanho esperado (%{count} caracteres)
+    template:
+      body: ! 'Por favor, verifique o(s) seguinte(s) campo(s):'
+      header:
+        one: ! 'Não foi possível gravar %{model}: 1 erro'
+        other: ! 'Não foi possível gravar %{model}: %{count} erros.'
+  helpers:
+    select:
+      prompt: Por favor selecione
+    submit:
+      create: Criar %{model}
+      submit: Salvar %{model}
+      update: Atualizar %{model}
+  number:
+    currency:
+      format:
+        delimiter: .
+        format: ! '%u %n'
+        precision: 2
+        separator: ! ','
+        significant: false
+        strip_insignificant_zeros: false
+        unit: R$
+    format:
+      delimiter: .
+      precision: 3
+      separator: ! ','
+      significant: false
+      strip_insignificant_zeros: false
+    human:
+      decimal_units:
+        format: ! '%n %u'
+        units:
+          billion:
+            one: bilhão
+            other: bilhões
+          million:
+            one: milhão
+            other: milhões
+          quadrillion:
+            one: quatrilhão
+            other: quatrilhões
+          thousand: mil
+          trillion:
+            one: trilhão
+            other: trilhões
+          unit: ''
+      format:
+        delimiter: .
+        precision: 2
+        significant: true
+        strip_insignificant_zeros: true
+      storage_units:
+        format: ! '%n %u'
+        units:
+          byte:
+            one: Byte
+            other: Bytes
+          gb: GB
+          kb: KB
+          mb: MB
+          tb: TB
+    percentage:
+      format:
+        delimiter: .
+    precision:
+      format:
+        delimiter: .
+  support:
+    array:
+      last_word_connector: ! ' e '
+      two_words_connector: ! ' e '
+      words_connector: ! ', '
+  time:
+    am: ''
+    formats:
+      default: ! '%a, %d de %B de %Y, %H:%M:%S %z'
+      long: ! '%d de %B de %Y, %H:%M'
+      short: ! '%d de %B, %H:%M'
+    pm: ''
+
+  activerecord:
+    errors:
+      models:
+        subscription:
+          attributes:
+            expires_on: 'Não pode ser no passado'
+    models:
+      book: 'Livro'
+    attributes:
+      user:
+        password: 'Senha'
+        password_confirmation: 'Confirmação da senha'
+      book:
+        title: 'Título'
+        author: 'Author'
+        recommend: 'Recomendar'
+        keys: 'Chaves'
+        lessons: 'Liçãos'
+        tag_list: 'Categorias'
+  shared:
+    credit_card_modal_form:
+      card_number: 'Número de Cartão'
+      cvv: 'CVV'
+      full_name: 'Titular de Cartão'
+      expire: 'MM/AA'
+      add_card: 'Adicionar Cartão'
+      pay: 'Pagar'
+      verifying: 'Verificação...'
+      processing: 'Processamento...'
+      errors:
+        title: 'Erro salvando cartão:'
+        number: 'Número de Cartão é inválido'
+        verification_value: 'CVV é inválido'
+        expiration: 'Data de expiração é inválido'
+        first_name: 'Nome é inválido'
+        last_name: 'Sobrenome é inválido'
+  layouts:
+    application:
+      browse: 'Navegar'
+      all: 'Todos'
+      recent: 'Recente'
+      not_categories: 'Não tem categorias ainda'
+      login: 'Login'
+      join: 'Cadastre-se agora!'
+      search: 'Pesquise por título ou autor'
+      search_no_result: 'Nenhum resultado encontrado.'
+      upgrade_now: 'Assine agora'
+      invite_friends: 'Convidar amigos'
+      wishlist: 'Lista de Desejos'
+      settings: 'Configurações'
+      help_support: 'Ajuda'
+      logout: 'Sair'
+      signup_headline: 'Impressione seu chefe! Resumos de livros de negócios em apenas 12 minutos!'
+      signup_subheadline: 'Conheça os conceitos mais importantes dos negócios. Cadastre-se agora e ganhe 3 dias de acesso ilimitado!'
+      footer_left: 'Leia em qualquer lugar. '
+      help: 'Ajuda'
+      about: 'Sobre'
+      how_it_works: 'Como funciona'
+      partner: 'Parceiros'
+      imprint: 'Endereço'
+      blog: 'Blog'
+      privacy: 'Política de Privacidade'
+      trial_expiring: 'Você só tem mais %{days} grátis. Assine agora!'
+      trial_expired: 'Seu tempo de avaliação expirou. Assine agora!'
+  books:
+    index:
+      library_headline: 'Oi! Vamos começar.'
+      library_sub_headline: 'Escolha três ou mais livros que você gosta, adicione-os à sua biblioteca, e estamos prontos para começar!'
+      continue: 'Continuar'
+      add_to_library: 'Adicionar à biblioteca'
+      in_your_library: 'Sua biblioteca'
+      subscribe_now: 'Cadastre-se agora'
+    content:
+      back: 'Voltar ao artigo'
+    show:
+      keys: 'Pontos chaves'
+      lessons: 'O que você vai aprender?'
+      read_now: 'Leia agora'
+    create:
+      success: "Livro foi criado com êxito"
+      failure: "Falha ao salvar os dados. Tente novamente"
+    update:
+      success: "Livro foi atualizado com sucesso"
+      failure: "Falha ao salvar os dados. Tente novamente"
+    destroy:
+      success: "Livro foi removida com sucesso"
+      failure: "Falha ao salvar os dados. Tente novamente"
+    limit: "Você está limitado a enviar 5 livros para dispositivos por mês. Tentar novamente no próximo mês."
+    send_to_pocket:
+      success: "livro foi enviado com sucesso para Pocket"
+      failure: "Falha ao enviar livro para Pocket. Tente novamente"
+    send_to_kindle:
+      success: "livro foi enviado com sucesso para Kindle"
+      failure: "Falha ao enviar livro para Kindle. Tente novamente"
+  library:
+    index:
+      trial_started: 'Ooh, olha! É grátis!'
+      trial_info: 'Comece agora com 3 dias grátis de assinatura 12min - Sem custos, sem limites, sem amarras. Se você gostar, Assine nosso plano e continue recebendo insights fantásticos mensalmente!'
+      ok: 'Ok, entendi!'
+      trial_expiring_title: 'Teste Gratuito: Restam %{days}!'
+      trial_expiring_info: 'Nosso teste gratuito vem sem amarras, não há nenhuma assinatura automática depois. Se você gostar, Assine nosso plano e continue recebendo insights fantásticos mensalmente!'
+      continue_trial: 'Continue seu teste gratuito!'
+      upgrade_now: 'Tenha acesso ilimitado. Agora!'
+      trial_expired_title: 'O teste gratuito é concluída.'
+      trial_expired_info: |
+        Para continuar tendo acesso aos seus resumos, escolha um dos nossos planos.
+        Não se preocupe: Suas listas de leitura estão salvas!
+      subscribe_now: 'Assine agora!'
+      trial_referral_title: 'Mais 12 min, menos dinheiro'
+      trial_referral_info: 'Para cada amigo que você indicar e se cadastrar, você ganha 7 dias grátis de 12min, gratuitamente.'
+      trial_referral_invite: 'Convidar amigos!'
+      send_to_pocket: 'Enviar para Pocket'
+      send_to_kindle: 'Enviar para Kindle'
+      no_books: 'Você ainda não tem livros em sua coleção, clique %{link} para adicionar a sua primeira'
+      here: 'aqui'
+    send_to_pocket_modal:
+      submit: 'Enviar para Pocket'
+    menu:
+      currently_reading: 'Leituras atuais'
+      finished: 'Concluídas'
+  subscriptions:
+    index:
+      title: 'Seu amigo mais inteligente. Esse é o 12min!.'
+      subtitle: 'Sabemos que você tem pouco tempo. Nós entregamos as idéias mais importantes dos livros de negócios da atualidade, em apenas 12 minutos!'
+      access: 'Acesso instantâneo ilimitado a todo nosso conteúdo exclusivo!'
+      books: 'Mais de 40 novos resumos de cada mês'
+      devices: 'Leia no iPhone, iPad ou o na Web'
+      bill_me: 'Quero assinar!'
+      and: 'e'
+      disccount_code: 'Tem um código de desconto? Clique aqui'
+      upgrade: 'Assine por apenas $%{price} %{period}'
+      save: 'economizar'
+    pay:
+      success: 'Sua inscrição foi pago com sucesso'
+      failure: 'A sua assinatura não pode ser debitado no seu cartão de crédito'
+    promotion:
+      slogan: 'Resolva seu problema de leitura & tornar-se uma forma mais inteligente que você.'
+      description: 'Tenha acesso ilimitado a 12min e ler informações importantes de inspirar livros no trem, durante a sua pausa para o almoço, ou relaxando em casa.'
+      features:
+        library: 'A biblioteca cheia de livros inspiradores'
+        summarized: 'Resumido por pessoas inteligentes'
+        devices: 'Acesso ilimitado em todos os dispositivos'
+        time: 'Menos de um café com leite por mês'
+      subscribe: 'Inscreva-se Agora 12min'
+      promo: 'Para tão pouco quanto %{amount} / mês, você tem acesso ilimitado imediato ao nosso conteúdo'
+      save: 'Economize %{percentage} em relação ao nosso preço anual completo.'
+      activate: 'Activar a minha assinatura'
+    promotion_modal:
+      title: 'Aqui está o que você vai pagar:'
+      item: 'Item'
+      price: 'Preço'
+      subscription: 'Subscrição 12min por 1 ano.'
+      total: 'Total'
+      discount: '%{coupon} poupa %{percentage}'
+      description: 'Apenas %{amount} por mês'
+      proceed: 'Proceder ao pagamento'
+      ends: 'Sua nova subscrição será válida até %{date}.'
+  discount:
+    index:
+      offer_headline: 'Parece que você é novo por aqui. Que tal uma oferta especial de uma só vez?'
+      offer_sub_headline: 'Os insights mais importantes dos últimos best sellers, onde quer que esteja, a qualquer momento.'
+      offer_cta: |
+        Receba %{percentage} de desconto.
+        Você mais vai ter esta chance!.
+      offer_button: 'Assine por um ano, por apenas %{yearly_price}'
+      offer_skip: 'Não gosto de descontos, obrigado.'
+      offer_guarantee: '30 Dias de garantia. Devolução sem perguntas!'
+    create:
+      success: "Desconto foi criado com êxito"
+      failure: "Falha ao salvar os dados. Tente novamente"
+    update:
+      success: "Desconto foi atualizado com sucesso"
+      failure: "Falha ao salvar os dados. Tente novamente"
+    destroy:
+      success: "Desconto foi removida com sucesso"
+      failure: "Falha ao excluir. Tente novamente"
+  users:
+    show:
+      settings: 'Configurações'
+      account: 'Conta de Usuário'
+      change_password: 'Alterar a senha'
+      upgrade_now: 'Assine agora!'
+      invite_friends: 'Convide seus amigos!'
+      delete: 'Apagar sua conta de usuário'
+      subscription_info: 'Aqui você encontra todas as informações relacionadas à sua assinatura.'
+      next_renewal: 'Próxima renovação:'
+      cancel_subscription: 'Cancelar assinatura'
+      confirm_cancel_subscription: 'Você realmente deseja cancelar sua assinatura? Você vai perder o seu acesso após a assinatura expirou.'
+      delete_account: 'Tem certeza de que deseja apagar a sua conta?'
+      confirm_delete_account: 'Por favor, confirme que você deseja excluir sua conta. Isto irá apagar todas as suas informações para sempre.'
+      connect: 'conectar'
+      kindle_connect_info: 'Clique em Conectar-se a atualizar o seu endereço de e-mail'
+    kindle_modal:
+      set: 'Configure o seu'
+      description: 'Enviar pisca direito para o seu Kindle a partir de dentro do aplicativo.'
+      step_1: '1. Adicione 12min a seus remetentes documento aprovado'
+      explain: 'Você deve adicionar kindle@12min.com à sua %{amazon_url} para receber documentos enviados a partir de Blinkist'
+      amazon: 'lista de remetentes documento aprovado'
+      and: 'e'
+      step_2: '2. Adicione o seu e-mail Kindle'
+      send_to_kindle: 'Envie-To-Kindle e-mail'
+      add_email: 'Adicionar e-mail'
+      need_help: 'Precisa de ajuda?'
+    destroy:
+      success: "Seu usuário foi removido sucesso"
+      failure: "Não foi possível excluir sua conta"
+      modal:
+        confirm:
+          "yes": 'Sim'
+          cancel: 'Cancelar'
+    edit:
+      change_password: 'Alterar a senha'
+      password: 'Senha'
+      repeat_password: 'Confirmação da senha'
+    update:
+      success: "Seus dados foram atualizados com sucesso"
+      failure: "Falha ao salvar os dados. Tente novamente"
+  admin:
+    books:
+      list:
+        title: 'Título'
+        author: 'Autor'
+        actions: 'Ações'
+        create: 'Criar'
+        modal:
+          confirm:
+            title: 'Excluir livro'
+            sure: 'Você tem certeza?'
+      form:
+        send: 'Enviar'
+        add_lessons: 'Adicionar Liçõe'
+        add_keys: 'Adicionar Chave'
+        add_tags: 'Adicionar Categoria'
+        submitting: 'Transmissão...'
+    discounts:
+      list:
+        code: 'Código'
+        percentage: 'Percentagem'
+        actions: 'Ações'
+        create: 'Criar'
+        modal:
+          confirm:
+            title: 'Excluir desconto'
+            sure: 'Você tem certeza?'
+      form:
+        send: 'Enviar'
+        submitting: 'Transmissão...'
+
+  # Mailers
+  general_mailer:
+    greeting: "Olá, %{name}!"
+  users_mailer:
+    accepted_invite:
+      body: "Parabéns! Seu amigo foi convidado aceitou o convite, a sua conta de teste foi ampliada para 7 dias."

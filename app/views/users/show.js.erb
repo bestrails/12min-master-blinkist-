@@ -1,0 +1,16 @@
+$('.libray-menu__container').remove();
+
+$("main").html("<%= escape_javascript(render 'show', user: @user) %>");
+$("main").append("<%= escape_javascript(render 'kindle_modal', user: @user) %>");
+
+$(document).on("ajax:beforeSend", '#edit-user', function() {
+  var name = $("#mailbox", this).val();
+  var domain = $("#mailbox", this).data('append');
+
+  var kindle = name + domain.replace(/^\s+|\s+$/g, '');
+
+  $("#mailbox", this).val(kindle);
+  $('#simplemodal-container').modal('hide');
+  $('body').removeClass('modal-open');
+  $('.modal-backdrop').remove();
+});

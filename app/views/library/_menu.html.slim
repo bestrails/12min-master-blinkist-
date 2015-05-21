@@ -1,0 +1,5 @@
+ul.libray-menu__container
+  li.top-menu__item.active
+    = link_to t('.currently_reading'), library_index_path(filter: :unread), remote: true
+  li.top-menu__item
+    = link_to t('.finished'), library_index_path(filter: :read), remote: true

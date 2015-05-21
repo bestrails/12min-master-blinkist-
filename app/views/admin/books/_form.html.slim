@@ -1,0 +1,30 @@
+.container
+  = form_for (@book || Book.new), url: url, html: { method: method, multipart: true, class: 'admin-book-form' }, remote: true, authenticity_token: true do |f|
+    .pull-right
+      img src=(@book || Book.new).cover.url(:full)
+      = f.file_field :cover, accept: 'image/png,image/gif,image/jpeg'
+    .form-group
+      = f.label :title
+      = f.text_field :title, autofocus: true
+    .form-group
+      = f.label :author
+      = f.text_field :author
+    .form-group
+      = f.label :recommend
+      = f.text_area :recommend
+    .form-group
+      = f.label :summary
+      .wmd-panel
+        #wmd-button-bar
+      = f.text_area :summary, class: 'wmd-input', id: 'wmd-input'
+    .form-group
+      = f.label :lessons
+      input type="text" name="book[lessons][]"
+    .form-group
+      = f.label :keys
+      input type="text" name="book[keys][]"
+    .form-group
+      = f.label :tag_list
+      = f.text_field :tag_list
+    
+    = f.submit t('.send'), class: 'button btn btn-default', data: { disable_with: t('.submitting') }

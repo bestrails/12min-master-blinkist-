@@ -1,0 +1,13 @@
+body.users__edit
+  .reset-password__container
+    .reset-password__header
+      = t('.change_password')
+    .reset-password__cta__container
+      = form_for(@user, url: user_path(@user), html: { method: :put, class: 'reset-password__form', remote: true }) do |f|
+        div style="margin:0;padding:0;display:inline"
+          .control-group
+            = f.password_field :password, autofocus: true, autocomplete: "off", placeholder: t('.password')
+          .control-group
+            = f.password_field :password_confirmation, autocomplete: "off", placeholder: t('.repeat_password')
+          control-group.submit style="font-size:5px"
+            = f.submit t('.change_password')

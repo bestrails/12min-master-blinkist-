@@ -1,0 +1,13 @@
+body.categories
+  .container
+    .dynamic-grid__container data-url="/welcome" style=("position: relative; height: 3639.7496948242188px;")
+      .dynamic-grid__element-size
+      .dynamic-grid__element-gutter
+      .category.dynamic-grid__element.dynamic-grid__element-2-columns data-action="goto" data-url="/en/categories/50647cf9e4b08bcecce09447/" style=("position: absolute; left: 0px; top: 0px;") 
+        .category__text
+          .category__text__title
+            = @tag.nil? ? @tag_wildcard : @tag.name
+          .category__text__content-preview
+
+      - @books.each do |book|
+        = render 'books/book', book: book

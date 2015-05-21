@@ -1,0 +1,10 @@
+.container
+  = form_for (@discount || Discount.new), url: url, html: { method: method, multipart: true, class: 'admin-discount-form' }, remote: true, authenticity_token: true do |f|
+    .form-group
+      = f.label :code
+      = f.text_field :code, autofocus: true
+    .form-group
+      = f.label :percentage
+      = f.text_field :percentage
+    
+    = f.submit t('.send'), class: 'button btn btn-default', data: { disable_with: t('.submitting') }

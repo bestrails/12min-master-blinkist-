@@ -1,0 +1,8 @@
+$("#credit-card-modal").modal("hide");
+$(".modal-backdrop").remove()
+
+$("main").html("<%= escape_javascript(render 'library/index') %>");
+
+if (!$('.libray-menu__container').length) {
+  $("main").before("<%= escape_javascript(render 'library/menu') %>");
+}

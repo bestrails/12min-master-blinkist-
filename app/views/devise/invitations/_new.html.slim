@@ -1,0 +1,13 @@
+#referral.content-container
+  .content-container__top
+    h1
+      strong = t('devise.invitations.new.title')
+    h4 = t('devise.invitations.new.info')
+    form accept-charset="UTF-8" action=user_invitation_path data-remote="true" method="post" 
+      div style="margin:0;padding:0;display:inline"
+        .cta
+          .referral_container__control-group
+            label.referral_container__label for="referring_email" = t('devise.invitations.new.invite')
+            textarea#referring_emails.referral_container__text-area name="referring[emails]" placeholder="steve@apple.com, ernest@hemingway.com, ..." 
+          .referral_container__control-group.submit
+            input.referral_container__submit name="commit" type="submit" value=t('devise.invitations.new.send_now')

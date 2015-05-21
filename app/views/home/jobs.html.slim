@@ -1,0 +1,76 @@
+body.jobs  
+  .cms__static__teaser_about
+    .cms__static__teaser__content-container
+      .cms__static__teaser__content
+        h1 About Blinkist
+      ul.cms__static__teaser__menu
+        li.cms__static__teaser__menu-element
+          = link_to 'About Blinkist', about_path
+        li.cms__static__teaser__menu-element
+          = link_to 'Press', press_path
+        li.cms__static__teaser__menu-element_active
+          = link_to 'Jobs'
+        li.cms__static__teaser__menu-element
+          a href = "http://support.blinkist.com/hc" target = "_blank"  Contacts
+      select#select.cms__static__teaser__menu_select name="select"
+        option value="/jobs"  Jobs
+        option value="/about" About Blinkist
+        option value="/press" Press
+        option value="http://support.blinkist.com/hc"  Contacts
+  .cms__blocks__container
+    .cms__blocks__header
+      h2 Jobs
+      p.cms__blocks__separator-line
+      .cms__blocks__paragraph-container_full-width
+        p
+          | We believe that reading enlivens minds, sparks passion, and helps us be better humans. Our mission is to
+          | give curious minds what they yearn for: great knowledge from great books, made just for how modern readers
+          | like to learn. Come help us make it happen!
+      p.cms__blocks__separator-line
+    .cms__blocks__paragraph-container_horizontal
+      .cms__pages__jobs__paragraph-container_with-icons
+        .cms__pages__jobs__paragraph-icon__map
+        h3 Freedom rules
+        p
+          | Our strategic plan is called getting things done. Whatever work style lets you give your best,
+          | we offer you the trust and the independence to do it.
+      .cms__pages__jobs__paragraph-container_with-icons
+        .cms__pages__jobs__paragraph-icon__cloud
+        h3 Down with hierarchy!
+        p
+          | At Blinkist, we have responsibilities, not rank. You’ll have your own projects and your own realms of
+          | expertise in which you (yep, you!) call the shots.
+    .cms__blocks__paragraph-container_horizontal
+      .cms__pages__jobs__paragraph-container_with-icons
+        .cms__pages__jobs__paragraph-icon__fire
+        h3 Feed the fire
+        p
+          | Whether it’s a crunchy snack, a new book, or an educational opportunity, we fuel what you burn for.
+          | With weekly learning sessions and hackathons, you’ll never be without inspiration.
+      .cms__pages__jobs__paragraph-container_with-icons
+        .cms__pages__jobs__paragraph-icon__space-warrior
+        h3 Celebrate &amp; unwind
+        p
+          | Great work deserves to be rewarded – and the people behind it should be, too! From meditation lessons to
+          | milestone parties, we make room for wellness and fun, too.
+    p.cms__blocks__separator-line
+    .cms__blocks__container
+      .cms__pages__jobs__paragraph-container_button
+        .cms__pages__jobs__paragraph-container_button-top
+          h3 Senior Android Developer
+          p.cms__static__paragraph-container_location-paragraph 
+            |(Berlin, Germany)
+        .cms__pages__jobs__paragraph-container_button-content
+          p
+            | We are looking for a top-notch Android developer to help us make Blinkist one of the greatest Android apps.
+            | The Blinkist Android app is fully native, our minSdkVersion is 16 and we build our app using Gradle,
+            | RxJava, Dagger, GitHub and a bunch of other great tools. We have been featured in the Play Store and are
+            | committed to deliver an experience that truly fits the platform.
+            | Join us and help us shape the future of nonficition reading &amp; mobile learning!
+        a.button href="mailto:jobs@blinkist.com?subject=Senior Android Developer"  Apply here
+    .cms__blocks__bottom-cta
+      h4
+        | Got something special to add to the team? We want to hear about it!
+        a href="mailto:jobs@blinkist.com"  Write us
+        |  a message and say hello.
+  

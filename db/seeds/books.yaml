@@ -1,0 +1,1658 @@
+books:
+  - title: "High Output Management"
+    subtitle: "Os segredos de do CEO da Intel para criar times de alta performance"
+    original_title: "High Output Management"
+    author: "Grove, Andrew S"
+    recommend: |
+      Neste livro, Andy Grove foca em profissionais de gestão e discorre que o principal conceito de
+      uma boa gestão é o foco em resultados. O resultado de um gestor é equivalente ao resultado 
+      de toda as as unidades organizacionais sob sua supervisão ou influência. Um time somente 
+      irá atingir uma alta performance se seus membros tiverem noções das métricas que são 
+      acompanhadas e do seu papel no ambiente corporativo.
+    keys:
+      - "Gestão é como a linha de produção. O que importa é a quantidade e a qualidade dos serviços que saem do departamento;"
+      - "Muitos gerentes cometem o erro de gastar muito tempo em reuniões, telefonemas, e outras atividades esquecendo de se focar no seu resultado."
+      - "O gerente deve saber exatamente qual o resultado mensurável esperado do seu trabalho e deve sempre buscar melhorá-lo;"
+      - "O treinamento de seus subordinados é de responsabilidade do gerente, que também deve trabalhar na motivação e desenvolvimento de cada individuo que impacta no seu  resultado;"
+      - "É importante promover seus subordinados baseado exclusivamente nos seus resultados e não em potencial"
+    lessons:
+      - "Seu papel na linha de produção;"
+      - "As duas forças que movem as pessoas (competências e conquistas);"
+      - "A importância da definição de KPI's;"
+      - "Boas práticas para reuniões corporativas;"
+      - "O conceito de maturidade com relação a tarefa;"
+      - "Um método eficiente de tomada de decisões;"
+    quotes:
+      - "A responsabilidade do aprendizado de um subordinado deve ser assumida pela seu supervisor e não pelos clientes da organização, sejam eles internos ou externos."
+      - "Alfred Sloan resumiu décadas de experiência na General Motors afirmando, 'Uma boa gestão está na conciliação entre a centralização e a descentralização'. Ou seja, atuar para conseguir a melhor combinação entre responsividade e alavancagem."
+    summary: |
+      <h3 class="c1 c3">
+        <a name="h.yefg8h4mspy0"></a>
+        <span>Entendendo as linhas de produ&ccedil;&atilde;o:</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Linhas de produ&ccedil;&atilde;o possuem 3 requisitos principais. Ficar dentro do prazo, com um certo n&iacute;vel de qualidade e um custo definido. E o processo se distribui nas seguintes etapas: Processamento, montagem, testes. Para tornar a linha de produ&ccedil;&atilde;o mais eficiente, &eacute; necess&aacute;rio ficar atento ao processo que consome mais tempo, afim de otimiz&aacute;-lo.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.jtiou5ciq7i"></a>
+        <span>A import&acirc;ncia dos KPI&#39;s</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Para escalar uma empresa &eacute; importante ter indicadores. Qualquer indicador &eacute; melhor que n&atilde;o ter nenhum indicador. Bons indicadores mensuram o resultado, o output de um processo e n&atilde;o apenas a atividade exercida. Al&eacute;m do &quot;bom indicador&quot; existem tamb&eacute;m os indicadores de ind&iacute;cio que mensuram a entrada de processos e tentam predizer seus resultados e indicadores de tend&ecirc;ncias, quem mensuram os resultados de um processo ao longo de um per&iacute;odo de tempo.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.fdktcmagmrv6"></a>
+        <span>Alavancagem gerencial</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Alavancagem &eacute; a medida do resultado gerado por cada atividade gerencial. Entre as principais atividades de um gerente est&atilde;o: Coleta de informa&ccedil;&otilde;es, multiplica&ccedil;&atilde;o de informa&ccedil;&otilde;es para sua equipe, tomada de decis&otilde;es e gest&atilde;o de relat&oacute;rios. Relat&oacute;rios de gest&atilde;o s&atilde;o importantes para comunica&ccedil;&atilde;o, mas s&atilde;o ainda mais importantes para a auto disciplina do gestor. Produz&iacute;-los, muitas vezes &eacute; mais importante do que consum&iacute;-los.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Para delegar de maneira eficiente &eacute; necess&aacute;rio que um gerente tenha acessoa informa&ccedil;&otilde;es, conhecimento estrat&eacute;gico e habilidades de comunica&ccedil;&atilde;o/influ&ecirc;ncia. Um gerente deve ter entre 6-8 subordinados. Menos do que isso causa lentid&atilde;o e mais do que isso causa confus&atilde;o na comunica&ccedil;&atilde;o.
+        </span>
+      </p>
+      <h3 class="c1 c3 c4">
+        <a name="h.6j7jpy4c8bxe"></a>
+      </h3>
+      <h3 class="c1 c3">
+        <a name="h.6j7jpy4c8bxe"></a>
+        <span>Reuni&otilde;es eficientes</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Reuni&otilde;es tem um grande poder de alavancagem quando usadas efetivamente. Elas devem ser dos seguintes tipos:
+        </span>
+      </p>
+      <ul class="c7 lst-kix_pwfavoj0kav3-0 start">
+        <li class="c1 c5">
+          <span>
+            Orientadas a processo: Agendadas, focadas em troca de informa&ccedil;&otilde;es sobre o dia a dia
+          </span>
+        </li>
+        <li class="c1 c5">
+          <span>Um a um: Com o conte&uacute;do definido pelo subordinado.</span>
+        </li>
+        <li class="c1 c5">
+          <span>
+            Reuni&otilde;es de equipe: Focada em discutir coisas que afetam mais de duas pessoas presentes.
+          </span>
+        </li>
+        <li class="c1 c5">
+          <span>
+            Revis&atilde;o operacional: Come&ccedil;a com uma apresenta&ccedil;&atilde;o e discute os resultados do processo.
+          </span>
+        </li>
+        <li class="c1 c5">
+          <span>
+            Orientadas a miss&atilde;o: Convocadas por um respons&aacute;vel, focadas em melhorar um resultado/KPI espec&iacute;fico.
+          </span>
+        </li>
+      </ul>
+      <p class="c1">
+        <span>
+          Tendo focos e utilizando estas pr&aacute;ticas &eacute; poss&iacute;vel acompanhar com sucesso os resultados da empresa e alinhar os envolvidos.
+        </span>
+      </p>
+      <h3 class="c1 c3 c12">
+        <a name="h.qe1fz2hxhu4"></a>
+        <span>O valor das reuni&otilde;es um a um</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Reuni&otilde;es um a uma devem ocorrer entre um funcion&aacute;rio e seu subordinado. Sua frequ&ecirc;ncia depende da experi&ecirc;ncia do subordinado em seu trabalho. Em geral &eacute; recomendado que ela ocorra uma vez por semana para colaboradores n&atilde;o experientes. A dura&ccedil;&atilde;o n&atilde;o deve exceder uma hora. Estas reuni&otilde;es devem ser guiadas pelo subordinado e sua pauta deve ser definida previamente. Deve-se focar nos KPI&#39;s, problemas e indicadores de futuros problemas. Separe alguns momentos no final do dia para planejar a pr&oacute;xima reuni&atilde;o. O gestor deve sempre fazer perguntas e preparar o caminho para a pr&oacute;xima reuni&atilde;o.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.pnheffyxm8lh"></a>
+        <span>Tomada de decis&atilde;o</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Em uma empresa baseada em conhecimento, o poder &eacute; definido pelo conhecimento da pessoa sobre uma &aacute;rea de especialidade ou pelo cargo do outro envolvido. &Eacute; importante envolver tanto especialistas quanto gestores no processo decis&oacute;rio.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Em geral, as decis&otilde;es devem passar por 3 est&aacute;gios: Discuss&atilde;o livre entre todos os membros, decis&atilde;o clara e apoio total da gest&atilde;o ao decisor. Apoio total n&atilde;o necessariamente significa concorcar totalmente, mas significa que o decisor est&aacute; de acordo com o plano a ser seguido. Em geral, &eacute; melhor que as decis&otilde;es sejam tomadas pelos gerentes da camada m&eacute;dia da empresa, afinal eles combinam uma mistura do conhecimento especializado e um cargo de gest&atilde;o. O maior entrave para boas decis&otilde;es de fato, &eacute; que nem sempre as pessoas se posicionam livremente sobre o assunto. Uma reuni&atilde;o apenas com pessoas do mesmo n&iacute;vel gerencial n&atilde;o prov&ecirc; boas decis&otilde;es pois eles buscar&atilde;o um consenso. Se n&atilde;o existe um gestor envolvido, &eacute; importante que a decis&atilde;o final tenha a aprova&ccedil;&atilde;o do profissional mais senior do grupo. Outro fator importante &eacute; sempre consultar outras pessoas antes de decidir, pois se o gestor toma decis&otilde;es sem consultar, os demais tamb&eacute;m tomar&atilde;o o mesmo procedimento como padr&atilde;o.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.m0lpu09mnqtm"></a>
+        <span>Planejamento com foco em resultados</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Planejamento &eacute; cr&iacute;tico para uma gest&atilde;o focada em resultados e &eacute; importante que ele seja feito pelo gerente e n&atilde;o por um profissional isolado. O gerente tem conhecimento dos seus recursos e entende que planejar &eacute; dizer sim para alguns projetos e n&atilde;o para outros.
+        </span>
+      </p>
+      <p class="c1">
+        <span>Planejamento se baseia em 3 etapas b&aacute;sicas.</span>
+      </p>
+      <ul class="c7 lst-kix_hr4bmgm0qmlj-0 start">
+        <li class="c1 c5">
+          <span>Estudar o ambiente;</span>
+        </li>
+        <li class="c1 c5">
+          <span>Predizer o futuro;</span>
+        </li>
+        <li class="c1 c5">
+          <span>Conciliar ambos em um plano.</span>
+        </li>
+      </ul>
+      <p class="c1">
+        <span>
+          &Eacute; importante utilizar t&eacute;cnicas de gest&atilde;o focada em objetivos para mensurar a performance e avaliar os resultados do bom planejamento.
+        </span>
+      </p>
+      <p class="c1">
+        <span>Entendendo organiza&ccedil;&otilde;es h&iacute;bridas.</span>
+      </p>
+      <p class="c1">
+        <span>Uma organiza&ccedil;&atilde;o pode ser:</span>
+      </p>
+      <p class="c1">
+        <span>
+          Focada em uma miss&atilde;o, com um &uacute;nico objetivo: Possui uma estrutura descentralizada, flex&iacute;vel e responsiva;
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Funcional: Centralizada, pouco flex&iacute;vel e focada em efici&ecirc;ncia e uma economia de escala.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          H&iacute;brida: Uma combina&ccedil;&atilde;o de ambos os modelos acima
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Segundo Grove, &eacute; importante que as organiza&ccedil;&otilde;es se adaptem continuamente, levando em conta sua estrutura de custos (fun&ccedil;&atilde;o) e sua responsibilidade e flexibilidade (miss&atilde;o).
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.r9m46xlvxh8s"></a>
+        <span>Quando um colaborador deve se reportar a dois gestores?</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Geralmente &eacute; necess&aacute;rio quando uma fun&ccedil;&atilde;o depende de um gerente e tamb&eacute;m de um especialista na &aacute;rea de atua&ccedil;&atilde;o. Em alguns casos, os dois gestores poderiam ser um comit&ecirc;. Este modelo pode introduzir ambiguidade e deve ser utilizado com cautela. &Eacute; muito comum em organiza&ccedil;&otilde;es orientadas a miss&atilde;o e tamb&eacute;m em organiza&ccedil;&otilde;es h&iacute;bridas. Este tipo de estrutura tende a aumentar o conhecimento do neg&oacute;cio do time gerencial da empresa.
+        </span>
+      </p>
+      <h3 class="c1 c3 c4">
+        <a name="h.pmghyg3jf022"></a>
+      </h3>
+      <h3 class="c1 c3">
+        <a name="h.pmghyg3jf022"></a>
+        <span>Capacitando sua equipe</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Gerentes podem melhorar a performance do seus colaboradores subordinado satrav&eacute;s de motiva&ccedil;&atilde;o (desenvolvimento da auto estima e reconhecimento) e treinamento. Auto estima e desenvolvimento pessoal s&atilde;o as duas chaves deste processo. Enquanto a auto estima e o reconhecimento s&atilde;o um recurso finito e n&atilde;o se pode contar com elas sempre, o desenvolvimento pessoal e a capacidade de aquisi&ccedil;&atilde;o de novos conhecimentos s&atilde;o infinitos.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          As pessoas, em geral, se desenvolvem pessoalmente de maneiras diferentes:
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c2">Desenvolvimento de compet&ecirc;ncias</span>
+        <span>
+          : A pessoa &eacute; focada em dominar cada vez melhor sua tarefa buscando se tornar um virtuoso, e assim obter reconhecimento;
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c2">Desenvolvimento de conquistas</span>
+        <span>
+          : A pessoa &eacute; focada em &quot;conquistar&quot; e &quot;atingir objetivos&quot; em tudo que faz.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Ambas abordagens buscam se superar e testar seus limites. Comportamentos focados em desenvolvimento de compet&ecirc;ncias n&atilde;o devem ser recompensados com reconhecimento, ao passo que o desenvolvimento focado em conquistas deve ser fomentado em toda organiza&ccedil;&atilde;o. Uma conquista &eacute; sempre um resultado, um output.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c3 c12">
+        <a name="h.m00vse81kbi4"></a>
+        <span>Maturidade Com Rela&ccedil;&atilde;o a Tarefa</span>
+      </h3>
+      <p class="c1">
+        <span>
+          N&atilde;o existe um estilo &uacute;nico, definitivo de gest&atilde;o, o resultado de cada estilo se baseia em uma combina&ccedil;&atilde;o de vari&aacute;veis. A maturidade com rela&ccedil;&atilde;o a tarefa &eacute; um crit&eacute;rio os colaboradores levando em conta algumas vari&aacute;veis como: o grau de orienta&ccedil;&atilde;o &agrave; conquistas de uma pessoa, sua disponibilidade para aceitar responsabilidades, seu treinamento e sua experi&ecirc;ncia.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c1">
+        <span>
+          Baixa maturidade: Profissional focado em tarefas, busca saber &quot;o qu&ecirc;?&quot;, &quot;quando&quot; e &quot;como&quot;.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Maturidade m&eacute;dia: Profissional focado no indiv&iacute;duo: Conversa um a um, busca entendimento.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Alta maturidade: Profissional independente, focado em estabelecer objetivos e acompanh&aacute;-los. N&atilde;o demanda grande envolvimento do gerente.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c1">
+        <span>
+          Para evoluir no treinamento/gest&atilde;o da equipe &eacute; importante que as responsabilidades de cada papel estejam muito bem definidas, independente da maturidade de cada pessoa. Por&eacute;m &eacute; muito importante que fique claro para as pessoas que cada pessoas vai ser avaliada de maneira diferente em cada n&iacute;vel de maturidade.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.9rw5y4wda38f"></a>
+        <span>An&aacute;lise de performance</span>
+      </h3>
+      <p class="c1">
+        <span>
+          A an&aacute;lise de performance &eacute; a maneira mais importante de oferecer feedback relevante &agrave; tarefa. Seu objetivo &eacute; melhorar a performance do indiv&iacute;duo de acordo com seu n&iacute;vel de habilidade e tamb&eacute;m de motiva&ccedil;&atilde;o. Para boas avalia&ccedil;&otilde;es fa&ccedil;a sempre:
+        </span>
+      </p>
+      <ul class="c7 lst-kix_5lsaa3cvtjp5-0 start">
+        <li class="c1 c5">
+          <span>
+            Clarifica&ccedil;&atilde;o antecipada do que voc&ecirc; busca.
+          </span>
+        </li>
+        <li class="c1 c5">
+          <span>
+            Mensura&ccedil;&otilde;es de resultados (ex: Produtos entregues, relat&oacute;rios, etc.)
+          </span>
+        </li>
+        <li class="c1 c5">
+          <span>
+            Avalia&ccedil;&otilde;es de medidas internas tomadas (ex: planejamento, treinamento, contrata&ccedil;&otilde;es, etc.)
+          </span>
+        </li>
+      </ul>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c1">
+        <span>
+          Durante a avalia&ccedil;&atilde;o fique de fora, ou&ccedil;a muito, focando no indiv&iacute;duo. Seu objetivo &eacute; conseguir comprometimento para encontrar solu&ccedil;&otilde;es. Uma armadilha comum que muitos gerentes caem &eacute; avaliar as pessoas baseado em seu potencial e n&atilde;o em seus resultados.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.eujv1k4pcino"></a>
+        <span>Duas tarefas dif&iacute;ceis:</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Na rotina de gestor, existem 2 tarefas extremamente dif&iacute;ceis que s&atilde;o parte do dia a dia. A primeira &eacute; entrevistar candidatos. Ao entrevistar candidatos, foque sempre em medir seu conhecimento, sua performance pr&eacute;via, potenciais discrep&acirc;ncias culturais e os valores da pessoa. Deixe com que ela fale a maior parte do tempo e apenas interrompa e mude de assunto caso a conversa perca seu foco. Desenhe cen&aacute;rios, permita que os candidatos fa&ccedil;am perguntas, mas mantenha o foco. Economizar tempo nisso tamb&eacute;m &eacute; importante.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          A outra situa&ccedil;&atilde;o dificil &eacute; quando um profissional chave pede demiss&atilde;o. Ao lidar com pessoas talentosas que pedem demiss&atilde;o, d&ecirc; aten&ccedil;&atilde;o imediata para o assunto assim que souber da not&iacute;cia. Sempre busque solu&ccedil;&otilde;es, ofere&ccedil;a transfer&ecirc;ncias de departamento, consulte supervisores, &nbsp;e fa&ccedil;a o poss&iacute;vel para reter seu talento.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.27j3iu83ojx"></a>
+        <span>Remunera&ccedil;&atilde;o da equipe</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Existem duas formas puras de gest&atilde;o de sal&aacute;rios, experi&ecirc;ncia e m&eacute;rito. As empresas geralmente utilizam um combinado entre ambas, mas &eacute; importante que as promo&ccedil;&otilde;es de cargos dentro da empresa sejam amarradas &agrave; performance, visando sempre evidenciar os valores da empresa.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.wubwuv3tdmib"></a>
+        <span>Treinamento da equipe</span>
+      </h3>
+      <p class="c1">
+        <span>
+          As duas coisas principais de responsabilidade exclusiva do gerente s&atilde;o: Motiva&ccedil;&atilde;o e treinamento. O treinamento deve ser diretamente ligado a cultura e o processo da empresa. &Eacute; extremamente importante que treinamento seja um processo dentro da organiza&ccedil;&atilde;o e n&atilde;o um evento com uma periodicidade definida.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c3">
+        <a name="h.ypoeqrp1cche"></a>
+        <span>Sobre o autor:</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Andrew Stephen &quot;Andy&quot; Grove &eacute; um engenheiro e empres&aacute;rio estadunidense nascido na Hungria. Ele imigrou para os Estados Unidos, em 1956. Foi um dos primeiros empregados da Intel Corporation, e se tornou o CEO da empresa em um dos seus maiores momentos de crescimento, liderando a revolu&ccedil;&atilde;o dos microprocessadores.
+        </span>
+      </p>
+  - title: "The Hard Thing About Hard Things"
+    subtitle: "Construindo uma empresa quando não existem respostas fáceis"
+    original_title: "The Hard Thing About Hard Things - Building a Business When There Are No Easy Answers"
+    author: "Ben Horowitz"
+    recommend: |
+      “The Hard Thing About Hard Things ” é um livro focado em empreendedores e pessoas
+      interessadas no mercado de startups e empreendedorismo sobre a rotina e os desafios de ser 
+      um CEO de uma startup de tecnologia. Ele é ideal para CEO's de primeira viagem por contar 
+      com diversas anedotas, desafios e acidentes de percurso com os quais o empreendedor se 
+      depara no dia a dia de sua empresa. O livro passa pelos desafios de empreender passando
+      pelos momentos difíceis sem desistir e focando sempre em desenvolver o negócio apesar das 
+      adversidades
+    keys:
+      - "Não importa que você falhe como um CEO, isso é inevitável. O importante é saber o que fazer depois."
+      - "A vida de um CEO é solitária. Se a empresa falha, a responsabilidade é deles e as decisões do dia a dia definem se a empresa irá viver ou morrer. Um CEO pode ter que demitir seus melhores amigos ou uma fábrica inteira, enquanto se preocupam em manter a empresa crescendo ou ao menos viva;"
+      - "Lidar com sua própria psicologia é o maior desafio que um CEO pode enfrentar. Você irá se sentir sozinho e encontrar problemas pessoais. Mantenha seu foco nas soluções a sua frente e não nos problemas ao seu redor."
+    lessons:
+      - "As lições de Ben Horowitz como CEO de uma empresa, desde a fundação até a venda da empresa por $1.6 bilhões."
+      - "Como demitir pessoas quando necessário, minimizando sentimentos ruins"
+      - "Por quê contratar alguém com algumas fraquezas pode ser uma boa ideia"
+      - "O que significa ser um CEO em tempos de guerra"
+    quotes:
+      - "A responsabilidade do aprendizado de um subordinado deve ser assumida pela seu supervisor e não pelos clientes da organização, sejam eles internos ou externos."
+      - "Alfred Sloan resumiu décadas de experiência na General Motors afirmando, 'Uma boa gestão está na conciliação entre a centralização e a descentralização'. Ou seja, atuar para conseguir a melhor combinação entre responsividade e alavancagem."
+    summary: |
+      <h3 class="c2 c5">
+        <a name="h.m9ygrxz4l9t"></a>
+        <span>
+          Entendendo as press&otilde;es e responsabilidades de gerir uma empresa
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.y5fx7jo9xx8i"></a>
+        <span class="c1">
+          O caminho de um fundador de uma empresa se baseia em seus sonhos e ambi&ccedil;&otilde;es. Infelizmente nenhuma empresa tem um caminho linear e acaba passando por crises, fatores diversos do mercado que criam uma grande dificuldade. O desafio &eacute; quando o sonho se desencontra da realidade e surge o stress e as decis&otilde;es complicadas. &Eacute; de responsabilidade do CEO navegar a empresa para fora destas dificuldades e resolv&ecirc;-las e para isso &eacute; necess&aacute;rio trabalho em equipe, criatividade, honestidade e foco em resultados.
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.2fnqib9565j4"></a>
+        <span class="c1">
+          No caso de Ben Horowitz, sua empresa, a Opsware, ele teve que lidar com o estouro da bolha de internet de 2000 e replanejar do zero seus produtos afim de evitar a empresa de quebrar. Em um certo momento, Ben teve que fazer uma reuni&atilde;o geral na Opsware e pedir que os funcion&aacute;rios que estivessem pensando em pedir demiss&atilde;o o fizessem naquele momento. Isso fez com que as pessoas que ficassem estivessem focadas em crescer e prosperar, levando o pre&ccedil;o das a&ccedil;&otilde;es da empresa de U$0.35 para U$7.
+        </span>
+      </h3>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c2 c8">
+        <a name="h.d8eqlp6t0qli"></a>
+        <span>
+          Ningu&eacute;m gosta de demitir, mas se necess&aacute;rio, haja r&aacute;pido e seja justo
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.47n96ky57lox"></a>
+        <span class="c1">
+          &Eacute; inevit&aacute;vel na jornada do CEO, ter que demitir pessoas. Por&eacute;m se h&aacute; a necessidade, &eacute; preciso ser r&aacute;pido. Atrasar esta decis&atilde;o faz com que a empresa diminua sua velocidade e sua cultura se deteriore. Se o CEO n&atilde;o anuncia as demiss&otilde;es de imediato, rumores se espalham e a confian&ccedil;a na sua pessoa se deteriora. Tamb&eacute;m &eacute; extremamente importante ser justo com os funcion&aacute;rios que se v&atilde;o. Crie pacotes de demiss&atilde;o justos e ajude-os com boas refer&ecirc;ncias e reposicionamento. Isso n&atilde;o s&oacute; mant&eacute;m a moral, como tamb&eacute;m ajuda que voc&ecirc; tenha boas refer&ecirc;ncias para contratar no futuro.
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.7rs9q53c785e"></a>
+        <span class="c1">Quando demitir um executivo?</span>
+      </h3>
+      <p class="c2">
+        <span>
+          Primeiro, entenda que, como um CEO, voc&ecirc; foi respons&aacute;vel por uma contrata&ccedil;&atilde;o ruim e explique isso ao seu conselho. Descubra a causa do erro e tente evit&aacute;-la no futuro. Isso ir&aacute; aumentar a confian&ccedil;a do conselhor na pessoa do CEO.
+        </span>
+      </p>
+      <p class="c2">
+        <span>
+          Se prepare para a conversa com o executivo, planeje a linguagem a ser utilizada e n&atilde;o torne a demiss&atilde;o em uma discuss&atilde;o sobre performance. Deixe claro que &eacute; algo definitvo. Lembre-se de jamais humilhar a pessoa em quest&atilde;o. Voc&ecirc; n&atilde;o pode deix&aacute;-lo manter seu cargo, mas voc&ecirc; pode deix&aacute;-lo manter sua dignidade. Deixe claro para os colaboradores um senso de continuidade nos neg&oacute;cios ap&oacute;s a partida e fa&ccedil;a com que a empresa opere normalmente, o melhor poss&iacute;vel.
+        </span>
+      </p>
+      <h3 class="c2 c8">
+        <a name="h.ca2ne78yvuby"></a>
+        <span>
+          Cuide bem da sua equipe investindo em recursos humanos e treinamento
+        </span>
+      </h3>
+      <h3 class="c2 c5 c12">
+        <a name="h.xcwgv0l6slsd"></a>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.c1pnls49azpg"></a>
+        <span class="c1">
+          Garanta que voc&ecirc; possui um departamento de recursos humanos e utilize-o para coletar sinais dos problemas vis&iacute;veis em sua organiza&ccedil;&atilde;o. O RH &eacute; como um setor de qualidade da pr&oacute;pria organiza&ccedil;&atilde;o. Ele n&atilde;o &eacute; capaz de entregar o produto em si, mas ele diz a voc&ecirc; se voc&ecirc; est&aacute; entregando bons produtos e se o seu padr&atilde;o de qualidade est&aacute; melhorando ou se deteriorando.
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.3mv21tyn99yz"></a>
+        <span class="c1">
+          Invista tamb&eacute;m em treinamento para garantir que sua equipe domine suas responsabilidades. Toda empresa deve ter seus processos internos de treinamento. O treinamento deve ser funcional, dando aos funcion&aacute;rios as habilidades e a experi&ecirc;ncia necess&aacute;rios para atingir suas metas e serem bem sucedidos.
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.qapsmqkjuc5x"></a>
+        <span class="c1">
+          Uma vez que todos os funcion&aacute;rios est&atilde;o capacitados, &eacute; importante ensinar gest&atilde;o para todo o time gerencial. Explique aos gerentes o que voc&ecirc; espera deles e que padr&atilde;o de performance eles devem seguir. Mantenha sempre o feedback cont&iacute;nuo.
+        </span>
+      </h3>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c2">
+        <span>
+          Um bom departamento de RH e treinamento cont&iacute;nuo para o time gerencial v&atilde;o ajudar com que os gerentes multipliquem uma cultura de aprendizado.
+        </span>
+      </p>
+      <h3 class="c2 c8">
+        <a name="h.ionfadtuonuq"></a>
+        <span>
+          Contrate as pessoas baseado em suas for&ccedil;as e n&atilde;o em suas fraquezas
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.mthdx43f74et"></a>
+        <span class="c1">
+          Ao recutar, sua primeira prioridade &eacute; saber quais as for&ccedil;as necess&aacute;rias para que a pessoa atinja os objetivos do seu cargo. No exemplo da Opsware, Ben estava procurando um bom candidato para gerenciar o time de vendas da empresa. O candidato mais qualificado possuia todas as for&ccedil;as necess&aacute;rias para ser um fant&aacute;stico gestor comercial, mas n&atilde;o tinha um fit com a cultura da empresa, deixando algumas pessoas desconfort&aacute;veis com a decis&atilde;o. Ben contratou este candidato e acertou em cheio, atingindo bons resultados e sempre trabalhando para melhorar as fraquezas dele.
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.rzbdmwzf4n56"></a>
+        <span class="c1">
+          Outro ponto chave para contrata&ccedil;&otilde;es &eacute; garantir que se contrata algu&eacute;m cuja experi&ecirc;ncia est&aacute; de acordo com o porte da empresa. Um papel executivo em uma pequena empresa &eacute; muito diferente de um papel executivo em uma grande empresa. Em grandes empresas, espera-se que executivos trnham um grande volume de projetos chegando em suas mesas e se ajustar para avaliar estes. J&aacute; em uma pequena empresa eles devem criar seus pr&oacute;prios projetos e garantir que eles sejam executados. Estas discrep&acirc;ncias podem criar problemas nas expectativas de velocidade de trabalho e metas a serem alcan&ccedil;adas.
+        </span>
+      </h3>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c2">
+        <span>
+          Construa uma empresa sem pol&iacute;ticas de escrit&oacute;rio
+        </span>
+      </p>
+      <h3 class="c2 c5">
+        <a name="h.t9bqvnj8q4q5"></a>
+        <span class="c1">
+          N&atilde;o deixe que movimentos pol&iacute;ticos internos ocasionem promo&ccedil;&otilde;es n&atilde;o merecidas, fomento de rumores e conflitos entre &aacute;reas. A melhor maneira de evitar &quot;pol&iacute;tica&quot;&eacute; contratar apenas pessoas ambiciosas pela empresa e n&atilde;o s&oacute; por suas carreiras. No n&iacute;vel executivo &eacute; cr&iacute;tico que as pessoas foquem no sucesso da empresa e n&atilde;o em manobras pol&iacute;ticas. Outro crit&eacute;rio importante &eacute; utilizar avalia&ccedil;&otilde;es de performance constantes, tornando dif&iacute;cil a promo&ccedil;&atilde;o de pessoas que n&atilde;o atingem suas metas.
+        </span>
+      </h3>
+      <p class="c2">
+        <span>
+          Al&eacute;m disso, sempre comunique aos seus colaboradores a import&acirc;ncia do seu papel e como seu trabalho ser&aacute; avaliado. &nbsp;Ou seja, tenha uma hierarquia clara, e fa&ccedil;a com que cargos como gerente, diretor e vice presidente realmente signifiquem algo. Hierarquia ajuda as pessoas a entenderem o valor do seu trabalho e o quanto eles tem que ser estrat&eacute;gicos para manter aquele t&iacute;tulo.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c2 c8">
+        <a name="h.w39io0pl11ss"></a>
+        <span>Dois tipos de CEO&#39;s : Decisores e implementadores</span>
+      </h3>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c2 c5">
+        <a name="h.fvevyk57tjgo"></a>
+        <span class="c1">
+          O primeiro tipo tem a cacter&iacute;stica de focar em definir o caminho da organiza&ccedil;&atilde;o e n&atilde;o focar especificamente na implementa&ccedil;&atilde;o. Em geral, CEO&#39;s fundadores tem este perfil. Um exemplo cl&aacute;ssico &eacute; o de Bill Gats, que definiu cedo uma vis&atilde;o clara para a Microsoft. Em geral este perfil gosta de fazer importantes decis&otilde;es estrat&eacute;gicas e jogar xadrez contra seus competidores. O que eles n&atilde;o gostam muito &eacute; da execu&ccedil;&atilde;o. Treinamento, gest&atilde;o de performance, design de processos, defini&ccedil;&atilde;o de objetivos, entre outros. Isso, algumas vezes faz com que organiza&ccedil;&otilde;es geridas por este perfil se tornem desorganizadas e ca&oacute;ticas.
+        </span>
+      </h3>
+      <h3 class="c2 c5 c12">
+        <a name="h.8cnowt4evoa"></a>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.lo4g5j7q4ijg"></a>
+        <span class="c1">
+          Por outro lado, os CEO&#39;s com um perfil mais focado em implementa&ccedil;&atilde;o a tomar grandes decis&otilde;es ou dar grandes viradas estrat&eacute;gicas. Muitas vezes isso resulta em organiza&ccedil;&otilde;es que quando confrontadas com uma grande decis&atilde;o, acabam desacelerando ou tomando decis&otilde;es mais consensuais.
+        </span>
+      </h3>
+      <h3 class="c2 c8">
+        <a name="h.8npwu7l0oecp"></a>
+        <span>CEO de tempos de guerra versus CEO de tempos de paz</span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.6m28vnrsp6hc"></a>
+        <span class="c1">
+          Dependendo das circunst&acirc;ncias da companhia, ela precise de diferentes perfis adotados pelo CEO. Um era de paz significa que a empresa j&aacute; possui a vantagem com rela&ccedil;&atilde;o aos demais competidores do mercado e &eacute; o papel do CEO focar em aumentar esta vantagem cada vez mais. Um bom exemplo de uma estrat&eacute;gia de tempos de paz &eacute; o caso do Google buscando acelerar a velocidade da internet das pessoas. O Google j&aacute; possui servi&ccedil;os na nuvem extremamente popluares e conex&otilde;es mais r&aacute;pidas poderiam tornar os servi&ccedil;os da empresa ainda mais populares. Em tempos de paz, CEO&#39;s em geral focam em desenvolver a criatividade dos seus colaboradores. A pol&iacute;tica do Google de oferecer 20% do tempo dos colaboradores par novas iniciativas &eacute; um exemplo cl&aacute;ssico disso. Em tempos de guerra, o jogo muda completamente. O contexto macroecon&ocirc;mico muda, sugem novos desafios no cen&aacute;rio tecnol&oacute;gico e eles podem desafiar a sobreviv&ecirc;ncia da companhia. O CEO em tempos de guerra tem uma enorme responsabilidade. A vida e a morte da empresa est&atilde;o em suas m&atilde;os e dependem de suas decis&otilde;es. Leve em conta Andy Grove, CEO da intel nos anos 80, quando mias de 80% da sua equipe estavam produzindo mem&oacute;rias e a empresa come&ccedil;ou a ser atacada por empresas japonesas de semicondutores com produtos superiores. Grobe tomou a deis&atilde;o de mudar a dire&ccedil;&atilde;o da empresa e investir em microprocessadores. Posteriormente esta se mostrou uma estrat&eacute;gia acertada.
+        </span>
+      </h3>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c2 c8">
+        <a name="h.l8zgc3jsslyv"></a>
+        <span>Para ser um bom CEO &eacute; preciso sentir desconforto</span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.2jns3sphi1hf"></a>
+        <span class="c1">
+          Os bons CEO&#39;s amadurecem no dia a dia. Para liderar uma empresa &eacute; preciso desenvolver habilidades e caracter&iacute;sticas espec&iacute;ficas para aquele emprego em particular. Isso significa que &eacute; quase imposs&iacute;vel dizer se um CEO ser&aacute; bem sucedido no in&iacute;cio. Por isso &eacute; necess&aacute;rio ficar atendo as caracter&iacute;sticas que os grandes CEO&#39;s tendem a exibir e &eacute; papel do iniciante emul&aacute;-las.
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.mekj1xtuorgv"></a>
+        <span class="c1">
+          Uma delas &eacute; a habilidade de oferecer bons feedbacks. Uma boa diretriz &eacute; o chamado &quot;Shit sandwich&quot; (algo como sandu&iacute;che de merda). Para cada t&oacute;pico dif&iacute;cil ou delicado, tente sempre coloc&aacute;-lo entre dois outros t&oacute;picos positivos. &Eacute; importante notar que executivos maduros tendem a encarar esta abordagem como ensaiada e n&atilde;o sincera, por isso ela funciona melhor com colaboradores mais junior.
+        </span>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.kqdi8gnt9uex"></a>
+        <span class="c1">
+          Por fim, &eacute; necess&aacute;rio que os CEO&#39;s aprendam a se sentir confort&aacute;veis fazendo coisas que s&atilde;o essencialmente desconfort&aacute;veis. Assim como os boxeadores precisam treinar habilidades desconfort&aacute;veis em suas pernas, &eacute; papel do CEO fazer as tarefas n&atilde;o naturais de modo natural.
+        </span>
+      </h3>
+      <h3 class="c2 c8">
+        <a name="h.rdjfjgk535q1"></a>
+        <span>Vender sua empresa &eacute; um processo emocial e racional</span>
+      </h3>
+      <p class="c2">
+        <span class="c1">
+          Existem 3 tipos de aquisi&ccedil;&otilde;es na ind&uacute;stria de tecnologia. A primeira &eacute; a aquisi&ccedil;&atilde;o de talento/propriedade intelectual e geralmente ela ocorre na faixa entre U$5 e 50 milh&otilde;es. A segunda &eacute; a aquisi&ccedil;&atilde;o focada em trazer os produtos da empresa para o comprador poder vend&ecirc;-los e estas aquisi&ccedil;&otilde;es ficam na faixa entre U$25 e 250 milh&otilde;es.
+        </span>
+        <span>
+          O terceiro tipo &eacute; quando a empresa a ser adquirida pode romper com o modelo de neg&oacute;cios da empresa que adquire, como ocorre no caso da compra da Opsware pela HP por U$1.6 bilh&otilde;es em 2007.
+        </span>
+      </p>
+      <p class="c2">
+        <span>
+          Toda aquisi&ccedil;&atilde;o &eacute; dif&iacute;cil de lidar emocionalmente e justificar racionalmente. Emocionalmente pelo sentimento de vender seu time e por sair de um neg&oacute;cio que era um volume consistente de receitas e cresce em uma velocidade constante. N&atilde;o se pode deixar estas emoc&otilde;es tirarem sua racionalidade e seu poder de decis&atilde;o. Comunique-se com todos os stakeholders e alinhe as expectativas para garantir que os objetivos de todos os envolvidos no neg&oacute;cio estejam claramente comunicadas. Al&eacute;m disso, garante que voc&ecirc;, como
+        </span>
+        <span class="c1">CEO tenha um sal</span>
+        <span>
+          &aacute;rio competitivo na empresa visando garantir que seu interessena empresa n&atilde;o seja comprometido pelas suas finan&ccedil;as pessoais. Adotando uma perspectiva racional, voc&ecirc; sempre se perguntar&aacute; se a venda &eacute; uma escolha correta. Uma regra de ouro &eacute; n&atilde;o vender se voc&ecirc; tem a vantagem de &quot;first mover&quot; em um mercado grande no qual voc&ecirc; acredita que ir&aacute; liderar. &Eacute; dificil de estimar por isso este assunto demanda uma grande an&aacute;lise por parte dos gestores da empresa e principalmente por parte do CEO.
+        </span>
+      </p>
+      <h3 class="c2 c5 c12">
+        <a name="h.tnwsaqx9ngmc"></a>
+      </h3>
+      <h3 class="c2 c5">
+        <a name="h.xvmd3gcb1ep5"></a>
+        <span>Sobre o autor:</span>
+      </h3>
+      <p class="c2">
+        <span>
+          Ben Horowitz &eacute; um empreendedor, blogueiro, autor e investidor. Ele &eacute; co fundador do fundo de investimentos Andreesen Horowitz. Al&eacute;m da sua passagem pela Netscape, Ben fundou a Opsware, uma empresa de automa&ccedil;&atilde;o de datacenters que foi vendida para a Hewlett-Packard em julho de 2007 por 1.6 bilh&otilde;es de d&oacute;lares. &nbsp;Hoje seu blog conta com mais de 10 milh&otilde;es de leitores
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+  - title: "Fórmula de lançamento"
+    subtitle: "Como Criar Novos Mercados e Tornar a Concorrência Irrelevante"
+    original_title: "Launch: An Internet Millionaire’s Secret Formula To Sell Almost Anything Online, Build A Business You Love, And Live The Life Of Your Dreams."
+    author: "Jeff Walker"
+    recommend: |
+      Fórmula de lançamento é um livro focado no empreendedor solitário, que quer começar seu
+      negócio de informação com poucos recursos ou mudar a maneira como seus negócios atuais 
+      estão indo visando potencializá-los. Como o próprio Jeff Walker menciona, o livro não é um 
+      guia para quem deseja montar startups de tecnologia ou software e sim para aquela pessoa 
+      que domina muito bem uma área do conhecimento e quer transformar seu estilo de vida 
+      criando uma comunidade de contatos e clientes interessados neste conhecimento. O livro 
+      conta com vários exemplos de empreendedores que transformaram seus conhecimentos sobre 
+      diversas áreas (de aulas de tênis pela internet até conhecimento sobre ervas medicinais) em 
+      milhões de dólares. Segundo Jeff Walker, seu método de fórmula de lançamento já totalizou 
+      mais de 500 milhões de dólares em receitas para seus clientes. A fórmula de lançamentos se 
+      baseia no príncipio de que você precisa deixar o mercado tão engajado com seu produto que 
+      seus potenciais clientes praticamente imploram para que você venda para eles, ainda antes do 
+      lançamento do produto.
+    keys:
+      - "Existem ótimos produtos no mercado que não tiveram a visibilidade merecida por falta de uma comunidade e de uma estratégia de lançamento eficiente;"
+      - "Ser dono de uma lista de emails responsiva é como uma licença para imprimir dinheiro. Tenha uma comunidade para se comunicar através de email marketing;"
+      - "Uma lista de clientes, ou pessoas que já compraram algo de você é ainda mais valiosa que uma lista de emails;"
+      - "Construa uma tribo, valide suas ideias e comece a conversação ao redor do seu produto antes mesmo do seu lançamento;"
+      - "Desenvolva seu conhecimento para criar sua comunidade, seja um expert e faça com que as pessoas queiram te ouvir;"
+      - "Ofereça valor antes de pedir pela venda. Não tenha medo de abrir parte do seu conteúdo gratuitamente para seus potenciais clientes;"
+      - "Um lançamento é composto pelas seguintes etapas: Prére lançamento, abertura do carrinho, fechamento do carrinho;"
+      - "Não pense apenas em lançamento de produtos, mas sim em lançamentos de negócios, utilizando sua base de clientes e contatos;"
+      - "O lançamento semente é um tipo de lançamento ideal para quem está começando e ainda não tem uma lista de emails consolidada;"
+      - "O lançamento Joint Venture é um tipo de lançamento ideal para quem já tem mais experiência visando, através de parcerias aumentar muito o alcance do seu produto"
+    lessons:
+      - "A importância de uma lista de emails;"
+      - "Como planejar cada etapa do seu primeiro lançamento (pré lançamento, abertura do carrinho, fechamento);"
+      - "Os diferentes tipos de lançamentos (semente, interno, Joint venture);"
+      - "Como construir um negócio que você ama;"
+    quotes:
+      - "O fato é que você precisa lançar. Cada produto bem sucedido, negócio ou marca começa com um bom lançamento. Você não pode entrar devagar no mercado. Você precisa de momentum e fluxo de caixa, pois eles são o pulso de cada negócio bem sucedido."
+    summary: |
+      <h3 class="c1 c7">
+        <a name="h.m9ygrxz4l9t"></a>
+        <span>
+          Qualquer um pode adotar estrat&eacute;gias de lan&ccedil;amento e ser bem sucedido.
+        </span>
+      </h3>
+      <p class="c1">
+        <span>
+          Jeff Walker nunca se enquadrou no mercado corporativo. Ap&oacute;s algum tempo trabalhando em uma grande corpora&ccedil;&atilde;o ele optou por ficar em casa cuidando dos seus filhos, enquanto sua esposa trabalhava para prover o sustento da fam&iacute;lia. Trabalhando de casa, com apenas um computador e seu conhecimento sobre o mercado financeiro, Jeff come&ccedil;ou a ganhar dinheiro atrav&eacute;s de uma newsletter focada no mercado de investimentos. Ao longo dos anos ele foi desenvolvendo uma &quot;receita&quot; para lan&ccedil;ar novos produtos e gerar mais dinheiro em curtos espa&ccedil;os de tempo que mudou sua vida e permitiu que ele tivesse sua independ&ecirc;ncia financeira e eventualmente gerar mais de 20 milh&otilde;es de dol&aacute;res em vendas do seu m&eacute;todo.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c7">
+        <a name="h.pkcj8a3pdzzv"></a>
+        <span>
+          Sua lista de emails: O ponto chave da f&oacute;rmula de lan&ccedil;amento
+        </span>
+      </h3>
+      <p class="c1">
+        <span>
+          Uma lista de emails responsiva garante sua capacidade de gerar receitas sob demanda. Listas de emails s&atilde;o muito mais poderosas que as m&iacute;dias sociais ou outras formas de contatos. Para gerar uma boa lista de emails voc&ecirc; precisa entender como criar as chamadas squeeze pages (p&aacute;ginas que oferecem um incentivo gratuito, em troca do email do visitante) e saber gerar tr&aacute;fego para estas p&aacute;ginas. Para criar uma lista responsiva, &eacute; necess&aacute;rio sempre criar intera&ccedil;&otilde;es com seus leitores, solicitar feedbacks e compartilhar conte&uacute;do valioso. Voc&ecirc; pode gerar tr&aacute;fego para suas squeeze pages e assim gerar uma lista de emails mais forte atrav&eacute;s de parcerias, publica&ccedil;&atilde;o em redes sociais e anunciando nas mais diversas ferramentas de publicidade online. A &uacute;nica coisa mais poderosa que uma lista de emails interessados no seu conhecimento, &eacute; uma lista de clientes. Pessoas que j&aacute; compraram seus produtos tem alto potencial de comprar novamente e geram retornos financeiros ainda maiores.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c7">
+        <a name="h.sfueeccpx0r8"></a>
+        <span>Entendendo os gatilhos mentais</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Existem v&aacute;rios gatilhos mentais que fazem com que as pessoas queiram comprar seus produtos e serem influenciados pelo seu neg&oacute;cio. S&atilde;o eles:
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c4">Autoridade</span>
+        <span>
+          : Se algu&eacute;m percebe voc&ecirc; como uma autoridade na sua &aacute;rea, eles tem interesse em ouvir sua opini&atilde;o. Se voc&ecirc; consegue autoridade, voc&ecirc; est&aacute; a meio caminho para ser ouvido.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c4">Confian&ccedil;a</span>
+        <span>
+          : N&atilde;o basta saber muito sobre um assunto e ser uma autoridade. Voc&ecirc; tem que ser confi&aacute;vel e honrar suas promessas.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c4">Reciprocidade</span>
+        <span>
+          : Se voc&ecirc; oferece algo de valor a algu&eacute;m ele sente a necessidade de te dar algo em troca. Utilizar esta &quot;gratid&atilde;o&quot; tamb&eacute;m &eacute; um gatilho poderoso.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c4">Comunidade</span>
+        <span>
+          : Ao se sentir parte de um grupo, as pessoas tendem a acompanhar decis&otilde;es e opini&otilde;es daquele grupo.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c4">Antecipa&ccedil;&atilde;o</span>
+        <span>
+          : Quando algu&eacute;m sente que algo est&aacute; por vir, ela fica curiosa e ansiosa e isso garante que voc&ecirc; tenha aten&ccedil;&atilde;o do seu p&uacute;blico. Criar antecipa&ccedil;&atilde;o antes de um lan&ccedil;amento &eacute; cr&iacute;tico para seu sucesso.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c4">Conversa&ccedil;&atilde;o</span>
+        <span>
+          : A maior parte das pessoas est&aacute; mais interassada no que elas dizem do que no que as outras pessoas dizem. Portanto criar uma conversa&ccedil;&atilde;o e &quot;ouvir&quot; sua audi&ecirc;ncia ir&aacute; ajudar voc&ecirc; a ter sucesso e fugir do tradicional mon&oacute;logo do marketing tradicional.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c4">Prova Social</span>
+        <span>
+          : as pessoas podem te respeitar pelo seu conhecimento, mas um jeito poderoso de ampliar sua autoridade &eacute; mostrar provas sociais que voc&ecirc; realmente &eacute; uma autoridade no assunto. Utilize depoimentos de clientes, casos de sucesso e outros para garantir que voc&ecirc; tenha sua prova social.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c7">
+        <a name="h.l2bz5gmzifka"></a>
+        <span>
+          A carta de vendas ideal: Como distribuir conte&uacute;do pr&eacute; lancamento
+        </span>
+      </h3>
+      <p class="c1">
+        <span>
+          A carta de vendas sempre foi uma ferramenta tradicional utilizada por muitos vendedores. Ela consiste em um grande conte&uacute;do (em alguns casos podendo chegar a 10 p&aacute;ginas) focado exclusivamente em convencer o leitor a comprar seu produto. Para o conte&uacute;do pr&eacute; lan&ccedil;amento, Jeff Walker prop&otilde;e que a nova carta de vendas deve ser horizontal, distribu&iacute;da ao longo do tempo e ganhando consentimento em etapas no pr&eacute; lan&ccedil;amento de um produto. Voc&ecirc; precisa atrair a aten&ccedil;&atilde;o e dar algo de valor para seu potencial cliente ao inv&eacute;s de apenas &quot;tentar fechar a venda&quot;.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Ao inv&eacute;s de pensar em 10 p&aacute;ginas, Jeff prop&otilde;e que se pense neste conte&uacute;do distribu&iacute;do em 10 dias, durante o pr&eacute; lan&ccedil;amento. Imagine que voc&ecirc; divida este conte&uacute;do em 3 diferentes partes. No primeiro dia voc&ecirc; enviaria a primeira parte, no terceiro dia a segunda parte e no s&eacute;timo dia voc&ecirc; envia a terceira parte, criando antecipa&ccedil;&atilde;o para o lan&ccedil;amento no d&eacute;cimo dia. Durante este per&iacute;odo, voc&ecirc; est&aacute; gradualmente convencendo seu leitor a aprender mais sobre seu produto, oferecendo conte&uacute;do interessante, gratuito e relevante, de modo que ele seja educado a comprar naturalmente no lan&ccedil;amento.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Em geral a primeira pe&ccedil;a de conte&uacute;do se resume a descrever a oportunidade de transforma&ccedil;&atilde;o. Se por exemplo, voc&ecirc; est&aacute; ensinando seu leitor a investir melhor, o benef&iacute;cio a ser comunicado &eacute; que:
+        </span>
+      </p>
+      <ul class="c6 lst-kix_75r1kh1fvtqs-0 start">
+        <li class="c1 c3">
+          <span>Ele ter&aacute; mais dinheiro;</span>
+        </li>
+        <li class="c1 c3">
+          <span>Ele ter&aacute; mais controle da sua vida</span>
+        </li>
+        <li class="c1 c3">
+          <span>Eles se sentir&atilde;o mais seguros</span>
+        </li>
+      </ul>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c1">
+        <span>
+          Na segunda parte de conte&uacute;do, o foco ser&aacute; direcionado para sua autoridade e a cria&ccedil;&atilde;o de uma comunidade. Ofere&ccedil;a mais conte&uacute;do valioso, informacional, educativo e fa&ccedil;a com que o leitor participe da sua comunidade, seja deixando um coment&aacute;rio, respondendo seu email, etc. Tamb&eacute;m &eacute; importante criar antecipa&ccedil;&atilde;o. O leitor precisa saber que h&aacute; algo por vir e esta pe&ccedil;a deve despertar esta curiosidade.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c1">
+        <span>
+          Na terceira parte, o terceiro contato &eacute; o momento onde a tens&atilde;o se mostra. O leitor j&aacute; respeita sua autoridade, se sente parte da sua comunidade e tem grande antecipa&ccedil;&atilde;o pelo que est&aacute; por vir. &Eacute; um &oacute;timo momento para utilizar sua prova social e depoimentos para ajudar no convencimento do leitor e criar ainda mais antecipa&ccedil;&atilde;o. O papel desta comunica&ccedil;&atilde;o &eacute; gerar ainda mais valor, gradualmente e deixar o leitor t&atilde;o interessado que no momento que voc&ecirc; fa&ccedil;a seu lan&ccedil;amento e abra o carrinho para aceitar pedidos, ele estar&aacute; pronto para comprar imediatamente.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c1">
+        <span>
+          Se voc&ecirc; acertar em cheio no seu pr&eacute; lan&ccedil;amento e seguir esta receita, voc&ecirc; conseguir&aacute; ativar sua tribo para garantir que seu lan&ccedil;amento seja um sucesso. bout the prelaunch sequence.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c7">
+        <a name="h.s3gw08dk5qpc"></a>
+        <span>Hora do lan&ccedil;amento: Abertura do carrinho</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Voc&ecirc; criou um produto interessante, fez uma sequ&ecirc;ncia pr&eacute; lan&ccedil;amento bem sucedida e criou uma lista de milhares de pessoas interessadas no produto que est&aacute; por vir. Antes do seu lan&ccedil;amento, fa&ccedil;a um teste da sua p&aacute;gina de compra, do seu carrinho, verifique se todos os passos do seu processo de compra est&atilde;o de acordo. Crie uma oferta restrita a um intervalo espec&iacute;fico (de 24 horas at&eacute; 7 dias) criando um senso de urg&ecirc;ncia e garantindo que voc&ecirc; pode se comunicar com as pessoas neste intervalo de tempo. Prepare um email para sua lista que lida com a antecipa&ccedil;&atilde;o, explicita a proposi&ccedil;&atilde;o de valor do seu produto e cria a necessidade imediata atrav&eacute;s de algum incentivo por tempo limitado. Durante o lan&ccedil;amento, esteja sempre acompanhando os feedbacks, emails e as compras efetivadas do seu produto. Se prepare para picos de tr&aacute;fego e garanta que seus servidores n&atilde;o ir&atilde;o ficar indispon&iacute;veis. Antes do &quot;fechamento do carrinho&quot; ou do fim da sua oferta exclusiva para os seguidores pr&eacute; lan&ccedil;amento, envie emails lembrando que a oferta se encerra em um tempo determinado.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c7">
+        <a name="h.uyveix8caj97"></a>
+        <span>
+          N&atilde;o tem uma lista? Fa&ccedil;a um lan&ccedil;amento semente.
+        </span>
+      </h3>
+      <p class="c1">
+        <span>
+          Para fazer um lan&ccedil;amento semente, voc&ecirc; precisa compilar uma lista pequena, de pessoas muito interessadas em algo que voc&ecirc; domine. Utilize redes sociais, seus contatos, e outros canais de distribui&ccedil;&atilde;o para come&ccedil;ar esta lista. Uma vez que voc&ecirc; tenha uma lista de algumas centenas de pessoas, engaje-se com elas e descubra: Quais as suas d&uacute;vidas? Quais suas paix&otilde;es? Convide-as para co criar o produto com voc&ecirc;. Este conjunto inicial de pessoas tende a ser muito parecido com voc&ecirc; logo voc&ecirc; pode ser ainda mais pr&oacute;ximo na linguagem.
+        </span>
+        <span class="c5">
+          Ao fazer um lan&ccedil;amento semente, tamb&eacute;m &eacute; importante se prepapar para lan&ccedil;amentos futuros. Esta &eacute; a funda&ccedil;&atilde;o de uma rela&ccedil;&atilde;o de longo prazo com seus clientes, portanto &eacute; importante pensar em como seu produto atual crescer&aacute; sua lista e gerar&aacute; mais oportunidades para novas vendas futuras.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c7">
+        <a name="h.aess9vsfmafx"></a>
+        <span>Lan&ccedil;amento Joint Venture</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Este lan&ccedil;amento &eacute; um lan&ccedil;amento para pessoas mais experientes e o pr&oacute;prio Jeff Walker afirma ter gerado mais de U$1 milh&atilde;o em vendas em uma &uacute;nica hora, utilizando esta t&eacute;cnica.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Um lan&ccedil;amento JV precisa de parceiros afiliados que s&atilde;o comissionados e disparam suas listas de emails para sua landing page, ajudando voc&ecirc; a gerar mais resultados. &Eacute; muito importante desenvolver uma lista de parceiros que possuam listas de milhares de emails para maximizar os resultados do seu lan&ccedil;amento.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+      <h3 class="c1 c7">
+        <a name="h.wfk1ab4qvhlf"></a>
+        <span>Crie um neg&oacute;cio que voc&ecirc; ama</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Entendo o seu motivo por traz do seu neg&oacute;cio (al&eacute;m de gerar dinheiro). Atraia clientes que voc&ecirc; gosta de trabalhar e construa rela&ccedil;&otilde;es fortes e reputa&ccedil;&atilde;o no seu mercado. Seja um estudante perp&eacute;tuo, sempre atualizado no seu mercado e vendendo com autoridade mas tamb&eacute;m um toque humano.
+        </span>
+      </p>
+      <h3 class="c1 c7">
+        <a name="h.xvmd3gcb1ep5"></a>
+        <span>Sobre o autor:</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Jeff Walker trabalha com internet deste 1996. Ele come&ccedil;ou vendendo infoprodutos sobre o mercado de a&ccedil;&otilde;es e desenvolveu sua paix&atilde;o por marketing ao longo de anos trabalhando com lan&ccedil;amentos de produtos digitais. Em 2005 ele lan&ccedil;ou seu m&eacute;todo F&oacute;rmula de Lan&ccedil;amento que desde ent&atilde;o j&aacute; ajudou milhares de empreendedores a gerar mais de 400 milh&otilde;es de d&oacute;lares em receitas.
+        </span>
+      </p>
+      <p class="c0">
+        <span></span>
+      </p>
+  - title: "Entregando Felicidade"
+    subtitle: "Um caminho para lucros, paixão e propósito"
+    original_title: "Delivering Happiness: A path to profits, passion, and purpose."
+    author: "Tony Hsieh"
+    recommend: |
+      Esse livro é recomendado para qualquer pessoa interessada em conduzir um negócio bem 
+      sucedido e aprender como lucros, um extraordinário atendimento ao cliente e felicidade podem 
+      coexistir.
+    lessons:
+      - "O livro conta a história de Tony Hsieh e sua empresa, a Zappos, e demonstra como pensar a longo prazo e perseguir suas paixões pode não só gerar lucros mas tambám uma vida feliz para seus empregados, clientes e para você mesmo."
+      - "O livro descreve uma abordagem alternativa para a cultura corporativa ficada no simples conceito de de fazer as pessoas ao seu redor felizes e, ao fazer isso, aumentar sua própria felicidade. "
+      - "Para construir um grande companhia, que é essencial descobrir o que você ama fazer, começando por eliminar o que você não que fazer."
+      - "O crescimento rápido pode matar a sua companhia, já que pode levar contratação de pessoas erradas."
+      - "O aprendizado constante deve ser uma prioridade, para você e para seus funcionários. "
+      - "Acredite na cultura da sua empresa, seu sucesso está atrelado a isso."
+      - "Encontre e foque na única coisa na qual você quer que sua organização seja a melhor do mundo."
+      - "Não foque em criar um buzz em torno da sua companhia e sim construir confiança e engajamento tratando bem as pessoas."
+    summary: |
+      <h3 class="c1 c3">
+        <span class="c4 c7">Descobrindo o que voc&ecirc; ama fazer</span>
+      </h3>
+      <p class="c1">
+        <span>
+          Tanto na vida como nos neg&oacute;cios, voc&ecirc; inevitavelmente vai se deparar com o sucesso e o fracasso. Mas o que realmente importa &eacute; descobrir a coisa pela qual voc&ecirc; &eacute; verdadeiramente apaixonado. Compreender sua paix&atilde;o &eacute; importante porque simplifica todas as decis&otilde;es que voc&ecirc; venha a ter que tomar. Isso te permite ter sempre em vista uma meta definitiva.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Por exemplo, digamos que voc&ecirc; seja um empreendedor a quem foi oferecida uma &oacute;tima oferta para vender sua empresa. Se voc&ecirc; sabe que &eacute; apaixonado pelo seu neg&oacute;cio e ama a satisfa&ccedil;&atilde;o que ele te proporciona, a decis&atilde;o de recusar a oferta &eacute; f&aacute;cil. A paix&atilde;o pelo que voc&ecirc; faz &eacute; mais importante do que ganhar muito dinheiro fazendo coisas que voc&ecirc; odeia. &Eacute; por isso que, antes de qualquer coisas, voc&ecirc; deve decidir se voc&ecirc; vai &quot;parar de perseguir dinheiro e come&ccedil;ar a perseguir sua paix&atilde;o&quot;.
+        </span>
+      </p>
+      <p class="c1">
+        <span>
+          Uma forma de encontrar sua paix&atilde;o &eacute; se aventurar em muitas coisas diferentes para ver o que d&aacute; certo. No m&iacute;nimo, essas experimenta&ccedil;&otilde;es v&atilde;o te mostrar o que voc&ecirc; n&atilde;o quer fazer. Quanto mais coisas voc&ecirc; eliminar da sua lista, mais voc&ecirc; vai saber sobre si mesmo e mais f&aacute;cil ser&aacute; encontrar sua verdadeira paix&atilde;o. Quanto mais perto voc&ecirc; chegar de achar sua paix&atilde;o, menor a probabilidade de voc&ecirc; acabar indo atr&aacute;s dos sonhos errados.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c3 c4">
+          V&aacute; com calma: o crescimento r&aacute;pido pode matar a cultura da sua empresa se as pessoas erradas forem contratadas
+        </span>
+      </h3>
+      <p class="c1">
+        <span class="c3">
+          &Eacute; empolgante quando a sua companhia cresce rapidamente: vendas estourando, investimentos fluindo e novos empregados contratados quase toda semana. Mas tenha cuidado com o super crescimento. De fato, considere-o um sinal de alerta. Crescer rapidamente pode levar &agrave; contrata&ccedil;&atilde;o de pessoas erradas, que, por sua vez, podem desnortear a cultura da sua empresa.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          Independentemente do qu&atilde;o terr&iacute;vel &eacute; sua necessidade por mais pessoal, sempre use o tempo necess&aacute;rio para ponderar cuidadosamente sobre cada contrata&ccedil;&atilde;o. Voc&ecirc; deve assegurar que cada pessoa que entre no seu time compartilhe da sua vis&atilde;o e queira fazer parte da cultura da empresa que voc&ecirc; criou.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          Decis&otilde;es r&aacute;pidas em rela&ccedil;&atilde;o &agrave; contrata&ccedil;&atilde;o poderm causar danos &agrave; cultura existente na empresa se os novos empregados est&atilde;o procurando apenas ganho pessoal e progress&atilde;o na carreira. Se voc&ecirc; cometer esses erros na contrata&ccedil;&atilde;o, um dia vai descobrir que n&atilde;o gosta mais de trabalhar na sua empresa ou com as pessoas que fazem parte dela.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          Isso &eacute; o que aconteceu com Tony Hsieh na sua primeira companhia, LinkExchange. A empresa cresceu t&atilde;o r&aacute;pido que ele nem conhecia algumas pessoas que trabalhavam no seu pr&oacute;prio escrit&oacute;rio. Na pressa e na empolga&ccedil;&atilde;o pelo seu sucesso, LinkExchange contratou empregados que n&atilde;o eram apaixonados pela miss&atilde;o da empresa, pelo contr&aacute;rio, estavam meramente buscando uma grande remunera&ccedil;&atilde;o para financiar suas aposentadorias. Isso foi extremamente prejudicial para a cultura da empresa.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          No final, Tony aprendeu a valiosa li&ccedil;&atilde;o: &eacute; melhor que sua companhia cres&ccedil;a devagar. Desse jeito, o processo de contrata&ccedil;&atilde;o pode ser cuidadosamente monitorado para garantir que todos &agrave; bordo contribuam para a cultura que voc&ecirc; deseja criar. Sacrif&iacute;cios a curto prazo para proteger a cultura da sua empresa s&atilde;o ben&eacute;ficos ao longo prazo.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c4 c3">
+          Fa&ccedil;a do constante aprendizado uma prioridade para voc&ecirc; e seus empregados.
+        </span>
+      </h3>
+      <p class="c1">
+        <span class="c3">
+          Para construir uma grande empresa, voc&ecirc; deve buscar tanto cresimento quanto aprendizado. O cresimento cont&iacute;nuo deve ser um objetivo para o seu neg&oacute;cio e para as pessoas que s&atilde;o parte dele, isso significa instig&aacute;-los a constantemente aprender coisas novas.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          Crie uma cultura que alimente o desenvolvimento pessoal e profissional. Construa uma biblioteca no escrit&oacute;rio, por exemplo, e ofere&ccedil;a a seus funcion&aacute;rios aulas para desenvolvimento de novas habilidades. Seu time deve sentir que seu trabalho &aacute; parte de um prop&oacute;sito maior e que investir tempo em crescimento pessoal e aprendizado n&atilde;o &eacute; apenas permitido, mas tamb&eacute;m encorajado.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          Garanta que todos os seus funcion&aacute;rios estejam continuamente enfrentando novos desafios e oportunidades de cresimento, para que n&atilde;o sintam imobilizados. &Agrave; medida que se desenvolvem, eles podem assumir mais tarefas e responsabilidades, beneficiando muito seu neg&oacute;cio.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          Isso foi exatamente o que aconteceu na Zappos, empresa de Tony Hsieh: funcion&aacute;rios cresceram e se desenvolveram quando foram impelidos a enfrentar novos desafios e essa experi&ecirc;ncia os ajudou a lidar com os desafios que a pr&oacute;pria Zappos enfrentava. A mais valiosa
+        </span>
+        <span class="c3 c15">expertise</span>
+        <span class="c3">
+          &nbsp;que um rec&eacute;m-chegado pode ter &eacute; a habilidade de aprender, crescer e se adaptar.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          Uma funcion&aacute;ria da Zappos, inspirada na liberdade que tinha de propor novas ideias e lidar com projetos mais desafiadores, tornou-se t&atilde;o confiante que come&ccedil;ou a falar sobre a Zappos em confer&ecirc;ncias. Embora tenha come&ccedil;ado como uma t&iacute;mida telefonista, ela eventualmente trabalhou seu caminho para um cargo de gest&atilde;o. Esse crescimento acompanhou tamb&eacute;m sua vida pessoal, inspirando-a a ler mais, buscar um estilo de vida mais saud&aacute;vel e viajar pelo mundo. Hoje ela passa seus feriados escalando vulc&otilde;es na Am&eacute;rica Central.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c4 c3">
+          Tenha em vista um prop&oacute;sito maior para que seu resultado final seja felicidade
+        </span>
+      </h3>
+      <p class="c1">
+        <span class="c3">
+          Ter em vista um prop&oacute;sito maior significa ter um objetivo que v&aacute; al&eacute;m de meramente obter lucros e crescer sua empresa. Embora a Zappos seja um neg&oacute;cio de sapatos, n&atilde;o &eacute; realmente isso que eles est&atilde;o vendendo. A empresa tem um pr&oacute;posito maior: fazer as pessoas felizes. Fazem isso fornecendo um &oacute;timo atendimento ao cliente e encantando as pessoas, indo al&eacute;m de suas expectativas. Seja surpreedendo um cliente melhorando a entrega do produto ou oferecendo trocas gr&aacute;tis, Zappos sempre tem em mente sua meta a longo prazo, n&atilde;o somente suas receitas.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          Ter essas metas a longo prazo, na vida e nos neg&oacute;cios, significa ter sempre que se perguntar porque voc&ecirc; est&aacute; fazendo o que est&aacute; fazendo. Significa que tudo que voc&ecirc; faz deve estar alinhado com o seu prop&oacute;sito maior. Ter esse prop&oacute;sito e se esfor&ccedil;ar por ele todo dia vai eventualmente te fazer mais feliz.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c3">
+          Para Tony Hsieh, o grande objetivo em construir uma companhia baseada na satusfa&ccedil;&atilde;o do cliente e criar uma cultura na qual ele e seus funcion&aacute;rios acreditam &eacute; a felicidade. A sua, a dos seus funcion&aacute;rios e a do seus clientes.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c4 c3">
+          Voc&ecirc; deve acreditar na cultura da sua empresa - seu sucesso est&aacute; atrelado a isso.
+        </span>
+      </h3>
+      <p class="c1">
+        <span class="c3">
+          A cultura da sua companhia &eacute; uma de suas mais importantes caracter&iacute;sticas. Efetivamente, &eacute; a sua marca e seus funcion&aacute;rios s&atilde;o os embaixadores da sua marca.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          Isso significa que voc&ecirc; n&atilde;o pode basear suas decis&otilde;es sobre recrutamento apenas em habilidades e experi&ecirc;ncia. Preferencialmente, voc&ecirc; deve contratar apenas pessoas que se encaixem na cultura da empresa; pessoas que com que voc&ecirc; iria feliz tomar uns drinks depois do trabalho.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          Sentir-se conectado, como se todos fizessem parte da mesma tribo, faz as pessoas felizes e cria um forte sentimento de obriga&ccedil;&atilde;o de trabalhar duro e tratar bem um ao outro. &nbsp;Entretanto, sentir-se conectado n&atilde;o &eacute; suficiente. Seu time deve ter prop&oacute;sitos e paix&otilde;es compartilhadas. Para facilitar isso, s&oacute; contrate pessoas que vivem e respiram seus valores fundamentais, ou seja, os dogmas b&aacute;sicos que guiam todas as decis&otilde;es e pr&aacute;ticas negociais da sua empresa.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          Voc&ecirc; pode come&ccedil;ar procurando por pessoias que compartilhem das suas metas; se voc&ecirc; quer que sua empresa seja um lugar onde funcion&aacute;rios se sintam como uma fam&iacute;lia, por exemplo, ent&atilde;o somente contrate pessoas que acreditam nessa ideia. Quando voc&ecirc; re&uacute;ne pessoas com uma meta em comum, os valores fundamentais de sua empresa ir&atilde;o emergir naturalmente.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          A cultura da empresa &eacute; ainda mais importante que o atendimento ao cliente. Se a cultura est&aacute; certa, um &oacute;timo atendimento ao cliente vai inevitavelmente se desenvolver.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          Para Tony Hsieh, o processo de estimular uma grande cultura envolve muita tentativa e erro, mas o principal ingrediente parece ser reunir o time e passar tempo juntos fora do escrit&oacute;rio. Quando o time inteiro da Zappos se mudou para Las Vegas, crescerem juntos porque tinham que contar um com o outro. Seu time n&atilde;o precisa necessariamente se mudar para uma nova cidade, mas a experi&ecirc;ncia ajudou o time da Zappos a pensar no que era coletivamente importante para eles. Dessa experi&ecirc;ncia vieram seus valores fundamentais.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c4 c3">
+          Encontre e foque na &uacute;nica coisa na qual voc&ecirc; quer que sua organiza&ccedil;&atilde;o seja a melhor do mundo.
+        </span>
+      </h3>
+      <p class="c1">
+        <span class="c0">
+          Ser meramente bom em muitas coisas n&atilde;o &eacute; suficiente. Identificando uma &uacute;nica coisa na qual sua companhia quer ser a melhor do mundo vai ajud&aacute;-lo a se especializar, manter o foco e se tornar excelente naquela coisa.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          Tony Hsieh e o time da Zappos decidiram que atendimento ao cliente era a coisa em que eles queriam ser grandes. Eles queriam que seu atendimento fosse t&atilde;o extraordin&aacute;rio que provocasse uma experi&ecirc;ncia encantadora para seus clientes, entregando-lhes felicidade por meio de um excelente servi&ccedil;o.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          J&aacute; que a cultura de uma empresa e seu atendimento ao cliente est&atilde;o intimamente interligados, um excelente atendimento ao cliente e sua consequente satisfa&ccedil;&atilde;o s&oacute; s&atilde;o poss&iacute;veis se voc&ecirc; trata bem seus funcion&aacute;rios. Funcion&aacute;rios felizes ser&atilde;o apaixonados por seus empregos e far&atilde;o os clientes felizes ao proporcionar um &oacute;timo servi&ccedil;o.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          O conselho mais importante de Tony &eacute; nunca terceirizar a coisa na qual voc&ecirc; quer que sua empresa seja a melhor do mundo. Pela experi&ecirc;ncia com sua antiga companhia, ele aprendeu que a responsabilidade de entregar essa &uacute;nica coisa n&atilde;o poderia ser de apenas um departamento e sim extendida a toda companhia.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          A Zappos demonstrou seu comprometimento em proporcionar um extraordin&aacute;rio atendimento ao cliente de uma forma radical, mudando sua sede para Las Vegas, onde seria o local do call center de suporte ao cliente. Essa foi a forma de a Zappos mostrar que atendimento ao cliente era a maior prioridade para todo o time, incluindo a administra&ccedil;&atilde;o.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c4 c3">N&atilde;o foque em criar um</span>
+        <span class="c4 c3">&nbsp;buzz</span> <sup><a href="#cmnt1" name="cmnt_ref1">[a]</a></sup> 
+        <span class="c4 c3">
+          em torno da sua companhia e sim construir confian&ccedil;a e engajamento tratando bem as pessoas.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">Tentar criar um</span>
+        <span class="c0 c15">buzz</span>
+        <span class="c0">
+          &nbsp;em torno da sua marca &eacute; contraprodutivo e um desperd&iacute;cio de esfor&ccedil;o. Em vez de se estressar sobre como como conseguir aten&ccedil;&atilde;o da m&iacute;dia, foque no que voc&ecirc; faz melhor: entregar um excelente servi&ccedil;o e uma &oacute;tima experi&ecirc;ncia do cliente. Assim, o
+        </span>
+        <span class="c0 c15">buzz</span>
+        <span class="c0">vai se gerar naturalmente.</span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          O objetivo do seu atendimento ao cliente deveria ser criar associa&ccedil;&otilde;es emocionais positivas com a sua marca na cabe&ccedil;a dos seus clientes. Toda intera&ccedil;&atilde;o com o cliente &eacute; uma oportunidade para crescer sua marca atrav&eacute;s da publicidade boca a boca. Entregue um &oacute;timo atendimento ao cliente e deixe seus clientes fi&eacute;is fazer marketing para voc&ecirc;.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          A Zappos desenvolveu um p&uacute;blico fiel gra&ccedil;as ao fant&aacute;stico suporte ao cliente, particularmente por meio do atendimento ao cliente por telefone.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          A Zaapos investe o dinheiro que gastaria em publicidade tradicional em melhorar a experi&ecirc;ncia do seu cliente. Isso permite algumas regalias ao cliente, como frete gr&aacute;tis em todo pedido, uma pol&iacute;tica de troca de 365 dias, envio inesperado no dia seguinte e uma maravilhosa assist&ecirc;ncia por telefone. Pelo fato de a Zappos ir al&eacute;m das suas obriga&ccedil;&otilde;es para impressionar seus clientes, o
+        </span>
+        <span class="c0 c15">buzz</span>
+        <span class="c0">
+          naturalmente surgiu entorno de sua marca e chamou aten&ccedil;&atilde;o da m&iacute;dia.
+        </span>
+      </p>
+      <p class="c1">
+        <span class="c0">
+          Quando voc&ecirc; est&aacute; fazendo alguma coisa que naturalmente cria hist&oacute;rias interessantes, as pessoas v&atilde;o falar sobre ela e a m&iacute;dia vai acompanh&aacute;-la.
+        </span>
+      </p>
+      <h3 class="c8 c11 c25">
+        <a name="h.vjtyskbj10fm"></a>
+        <span class="c0 c7 c10">Sobre o autor</span>
+      </h3>
+      <p class="c8 c11">
+        <span>Tony Hsieh &eacute; um empreendedor &nbsp;e</span>
+        <span>venture captalist</span> <sup><a href="#cmnt2" name="cmnt_ref2">[b]</a></sup> 
+        <span>
+          americano, mais conhecido como o CEO da Zappos.com. Ele vendeu sua companhia anterior, a LinkExchange, para a Microsoft por 265 milh&otilde;es de d&oacute;lares, em 1999.
+        </span>
+        <span class="c3">
+          Em 2010, Entregando Felicidade estreou em primeiro lugar na lista de best sellers do New York Times e, desde ent&atilde;o, Hsieh foi considerado um especialista em atendimento ao cliente e cultura corporativa. Ele tamb&eacute;m &eacute; reconhecido como um usu&aacute;rio influente do twitter e hoje conta com mais de 2 milh&otilde;es de seguidores.
+        </span>
+      </p>
+      <div class="c16">
+        <p class="c23">
+          <a href="#cmnt_ref1" name="cmnt1">[a]</a>
+          <span class="c6">traduz ou deixa em ingl&ecirc;s mesmo?</span>
+        </p>
+      </div>
+      <div class="c16">
+        <p class="c23">
+          <a href="#cmnt_ref2" name="cmnt2">[b]</a>
+          <span class="c6">como traduz?</span>
+        </p>
+      </div>
+  - title: "A Estratégia do Oceano Azul"
+    subtitle: "Como Criar Novos Mercados e Tornar a Concorrência Irrelevante"
+    original_title: "Blue Ocean Strategy - How to Create Uncontested Market Space and Make the Competition Irrelevant"
+    author: "W. Chan Kim & Renée Mauborgne"
+    recommend: |
+      Esse livro revolucionário fornece uma estrutura organizada para identificar e implementar as
+      diferenciadas “estratégias do oceano azul” em todas as indústrias. A estratégia do oceano
+      azul explica como “navegar” seu negócio em novos mercados com menos competição e maior 
+      lucratividade. Escrito por W. Chan Kim e Renée Mauborgne, o livro contem recente pesquisa
+      sobre o impacto das ideias inovadoras nas velhas indústrias. Os cativantes exemplos de 
+      negócios por si só valem a leitura. Até os apêndices deixam a leitura interessante e contêm 
+      exemplos mais detalhados sobre produtos, do Model T até os cinemas (os autores explicam 
+      como os invovadores reinventaram os cinemas e criaram seu próprio fenônemo do oceano 
+      azul). Enquanto o livro propõe regras e princípios a serem seguidas por corajosos estrategistas, 
+      administradores podem facilmente navegar até o conselho estratégico chave dos autores. Esse 
+      livro é considerado essencial para qualquer estrategista ou empreendedor que quer sair das 
+      águas repletas de tubarões super competitivos e navegar com relativa tranquilidade em mar 
+      aberto. O caminho até lá não é livre de riscos, mas uma grande aventura está reservada para o 
+      corajoso executivo que topar a viagem.
+    keys:
+      - "Modelos militares (destacando-se os confrontos diretos) deram origem à maior parte das estratégias corporativas."
+      - "Quando há competição direta entre negócios, o campo de batalha se torna superlotado, o que leva os participantes a sofrer com redução na fatia de mercado, no crescimento e nos lucros."
+      - "A estratégia do oceano azul cria novos negócios onde nenhum existia, proporcionando uma navegação sem entraves a lançamentos inovadores."
+      - "Esses negócios, como telefonia celular e biotecnologia, mal existiam 30 anos atrás."
+      - "Os negócios do oceano azul são mais rentáveis do que campos onde há competição direta entre as partes."
+      - "Ofereça a seus clientes o “valor da inovação” do oceano azul, que consiste nos avanços tangíveis do produto acompanhados das economias demonstráveis."
+      - "Use um colete salva-vidas: cada um dos os seis passos da implementação da estratégia do oceano azul traz consigo um risco."
+      - "Os seis passos são: “Reconstruir os limites do mercado”, “Focar no panorama geral”, “Ir além da demanda existente”, “Entender a sequência estratégica”, “Superar obstáculos organizacionais chaves”, “Incluir o time executor na estratégia”."
+      - "Use uma “tela de estratégia” para mapear os competidores e explorar suas deficiências."
+      - "Desenvolver a estratégia do oceano azul requer a participação de todos os tripulantes."
+    lessons:
+      - "Porque você deve evitar a competição direta (head-to-head competition);"
+      - "Como abrir um mercado novo com um produto inovador;"
+      - "Quais são os seis princípios que a estratégia do oceano azul requer;"
+      - "Quais são os riscos da estratégia;"
+      - "Como implementá-la."
+    summary: |
+      <h3 class="c0">
+        <a name="h.juyc0ypn28u0"></a>
+        <span>Evitando &aacute;guas cheias de sangue</span>
+      </h3>
+      <p class="c3">
+        <span class="c2"></span>
+      </p>
+      <p class="c4">
+        <span>
+          As estrat&eacute;gias tradicionais de neg&oacute;cios se originam de modelos militares. Elas se baseiam em verdadeiras aventuras &eacute;picas, enfatizando a captura do inimigo para conquistar uma fortaleza competitiva. At&eacute; mesmo palavras chaves do universo corporativo - &ldquo;headquarters&rdquo;, &ldquo;officers&rdquo;, &ldquo;front lines&rdquo; - foram emprestadas do universo militar. &nbsp;Enquanto as companhias moldam suas estrat&eacute;gias e tra&ccedil;am seus obejtivos corporativos, proliferam met&aacute;foras militares: seu neg&oacute;cio deve &ldquo;confrontar&rdquo; seus oponentes, torn&aacute;-los &ldquo;inofensivos&rdquo; e ganhar a &ldquo;vantagem&rdquo;. Traduzida em estrat&eacute;gia, essa linguagem gera um modelo para competir em um determinado mercado e levar vantagem sobre os outros participantes do mesmo campo. &nbsp;Essa competi&ccedil;&atilde;o degoladora causa danos aos combatentes corporativos eenche de sangue a &aacute;gua, criando um &ldquo;oceano vermelho&rdquo; deteriorado por perdas na fatia de mercado, nos lucros e no crescimento. Entretanto, por mais que a competitividade vigorosa pare&ccedil;a ser essencial para neg&oacute;cio, n&atilde;o &eacute; a &uacute;nica estrat&eacute;gia corporativa.
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c4">
+        <span>
+          Em vez disso, posicione sua rota rumo &agrave;&rdquo; estrat&eacute;gia do oceano azul&rdquo;, baseada na id&eacute;ia de criar novos mercados onde nenhum &nbsp;existia previamente. Isso pode parecer &nbsp;um conceito &nbsp;fict&iacute;cio, mas muitas ind&uacute;strias modernas - carros, gravadoras, petroqu&iacute;micos e at&eacute; mesmo avia&ccedil;&atilde;o - n&atilde;o existiam no s&eacute;culo passado. Nos &uacute;ltimos 30 anos vimos nascer novas e multibilion&aacute;rias ind&uacute;strias, encluindo a de telecomunica&ccedil;&otilde;es m&oacute;vel e a de biotecnologia.Que estrategistas perspicazes podem &nbsp;prever as ind&uacute;strias de &ldquo;oceano azul&rdquo; que ir&atilde;o emergir nas pr&oacute;ximas d&eacute;cadas? Isso n&atilde;o &eacute; uma pergunta hipot&eacute;tica. Pelo contr&aacute;rio, &eacute; a pergunta revolucion&aacute;ria do momento.
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c4">
+        <span>
+          O pensamento do oceano azul n&atilde;o apenas criou novas ind&uacute;strias - criou novas ind&uacute;strias excepcionalmente lucrativas. Dentre 108 companhias, 86% da expans&atilde;o de neg&oacute;cios emanou de mercados competitivos j&aacute; existentes. Esse tipo de expans&atilde;o produziu 62% &nbsp;do total de receita, mas apenas 39% do total de lucros . Os neg&oacute;cios de oceano azul &nbsp; quase inverteram as figuras: sua expans&otilde;e &eacute; respons&aacute;vel por 38% do total de receita e 61% do total de lucros. &nbsp;A busca das corpora&ccedil;&otilde;es por inova&ccedil;&atilde;o lucrativa faz necess&aacute;rio o desenvolvimento da estrat&eacute;gia do oceano azul. Inova&ccedil;&otilde;es ocorrem hoje num ritmo intenso devido &agrave; globaliza&ccedil;&atilde;o, superprodu&ccedil;&atilde;o e tecnologia, o que facilita e acelera a cria&ccedil;&atilde;o de produtos &nbsp;muito parecidos entre si. Grandes marcas encaram uma extraordin&aacute;ria invas&atilde;o de novos competidores, enquanto consumidores baseiam suas decis&otilde;es somente no pre&ccedil;o. Para escapar desse ciclo &ldquo;oceano vermelho&rdquo;, com intensa e direta competi&ccedil;&atilde;o, algumas companhias tem criado novas opera&ccedil;&otilde;es lucrativas usando a estrat&eacute;gia do &ldquo;oceano azul&rdquo;. Essas empresas come&ccedil;aram criando um &ldquo;valor de inova&ccedil;&atilde;o&rdquo; para &nbsp;abastecer a mentalidade do oceano azul.
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c4">
+        <span>
+          Pense na Starbucks, que fez do caf&eacute; uma forma de divertimento local, ou a Southwest Airlines, que tornou bugdet flying divertido e lucrativo. The Body Shop &eacute; outra empresa que, com seus cosm&eacute;ticos naturais e de pre&ccedil;o acessivel, estabeleceu um novo oceano azul em uma ind&uacute;stria de alta qualidade repleta de competidores muito caros. O caf&eacute;, os v&ocirc;os divertidos e os cremes de m&atilde;o com ess&ecirc;ncia natural s&atilde;o todos inova&ccedil;&otilde;es de valor (value innovations). Qualquer empresa, independente do tamanho, hist&oacute;ria, or&ccedil;amento, localiza&ccedil;&atilde;o ou nacionalidade pode explorar uma inova&ccedil;&atilde;o de valor. Mas para ser bem-sucedida, uma inova&ccedil;&atilde;o de valor deve proporcionar efetiva economia e um benef&iacute;cio apreci&aacute;vel que o consumidor possa usar imediatamente. Tenha certeza de que o seu valor de inova&ccedil;&atilde;o &eacute; acess&iacute;vel o suficiente para que &nbsp;a maioria dos clientes compreenda seu benef&iacute;cio tecnologico e o coloque em uso imediatamente. Pela perspectiva da estrat&eacute;gia, os planos de oceano azul s&atilde;o mais vi&aacute;veis quando s&atilde;o parte de um processo instr&iacute;nseco da corpora&ccedil;&atilde;o, envolvendo melhoras nas opera&ccedil;&otilde;es, funcionalidade e pre&ccedil;o. Isso contrasta nitidamente com a introdu&ccedil;&atilde;o habitual, direta do produto, que n&atilde;o melhora as opera&ccedil;&otilde;es da companhia e n&atilde;o tem impacto na estrat&eacute;gia corporativa global.
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <h3 class="c0">
+        <a name="h.urncmmjx0e7f"></a>
+        <span>Li&ccedil;&otilde;es aprendidas com o Circo</span>
+      </h3>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c4">
+        <span>
+          A companhia de entretenimento canadense Cirque du Soleil, &eacute; um exemplo claro do sucesso do oceano azul. Ela introduziu uma forma inteiramente nova de entretenimento ao vivo baseado num modelo mais limitado, o circo tradicional. Redefinindo o prop&oacute;sito de todo elemento do modelo antigo, da tenda aos animais e aos espet&aacute;culos acrob&aacute;ticos, o Cirque de Soleil essencialmente recriou seu neg&oacute;cio e formulou uma nova forma de entretenimento. Para fazer isso: cultivou uma audi&ecirc;ncia totalmente nova de adultos que preferem o teatro ao circo; desenvolveu um formato de entretenimento intelectual e dram&aacute;tico; reduziu sua estrutura de custos e aumentou o pre&ccedil;o dos ingressos acima do pre&ccedil;o cobrado por circos tradicionais para competir com os pre&ccedil;os das pe&ccedil;as da Broadway;
+        </span>
+      </p>
+      <p class="c4">
+        <span>
+          Como resultado dessa nova abordagem, o Cirque du Soleil levou menos de 20 anos para ultrapassar os lucros alcan&ccedil;ados por Ringling Bros e Barnum &amp; Bailey Circus em mais de 100 anos de perfomances circenses ao redor do mundo. Sem nenhuma competi&ccedil;&atilde;o direta, o Cirque du Soleil teve &ecirc;xito redefinindo totalmente sua fun&ccedil;&atilde;o corporativa, sua audi&ecirc;ncia e seu mercado. Essa abordagem contrasta diretamente com o conceito de &tilde;determinismo circundante&quot;(environmental determinism), que diz que os neg&oacute;cios em qualquer ind&uacute;stria devem aceitar sua realidade e competir dentro dos limites da ind&uacute;stria. Esse tipo de pensamento gera situa&ccedil;&otilde;es de oceano vermelho, onde empresas competem pelo pre&ccedil;o e pequena diferencia&ccedil;&atilde;o no produto. Compare essa situa&ccedil;&atilde;o com a conquista do Cirque du Soleil: criar uma forma inteiramente nova de entretenimento que desafiou tradicionais classifica&ccedil;&otilde;es.
+        </span>
+      </p>
+      <h3 class="c0 c13">
+        <a name="h.6zkr6076jrwn"></a>
+      </h3>
+      <h3 class="c0">
+        <a name="h.6zkr6076jrwn"></a>
+        <span>Seis princ&iacute;pios da Estrat&eacute;gia do Oceano Azul</span>
+      </h3>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c4">
+        <span>
+          Os riscos inerentes &agrave; tradicional estrat&eacute;gia baseada no oceano vermelho s&atilde;o conhecidas. Os empres&aacute;rios agora precisam saber os princ&iacute;pios - e riscos - que est&atilde;o na base da estrat&eacute;gia do oceano azul.
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <h3 class="c0">
+        <a name="h.see3vmbqte0k"></a>
+        <span>1) Reconstrua os limites do mercado</span>
+      </h3>
+      <p class="c4">
+        <span>
+          Reavalie as premissas que formam as suposi&ccedil;&otilde;es da sua ind&uacute;stria e molde o modelo de neg&oacute;cios da sua empresa. Estrategicamente examine as diretrizes competitivas chaves da sua ind&uacute;stria (como prefer&ecirc;ncias do cliente, qualidade dos produtos, pre&ccedil;o e n&iacute;vel de qualidade) para criar uma &quot;tela de estrat&eacute;gia&quot; (&quot;strategy canvas&quot;) que mostre cada fator graficamente. Para uma nova perspectiva, explore quais padr&otilde;es de ind&uacute;stria e mercado voc&ecirc; poderia omitir, minimizar, elevar ou reconstruir.
+        </span>
+      </p>
+      <p class="c4">
+        <span>
+          Casella Wines da Austr&aacute;lia usou esse processo anal&iacute;tico para fazer da sua marca Yellow Tail o r&oacute;tulo que cresceu mais r&aacute;pido na hist&oacute;ria dos viticultores americanos e australianos e o vinho tinto mais vendido nos EUA em Agosto de 2003. Baseada em sua an&aacute;lise, Casella simplificou o sabor do seu vinho, tornando-o mais frutado e doce. Alcan&ccedil;ou os bebedores de cerveja e coquet&eacute;is promovendo seu vinho como divers&atilde;o. Quebrando todos os h&aacute;bitos do marketing, a Casella abandonou o apelo tradicionalmente elitista baseado no paladar complexo, no envelhecimento do vinho e na localiza&ccedil;&atilde;o da vin&iacute;cola. Em vez disso, construiu sua marca com uma intrigante estrat&eacute;gia de oceano azul, direcionada e diferenciada. Hoje, a marca navega em um novo espa&ccedil;o de mercado de claras &aacute;guas azuis.
+        </span>
+      </p>
+      <p class="c4">
+        <span>
+          As estrat&eacute;gias de oceano vermelho se baseiam em mercados finitos. Para expandir seus limites de mercado em um vasto oceano azul, olhe para seus competidores chaves. Determine suas limita&ccedil;&otilde;es. N&atilde;o seja m&iacute;ope. Curves, a academia feminina que oferece um vigoroso programa de exerc&iacute;cios com dura&ccedil;&atilde;o de meia hora, tirou proveito do pre&ccedil;o, localiza&ccedil;&atilde;o e facilidade na utiliza&ccedil;&atilde;o para criar um novo mercado e competir com as academias tradicionais. Hoje, &nbsp;&eacute; aberta uma nova mini-academia Curves a cada quatro horas, no mundo inteiro.
+        </span>
+      </p>
+      <p class="c4">
+        <span>
+          Novo Nordisk, um produtor de insulina dinamarqu&ecirc;s, fornecia para m&eacute;dicos at&eacute; reformular seu mercado e come&ccedil;ar a oferecer tratamento individual para diabetes. Para vender seu produto, invocou as emo&ccedil;&otilde;es de consumidor e enumerou
+        </span>
+        <span class="c5">your end user benefits</span> <sup><a href="#cmnt1" name="cmnt_ref1">[a]</a></sup> 
+        <span>
+          . Siga os exemplos da QB House, uma rede de barbearia japonesa que anunciava cortes de cabelo baratos e higi&ecirc;nicos, ou da Cemex, uma produtora de cimento mexicana que promovia
+        </span>
+        <span class="c5">affordable room additions</span> <sup><a href="#cmnt2" name="cmnt_ref2">[b]</a></sup> 
+        <span>
+          . Olhe para o horizonte. A Apple reconheceu uma tend&ecirc;ncia emergente quando capturou o mercado de download de m&uacute;sica. Para explorar uma tend&ecirc;ncia, tenha certeza de que pertence ao seu neg&oacute;cio, tem
+        </span>
+        <span>&nbsp;</span>
+        <span class="c5">momentum</span>
+        <sup>
+          <a href="#cmnt3" name="cmnt_ref3">[c]</a>
+        </sup>
+        <span class="c5">&nbsp;</span>
+        <span>e n&atilde;o pode ser revertida.</span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <h3 class="c0">
+        <a name="h.40393gx57cxl"></a>
+        <span>2) Foque no panorama geral, n&atilde;o nos n&uacute;meros.</span>
+      </h3>
+      <p class="c4">
+        <span>
+          Preste aten&ccedil;&atilde;o na vis&atilde;o global e n&atilde;o se perca nas estat&iacute;sticas. Muitos estrategistas ficam atolados nos dados e acabam se perdendo no caminho. Para manter seu senso de dire&ccedil;&atilde;o, use a &nbsp;&quot;tela de estrat&eacute;gia&quot;, uma representa&ccedil;&atilde;o gr&aacute;fica dos produtos, pre&ccedil;os e posi&ccedil;&atilde;o na ind&uacute;stria do seu competidor. Essa tela revela sua curva de valor a clarifica poss&iacute;veis oportunidades. Esse exerc&iacute;cio te ajuda a considerar o ambiente competitivo pelos olhos dos seus clientes, possibilitando que voc&ecirc; afie os fatores que importam para eles. Isso pode mitigar o risco de investir tempo e esfor&ccedil;o na dire&ccedil;&atilde;o errada. Quando a Samsung Eletronics da Cor&eacute;ia prepara novos produtos, como as TVs de LCD de 40 polegadas e o telefone celular mais vendido no mundo, ela usa times interdepartamentais treinados para usar a abordagem da &quot;tela de estrat&eacute;gias&quot;. Os times melhoram as tecnologias existentes para entregar novos benef&iacute;cios que seus clientes possam aproveitar prontamente e rapidamente.
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <h3 class="c0">
+        <a name="h.qu57jxpgbye1"></a>
+        <span>3) V&aacute; al&eacute;m da demanda existente</span>
+      </h3>
+      <p class="c4">
+        <span>
+          Neg&oacute;cios s&atilde;o naturalmente focados em seus clientes atuais, um processo que invariavelmente leva a uma grande an&aacute;lise da segmenta&ccedil;&atilde;o do mercado. Mas o crescimento real vai al&eacute;m da demanda existente. Para chegar ao mar aberto, foque nos potenciais futuros clientes. Para atrair novos clientes para seu neg&oacute;cio de an&uacute;ncios via outdoors, a empresa francesa JCDecaux teorizou que os munic&iacute;pios estariam mais interessados em an&uacute;ncios por outdoor se pudessem consegu&iacute;-los de gra&ccedil;a e sem qualquer preocupa&ccedil;&atilde;o com manuten&ccedil;&atilde;o. Para preencher esses crit&eacute;rios, a empresa construiu equipamento dur&aacute;vel para suporte dos an&uacute;ncios nas ruas e assinou contratos longos com as cidades. Isso atraiu mais anunciantes. Hoje, a empresa opera em 33 pa&iacute;ses e domina, com lucro, esse setor especializado de an&uacute;ncios.
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <h3 class="c0">
+        <a name="h.yy3vhf7pjrfu"></a>
+        <span>4) Entenda a sequ&ecirc;ncia estrat&eacute;gica</span>
+      </h3>
+      <p class="c4">
+        <span>
+          Execute sua estrat&eacute;gia sequencialmente para alcan&ccedil;ae seu &quot;valor de inova&ccedil;&atilde;o&quot;. Ter uma nova e extravagante tecnologia n&atilde;o significa que voc&ecirc; tem um produto de oceano azul. Inova&ccedil;&atilde;o tecnol&oacute;gica n&atilde;o &eacute; necessariamente &quot;valor de inova&ccedil;&atilde;o&quot;. Para ser cativante, a tecnologia deve fornecer conveni&ecirc;ncia, seguran&ccedil;a e entretenimento. Mapeie a experi&ecirc;ncia que voc&ecirc; quer que os compradores tenha em diversos est&aacute;gios. Avalie a utilidade, conforto,
+        </span>
+        <span>&nbsp;</span>
+        <span class="c5">handiness</span>
+        <sup>
+          <a href="#cmnt4" name="cmnt_ref4">[d]</a>
+        </sup>
+        <span>
+          , seguran&ccedil;a, valor de entretenimento e sustentabilidade ambiental do seu produto &agrave; luz de como cada fator afeta o consumidor quando o compra, leva para casa, utiliza, aumenta, mant&eacute;m funcionando e, eventualmente, se livra dele. Para desenvolver sua estrat&eacute;gia de oceano azul, siga quatro passos l&oacute;gicos. Pergunte, nessa ordem: 1- Porque alguem deveria comprar seu produto? Ele tem alguma utilidade excepcional?; 2 - Ele tem um pre&ccedil;o justo para atrair uma grande audi&ecirc;ncia?; 3- Voc&ecirc; pode cri&aacute;-lo a um pre&ccedil;o que te possibilite lucrar?; 4- H&aacute; algum impedimento que desencoraje o mercado a aceitar o seu produto?
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <h3 class="c0">
+        <a name="h.p6bl0klormcx"></a>
+        <span>5) Supere obst&aacute;culos organizacionais chaves</span>
+      </h3>
+      <p class="c4">
+        <span>
+          Uma execu&ccedil;&atilde;o bem-sucedida requer que sua companhia resolva diverg&ecirc;ncias departamentais internas. Como nadadores na costa de um novo mar, muitos sujeitos corporativos sentem uma trepida&ccedil;&atilde;o significante quando adentram no mercado do oceano azul. Gerentes podem se incomodar com a necessidade de uma grande mudan&ccedil;a, com os problemas que podem advir a partir da realoca&ccedil;&atilde;o de recursos, se as novas pr&aacute;ticas ir&atilde;o funcionar corretamente e como essa transi&ccedil;&atilde;o vai transformar a hieraquia social existente. Para implementar mudan&ccedil;a com o m&iacute;nimo de ruptura, use a &quot;lideran&ccedil;a do ponto de inflex&atilde;o&quot;(&quot;tipping point leadership&quot;). Essa forma de lideran&ccedil;a foi originada das observa&ccedil;&otilde;es do autor Malcolm Gladwell em seu livro The Tipping Point. Ele escreve que certas a&ccedil;&otilde;es tem uma influ&ecirc;ncia desproporcional se acontecerem exatamente no mesmo momento. A chave &eacute; usar recursos quando eles s&atilde;o mais poderosos.
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <h3 class="c0">
+        <a name="h.t3rucg3x72i"></a>
+        <span>6) Build execution into strategy</span>
+      </h3>
+      <p class="c4">
+        <span>
+          Reduza o risco da sua administra&ccedil;&atilde;o incorporando a implementa&ccedil;&atilde;o do oceano azul no processo cont&iacute;nuo da sua empresa. J&aacute; que construir uma estrat&eacute;gia de oceano azul envolve incerteza e risco, criar confian&ccedil;a entre todos os participantes &eacute; essencial. Um bem-sucedido lan&ccedil;amento de oceano azul requer esfor&ccedil;o extra de uma tripula&ccedil;&atilde;o unida. Conecte os tr&ecirc;s Es - engagement (compromisso) , explanation (explica&ccedil;&atilde;o) e expectation (expectativa) - com o atual processo de desenvolvimento de estrat&eacute;gia e a&ccedil;&atilde;o em todos os n&iacute;veis da sua organiza&ccedil;&atilde;o. Depois, zarpe.
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <h3 class="c0">
+        <a name="h.s4x1jnsa0qtz"></a>
+        <span>Sobre os Autores</span>
+      </h3>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c4">
+        <span>
+          W. Chan Kim &eacute; professor de estrat&eacute;gia e gest&atilde;o internacional no INSEAD em Fontainebleau, Fran&ccedil;a. Anteriormente, ele lecionou na Escola de Neg&oacute;cios da Universidade de Michigan. Escreveu para v&aacute;rios jornais como o Financial Times, The Wall Street Journal e The New York Times e &eacute; fundador da Value Innovation Network.
+        </span>
+      </p>
+      <p class="c4">
+        <span>
+          Ren&eacute;e Mauborgne &eacute; professora de estrat&eacute;gia e gest&atilde;o na INSEAD
+        </span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <p class="c3">
+        <span class="c2"></span>
+      </p>
+      <p class="c3">
+        <span></span>
+      </p>
+      <div class="c6">
+        <p class="c7">
+          <a href="#cmnt_ref1" name="cmnt1">[a]</a>
+          <span class="c10">os benef&iacute;cios para o usu&aacute;rios final</span>
+        </p>
+      </div>
+      <div class="c6">
+        <p class="c7">
+          <a href="#cmnt_ref2" name="cmnt2">[b]</a>
+          <span class="c10">
+            que vendia uma maneira para as pessoas fazerem puxadinhos econ&ocirc;micos.
+          </span>
+        </p>
+      </div>
+      <div class="c6">
+        <p class="c7">
+          <a href="#cmnt_ref3" name="cmnt3">[c]</a>
+          <span class="c10">momentum n&atilde;o se traduz</span>
+        </p>
+      </div>
+      <div class="c6">
+        <p class="c7">
+          <a href="#cmnt_ref4" name="cmnt4">[d]</a>
+          <span class="c10">disponibilidade</span>
+        </p>
+      </div>
+  - title: "Steve Jobs"
+    author: "Walter Isaacson"
+    recommend: |
+      Steve Jobs, o fundador da Apple, surpreendeu o mundo com sua visão criativa e confundiu
+      muita gente com sua personalidade temperamental e muitas vezes cruel. O biógrafo best-seller
+      Walter Isaacson sintetizou esses aspectos conflitantes, entrou no fundo da mente de Jobs, um
+      homem cuja rigorosa e implacável exigência por perfeição por vezes ameaçou encobrir sua 
+      genialidade. Escrita a pedido de Jobs após o diagnóstico do seu câncer - mas sem seu controle
+      - o livro disseca minuciosamente a vida do fundador da Apple através de extensas entrevistas e 
+      pesquisa.
+    keys:
+      - "Steve Jobs sempre soube que era especial - do momento em que descobriu que era adotado até o momento em que conduziu a companhia mais valiosa do mundo."
+      - "Sua busca por perfeição e controle e seu amor por design começaram ainda na sua infância."
+      - "Durante o colegial, Jobs conheceu Steve Wozniak, seu eventual parceiro na Apple Computer."
+      - "Wozniak era o engenheiro nerd e Jobs o gênio do marketing e do design."
+      - "Jobs operou em um \"campo de realidade distorcida\", onde ele pode fazer o que parecia impossível acontecer."
+      - "Sempre foi o rebelde da corporação e seu sucesso com o Macintosh o levou a se desencantar com a empresa que criou."
+      - "Jobs podia ser rude, manipulador, preocupado, autoritário e frio, mas também carinhoso, cativante e charmoso."
+      - "Sua expulsão da Apple em 1985 deu a ele liberdade para seguir sua visão com a Pixar e a NeXT."
+      - "Seu retorno para a Apple trouxe de volta para a empresa lucratividade com produtos inovadores."
+      - "Steve Jobs “put a dent in the universe” de um jeito divertido, inteligente e inovador."
+    lessons:
+      - "Como as visões e a personalidade de Steve Jobs afetaram seus relacionamentos e a administração da Apple."
+      - "Como sua expulsão da Apple o levou a explorar outras perspectivas."
+      - "Como seu retorno liberou a energia criativa da companhia."
+    summary: |
+      <h3 class="c1 c3">
+        <span class="c4">Nascido especial</span>
+      </h3>
+      <p class="c0">
+        <span>
+          Algu&eacute;m que conheceu Steve Jobs quando crian&ccedil;a pode n&atilde;o ter imaginado que ele ascenderia ao topo do mundo dos neg&oacute;cios fundando e conduzindo a companhia mais valiosa do mundo. De origem modesta, quando crian&ccedil;a j&aacute; demonstrava a curiosidade, aud&aacute;cia e for&ccedil;a de vontade que caracterizou sua carreira. Adotado quando crian&ccedil;a, ele se sentiu escolhido, mas batalhou ao longo da sua vida contra sentimentos de abandono. Era descontroladamente precoce, impertinente e inteligente. Na quarta s&eacute;rie, &hellip; Quando tinha 13 anos, telefonou para Bill Hewlett, presidente da Hewlett- Packard para mendigar componentes para um projeto de eletr&ocirc;nica da escola. Sob a tutela de seu pai, Jobs desenvolveu uma paix&atilde;o por design e
+        </span>
+        <span class="c3">craftsmanship</span> <sup><a href="#cmnt1" name="cmnt_ref1">[a]</a></sup> 
+        <span>
+          ; ele aprendeu a se orgulhar de seu trabalho, prestar aten&ccedil;&atilde;o nos detalhes - mesmo aqueles com que ningu&eacute;m se importa - e a exigir perfei&ccedil;&atilde;o dele mesmo e das pessoas a sua volta.
+        </span>
+      </p>
+      <p class="c0">
+        <span>
+          Como adolesecente, Jobs come&ccedil;ou a se interessar pelo campo emergente dos computadores. Abra&ccedil;ou &nbsp;a contracultura do final dos anos 60 no futuro Vale do Sic&iacute;lio. Fez uso de LSD e outros psicod&eacute;licos e, mais tarde, creditou &agrave;s drogas sua vis&atilde;o criativa. Jobs tamb&eacute;m embarcou numa obesess&atilde;o com dietas incomuns durante toda sua vida; foi &quot;frutariano&quot;e chegou a comer apenas uma ou duas refei&ccedil;&otilde;es durante semanas, o que ocasionou ataques de bulimia. Ele normalmente andava descal&ccedil;o e raramente tomava banho, o que levou a que trabalhasse no turno da noite sozinho na Atari, a companhia de jogos. Jobs seguiu seu crescente interesse no Budismo e nas filosofias espirituais orientais passando sete meses na &Iacute;ndia, onde aprendeu o valor da intui&ccedil;&atilde;o e da introspec&ccedil;&atilde;o. Essas experi&ecirc;ncias o levaram a abra&ccedil;ar as possibilidades latentes da computa&ccedil;&atilde;o, mais pelo seu potencial de elevar a consci&ecirc;ncia humana do que pelas suas aplica&ccedil;&otilde;es negociais ou comerciais. Mas as influ&ecirc;ncias Zen n&atilde;o conseguiram amenizar seu comportamento cada vez mais cr&iacute;tico, rude e &quot;malcriado&quot;.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c4">An Apple for Every Day</span>
+      </h3>
+      <p class="c0">
+        <span>
+          Enquanto estudante do colegial, Jobs conheceu Steve Wozniak, um t&iacute;mido e reservado nerd da &aacute;rea eletr&ocirc;nica, que dividia com ele o amor por Bob Dylan e piadas. Eles se uniram para construir e vender as &quot;Caixas Azuis&quot;,
+        </span>
+        <span class="c3">
+          devices that mimicked telephone tones indicating a paid line and thus enabling owners to place free long-distance calls.
+        </span> <sup><a href="#cmnt2" name="cmnt_ref2">[b]</a></sup> 
+        <span class="c3">&nbsp;</span>
+        <span>
+          Wozniak era um t&eacute;cnico mais talentoso, mas Jobs tinha a determina&ccedil;&atilde;o e o esp&iacute;rito para comercializar os primeiros produtos. Jobs monetizava o que Woz inventava.
+        </span>
+        <span class="c3">Drawing from his work</span>
+        <sup>
+          <a href="#cmnt3" name="cmnt_ref3">[c]</a>
+        </sup>
+        <span class="c3">&nbsp;</span>
+        <span>
+          no pomar de uma comuna, Jobs imaginou que &quot;Apple&quot; era um nome suave e n&atilde;o amea&ccedil;ador. Na garagem da fam&iacute;lia de Jobs, Woz criou e Jobs comercializou o Apple e o Apple II.
+        </span>
+      </p>
+      <p class="c0 c2">
+        <span></span>
+      </p>
+      <p class="c0">
+        <span>
+          A abordagem concebida brilhantemente por Jobs para os produtos da Apple consistiu em uma unidade independente com um teclado, fonte de energia e um software que permitiria ao consumidor m&eacute;dio possuir e operar um computador. Jobs retirou a computa&ccedil;&atilde;o do dom&iacute;nio dos nerds e a colocou dentro da casa de pessoas com o primeiro computador pessal. Enquanto Wozniak desenvolvia as placas de circuito,
+        </span>
+        <span class="c3">
+          Jobs bundled the computing power into &ldquo;a friendly package&rdquo; that encompassed his unrelenting drive for perfection
+        </span>
+        <sup>
+          <a href="#cmnt4" name="cmnt_ref4">[d]</a>
+        </sup>
+        <span class="c3">.</span>
+        <span>
+          Como exemplo, ele rejeitou mais de 2.000 tons de bege para a caixa do Apple II e insistiu em oferecer garantia de um ano,
+        </span>
+        <span>
+          quando o padr&atilde;o da ind&uacute;stria era de 90 dias. Quando seus colegas o enfrentavam, Jobs gritava, discursava e &agrave;s vezes chorava, mas geralmente conseguia o que queria. Seus colaboradores mais pr&oacute;ximos aprenderam como lidar com ele, mas ele era o manipulador mestre, julgando os outros para ver como conseguiria fazer as coisas &agrave; sua maneira.
+        </span>
+      </p>
+      <p class="c0">
+        <span>
+          O &iacute;mpeto para realizar ainda mais levou Jobs a reunir um renegado time de &quot;piratas&quot; para competir internamente com o time corporativo da Apple que estava construindo o computador Lisa (nomeado em homenagem a filha ileg&iacute;tima que Jobs primeiramente relutou em reconhecer, mas depois acolheu). Embora muito bem sucedido, o Macintosh dos piratas - homenagem ao tipo de ma&ccedil;a favorito de Jobs- levou a seu crescente desencantamento com a cresente natureza corporativa de sua companhia.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c4">
+          Quando as regras n&atilde;o se aplicam:o &quot;Campo de realidade distorcida&quot; de Jobs
+        </span>
+      </h3>
+      <p class="c0">
+        <span>
+          Jobs tinha uma estranha habilidade de persuadir as pessoas para que seguissem suas vis&otilde;es e ideias. Ele exigia o que os outros consideravam irrealiz&aacute;vel. Assim, vislumbrando o imposs&iacute;vel, ele fez acontacer. Ele mudou a realidade. Dicotomias comandavam seu mundo: ele focou t&atilde;o intensamente no que lhe interessava que, &agrave;s vezes, ignorava todo o resto, incluindo sua esposa, Laureen, seus filhos - Reed, Erin e Eve, e tamb&eacute;m Lisa - e sua fam&iacute;lia e amigos. Ele era cruel e extremamente cr&iacute;tico em rela&ccedil;&atilde;o aos outros e seu trabalho, mas mesmo assim cultivava assistentes fi&eacute;is, quase fan&aacute;ticos. Ele evitou possess&otilde;es materiais, vivendo em casas em sua maior parte n&atilde;o mobiliadas, mas sua paix&atilde;o por produtos fez da Apple um rolo compressor comercial. Jobs acreditava que as regras n&atilde;o se aplicavam a ele. O homem que se recusava a colocar placas nos seus carros e estacionava em vagas reservadas a deficientes inventou produtos que os consumidores nem sabia que queriam, mas pelos quais logo se apaixonaram.
+        </span>
+      </p>
+      <p class="c0">
+        <span>
+          Mesmo antes do diagn&oacute;stico de seu c&acirc;ncer em 2003, Jobs atribu&iacute;a muito do seu comportamento impaciente, muitas vezes desagrad&aacute;vel, ao sentimento de que n&atilde;o viveria muito tempo. Ele sentia a obriga&ccedil;&atilde;o de espalhar sua vis&atilde;o est&eacute;tica e rejeitou a cren&ccedil;a de que o cliente tem sempre raz&atilde;o. Sua expuls&atilde;o da Apple em 1985 possibilitou que Jobs perseguisse seus empreendimentos quixotescos com mais liberdade. Ele fundou uma nova empresa de computa&ccedil;&atilde;o, NeXT, e comprou a Pixar, criadora de Toy Story e outras famosas anima&ccedil;&otilde;es, que ele pessoalmente financiou. Quando a Apple comprou dele a NeXT em 1996, Jobs ficou confuso sobre a possibilidade de retornar para a companhia que ele havia constru&iacute;do. Na sua aus&ecirc;ncia, a Apple passou a enfrentar uma montanha de problemas,
+        </span>
+        <span class="c3">many due to issuing too many undistinguished products.</span>
+        <sup>
+          <a href="#cmnt5" name="cmnt_ref5">[e]</a>
+        </sup>
+        <span class="c3">&nbsp;</span>
+      </p>
+      <p class="c0">
+        <span>
+          Jobs entendeu que a Apple se afastou de sua vis&atilde;o sobre como fazer uma grande empresa: &ecirc;nfase na excel&ecirc;ncia do produto, n&atilde;o no lucro.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c4 c3">Deliberate Design</span>
+        <sup>
+          <a href="#cmnt6" name="cmnt_ref6">[f]</a>
+        </sup>
+      </3>
+      <p class="c0">
+        <span>
+          Steve Jobs aprendeu a import&acirc;ncia da qualidade do design com seu pai, que o ensinou que tornar bonitos os lados escondidos de um gabinete importava tanto quanto criar uma frente elegante. Das suas incurs&otilde;es nas filosofias orientais, Jobs entendeu que o design do produto estava embrulhado na sua ess&ecirc;ncia, n&atilde;o somente na sua apar&ecirc;ncia externa. Jobs elevou esses conceitos ao ponto de acreditar que a apresenta&ccedil;&atilde;o dos produtos da Apple poderia transmitir tanto significado quanto os pr&oacute;prios produtos. At&eacute; o empacotamento poderia ser &quot;teatro&quot;. Jobs envolveu-se tanto nas min&uacute;cias relativas a design e acondicionamento que seu nome aparece em diversas patentes dos produtos da Apple.
+        </span>
+      </p>
+      <p class="c0">
+        <span>
+          Jobs chamou a aten&ccedil;&atilde;o do p&uacute;blico quando a Apple introduziu o iMac, em 1998. O computador redondo, com apar&ecirc;ncia divertida veio com um revestimento semitransparente e era disponibilizado em cinco cores. A janela para o seu funcionamento interno promoveu a est&eacute;tica de Jobs de fazer o interior t&atilde;o atrativo quanto o exterior. O design aparentemente simples do computador deu a falsa impress&atilde;o da dificuldade de produzir sua concha transparente. Quando a Apple extendeu a variedade de cores, Bill Gates da Microsoft pintou seu PC de vermelho e zombou que o iMac seria uma moda passageira.
+        </span>
+      </p>
+      <p class="c0">
+        <span class="c4">Um segundo peda&ccedil;o da ma&ccedil;a</span>
+      </p>
+      <p class="c0">
+        <span>
+          Com uma nova chance para conduzir a companhia que fundou, Jobs se empenhou em salvar a Apple. O mantra da sua administra&ccedil;&atilde;o era &quot;Foco&quot;. Ele rejeitou
+        </span>
+        <span class="c3">scores of developing product lines</span>
+        <sup>
+          <a href="#cmnt7" name="cmnt_ref7">[g]</a>
+        </sup>
+        <span>
+          , demitiu empregados irrelevantes e cortou os estoques inchados. Jobs se transformou: de um rebelde corporativo de esp&iacute;rito livre a um executivo singularmente dedicado, colaborativo, embora ainda vol&aacute;til. Ele acreditava na &quot;colabora&ccedil;&atilde;o profunda&quot;entre departamentos e em contratar e cultivar &quot;A players&quot;, m&atilde;o de obra de alto n&iacute;vel. Assim, uma potencial contrata&ccedil;&atilde;o de marketing tinha
+        </span>
+        <span class="c3">to pass muster with the designers and engineers</span>
+        <sup>
+          <a href="#cmnt8" name="cmnt_ref8">[h]</a>
+        </sup>
+        <span class="c3">.</span>
+      </p>
+      <p class="c0">
+        <span>
+          &quot;Engenharia Simult&acirc;nea&quot; significava que os produtos em desenvolvimento passavam por revis&otilde;es simult&acirc;neas de manufatura, design, marketing e distribui&ccedil;&atilde;o, em vez de passar por cada &aacute;rea sequencialmente. Isso garantia que todos tinham participa&ccedil;&atilde;o no desenvolvimento e cria&ccedil;&atilde;o de novos produtos. Jobs contratou Tim Cook para administrar opera&ccedil;&otilde;es e os dois se conectaram. Cook eventualmente ajudaria Jobs a conduzir a Apple. &nbsp;Os dois insistiram em uma &uacute;nica responsabilidade por perdas e lucros, em vez de atribuir responsabilidade financeira aut&ocirc;noma a separadas fun&ccedil;&otilde;es ou divis&otilde;es. Isso permitiu que todas as partes da Apple trabalhassem coesivamente e inovasse rapidamente. A estrat&eacute;gia funcionou: a Apple, que estava a 90 dias da insolv&ecirc;ncia, transformou uma perda de $1 bilh&atilde;o em 1997 em um lucro de $309 milh&otilde;es um ano depois.
+        </span>
+      </p>
+      <p class="c0">
+        <span>
+          As Apple Stores de hoje s&atilde;o resultado da quase obsessiva necessidade de controle de Jobs. Os computadores eram diferentes, mas os varejistas em geral n&atilde;o focavam em explicar as diferen&ccedil;as para os compradores. Jobs queria administrar a experi&ecirc;ncia do consumidor, do mesmo jeito que havia influenciado em todos os outros aspectos do design e produ&ccedil;&atilde;o dos computadores. Portanto, ele resolver projetar pontos de vendas com o mesmo gosto que ele trouxe para todo o resto. Ele insistiu em locais caros e com grande movimento. Fixou em detalhes como a pavimenta&ccedil;&atilde;o das lojas (arenito cinza azulado Pietra Serena, da It&aacute;lia) e o tom de cinza na sinaliza&ccedil;&atilde;o dos banheiros. Ele patenteou o design das escadarias de tit&acirc;nio e vidro das lojas. Ele queria mais que um loja, queria uma exper&ecirc;ncia do cliente que se associasse ao esp&iacute;rito dos produtos da Apple: divertidos, fac&eacute;is, criativos.
+        </span>
+      </p>
+      <p class="c0">
+        <span class="c4">Al&eacute;m dos computadores</span>
+      </p>
+      <p class="c0">
+        <span>
+          Jobs escolheu &quot;top 100&quot; funcion&aacute;rios (aqueles que ele escolheria para colocar em um &quot;barco salva-vidas e levar para sua pr&oacute;xima companhia&quot;) em um retiro anual para discutir sobre o futuro da Apple. Em 2000, a transforma&ccedil;&atilde;o da empresa come&ccedil;ou. O computador pessoal evoluiu para um cubo digital que poderia administrar o estilo de vida digital do consumidor, desde comunica&ccedil;&otilde;es escritas at&eacute; c&acirc;meras, tocadores de m&uacute;sica e grava&ccedil;&atilde;o de v&iacute;deos. A Apple retirou a palavra &quot;Computers&quot;do seu nome corporativo para explorar o potencial da internet de conectar e integrar esses diferentes aspectos. Por exemplo, o iTunes se desenvolveu a partir da percep&ccedil;&atilde;o de Jobs de que fazer download de m&uacute;sica pela internet mudaria a ind&uacute;stria da m&uacute;sica: a loja do iTunes vendeu um milh&atilde;o de m&uacute;sicas nos primeiros seis dias. O iPod resultou da necessidade de um melhor tocador de m&uacute;sica e, dentre suas inova&ccedil;&otilde;es, est&aacute; inclu&iacute;da a roda de rolagem. O sucesso do iPod, constru&iacute;do sobre as vendas do iMac, consolidaram a marca. Em Janeiro de 2007, o iPod lucrou a metade das receitas da Apple.
+        </span>
+      </p>
+      <p class="c0">
+        <span>
+          Mesmo assim, Jobs continuou procurando o pr&oacute;ximo grande lan&ccedil;amento. Identificando a telefonia celular como a pr&oacute;xima onda, ele &quot;colocou um dente no universo&quot; e revelou o iPhone, combinando o iPod, telefonia e acesso &agrave; internet. Apelidado de &quot;telefone de Jesus&quot;, representou mais de 50% do total dos lucros globais da telefonia celular no ano de 2010. A ideia de uma tablet antecedeu o iPhone, mas em 2010 a experimenta&ccedil;&atilde;o com o iPhone pavimentou o caminho para o pr&oacute;ximo item revolucion&aacute;rio: o iPad.
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c4">A Contrarian with Cancer</span>
+      </h3>
+      <p class="c0">
+        <span>
+          Jobs acreditava que seu c&acirc;ncer, diagnosticado em 2003, resultou dos momentos estressantes que viveu quando conduzia a Apple e a Pixar no final dos anos 90. Um tratamento para pedra no rim o levou a um exame que descobriu seu c&acirc;ncer no p&acirc;ncreas. Mesmo assim, o progn&oacute;stico era bom; o tumor era trat&aacute;vel e de crescimento lento. Entretanto, Jobs (e, mais uma vez, seu &quot;campo de realidade distorcida&quot;) rejeitou as recomenda&ccedil;&otilde;es m&eacute;dicas de cirurgia. Consultou nutricionistas, acupunturistas e videntes; seguiu r&iacute;gidas dietas vgetarianas, submeteu-se a limpezas do c&oacute;lon e baniu toda a negatividade de seus pensamentos. Em 2005, ele fez men&ccedil;&atilde;o a sua mortalidade em um discurso de formatura na Universidade de Stanford. Como um eco da sua cren&ccedil;a de que teria uma morte prematura, Jobs disse aos formandos: &quot;Lembrar que estarei morto em breve &eacute; a ferramenta mais importante que eu encontrei para me ajudar a fazer grandes escolhas na vida&hellip; N&atilde;o h&aacute; raz&atilde;o para n&atilde;o seguir seu cora&ccedil;&atilde;o.&quot;
+        </span>
+      </p>
+      <h3 class="c1 c3">
+        <span class="c4">Um legado de inova&ccedil;&atilde;o</span>
+      </h3>
+      <p class="c0">
+        <span>
+          Steve Jobs fez mais do que construir uma empresa de tecnologia. Ele transformou ind&uacute;strias, inventou novas formas de comunica&ccedil;&atilde;o, colocou o mundo ao alcance da ponta dos dedos e fez isso de forma divertida, inteligente e legal. Sua cren&ccedil;a de que o produto era tudo guiou a filosofia da Apple e seu foco em como o consumidor perceberia e usaria esses produtos. Jobs sentia, da mesma forma que seu &iacute;dolo Edwin Lan da Polaroid, que estava na &tilde;interse&ccedil;&atilde;o das artes com a ci&ecirc;ncia&quot;. Como Walt Disney, William Hewlett e Dave Packard, Jobs queria deixar uma empresa que fizesse uma contribui&ccedil;&atilde;o para a sociedade e representasse mais do que somente lucros. Sentindo-se grato pelo trabalho inovador e revolucion&aacute;rio desses pioneiros, Jobs reconheceu no final que a for&ccedil;a que o conduzia era abrir portas para que outros conquistassem realiza&ccedil;&otilde;es not&aacute;veis. Ele reconheceu que sua personalidade era dif&iacute;cil e que seu comportamento era &agrave;s vezes cruel, mas acreditou que ser super honesto era a &uacute;nica forma de ser o melhor e extrair o melhor daqueles &agrave; sua volta.
+        </span>
+      </p>
+      <p class="c0">
+        <span>
+          Quando perguntaram a Steve Jobs se ele acreditava na vida ap&oacute;s a morte, ele confessou que estava despeda&ccedil;ado. Mas depois reverteu sua resposta ao que ele praticava na Apple. Talvez, ele meditou, a vida tenha um bot&atilde;o liga-desliga: &quot;&Eacute; por isso que eu nunca gostei de colocar bot&otilde;es liga-desliga nos dispositivos da Apple.&quot;
+        </span>
+      </p>
+      <h3 class="c0">
+        <a name="h.s4x1jnsa0qtz"></a>
+        <span>Sobre o Autor</span>
+      </h3>
+      <p class="c0">
+        <span class="c8">Walter Isaacson</span>
+        <span>
+          , que j&aacute; foi presidente da CNN e editor-chefe da Time Magazine, tamb&eacute;m &eacute; autor das biografias de Benjamin Franklin, Albert Einsten e Henry Kissinger.
+        </span>
+      </p>
+      <p class="c0 c2">
+        <span class="c14"></span>
+      </p>
+      <p class="c0 c2">
+        <span></span>
+      </p>
+      <p class="c2 c11">
+        <span></span>
+      </p>
+      <div class="c9">
+        <p class="c6">
+          <a href="#cmnt_ref1" name="cmnt1">[a]</a>
+          <span class="c5">artesanato</span>
+        </p>
+      </div>
+      <div class="c9">
+        <p class="c6">
+          <a href="#cmnt_ref2" name="cmnt2">[b]</a>
+          <span class="c5">
+            que eram dispositivos que &quot;imitavam&quot; os tons de telefone e assim hackear as operadoras para conseguir fazer chamadas de longa dist&acirc;ncia gratuitamente.
+          </span>
+        </p>
+      </div>
+      <div class="c9">
+        <p class="c6">
+          <a href="#cmnt_ref3" name="cmnt3">[c]</a>
+          <span class="c5">A partir do seu trabalho</span>
+        </p>
+      </div>
+      <div class="c9">
+        <p class="c6">
+          <a href="#cmnt_ref4" name="cmnt4">[d]</a>
+          <span class="c5">
+            Jobs uniu poder computacional a uma embalagem amig&aacute;vel, que representava sua obcess&atilde;o pela perfei&ccedil;&atilde;o.
+          </span>
+        </p>
+      </div>
+      <div class="c9">
+        <p class="c6">
+          <a href="#cmnt_ref5" name="cmnt5">[e]</a>
+          <span class="c5">
+            principalmente pelo fato de possuir muitos produtos sem diferencia&ccedil;&atilde;o.
+          </span>
+        </p>
+      </div>
+      <div class="c9">
+        <p class="c6">
+          <a href="#cmnt_ref6" name="cmnt6">[f]</a>
+          <span class="c5">Design em todos os aspectos</span>
+        </p>
+      </div>
+      <div class="c9">
+        <p class="c6">
+          <a href="#cmnt_ref7" name="cmnt7">[g]</a>
+          <span class="c5">linhas de produtos inteiras</span>
+        </p>
+      </div>
+      <div class="c9">
+        <p class="c6">
+          <a href="#cmnt_ref8" name="cmnt8">[h]</a>
+          <span class="c5">
+            que ser sabatinada pelos designers e pelos engenheiros de software.
+          </span>
+        </p>
+      </div>

@@ -1,0 +1,14 @@
+.reset-password__container
+  .reset-password__header
+    = t('.change_password')
+  .reset-password__cta__container
+    = form_for(resource, as: resource_name, url: password_path(resource_name), html: { method: :post, class: 'reset-password__form' }) do |f|
+      div style="margin:0;padding:0;display:inline"
+        = devise_error_messages!
+        = f.hidden_field :reset_password_token
+        .control-group
+          = f.password_field :password, autofocus: true, autocomplete: "off", placeholder: t('.password')
+        .control-group
+          = f.password_field :password_confirmation, autocomplete: "off", placeholder: t('.repeat_password')
+        control-group.submit style="font-size:5px"
+          = f.submit t('.change_my_password')

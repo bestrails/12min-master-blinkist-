@@ -1,0 +1,34 @@
+.modal.fade#promotion-modal aria-hidden="true" aria-labelledby="mySmallModalLabel" role="dialog" tabindex="-1" 
+  .modal-dialog
+    .modal-content
+      .modal-header
+        button.close aria-label="Close" data-dismiss="modal" type="button" 
+          span aria-hidden="true" &times;
+        h5 = t('.title')
+      .modal-body
+        input#subscribe_product_id name="plan_id" type="hidden" value=@yearly.id
+        input#subscribe_coupon name="coupon" type="hidden" value=params[:coupon]
+        .upgrade-container_inner
+          .upgrade-resume-container
+            .upgrade-resume__subscription
+              .well
+                .upgrade-resume__subscription__tags
+                  .pull-left 
+                    strong = t('.item')
+                  .pull-right 
+                    strong = t('.price')
+                .clearfix
+                .upgrade-resume__subscription__info
+                  p.text-left = t('.subcription')
+                  p.text-right = get_promotion_price(@yearly.price, @discount.percentage)
+                .upgrade-resume__subscription__total
+                  p.text-left = t('.total')
+                  p.text-right = get_promotion_price(@yearly.price, @discount.percentage)
+                .upgrade-resume__subscription__coupon_success
+                  span
+                  p.text-right = t('.discount', coupon: (params[:code] || params[:coupon]), percentage: number_to_percentage(@discount.percentage, precision: 0))
+        span.upgrade-resume__subscription__monthly-price = t('.description', amount: get_montly_promotion_price(@yearly.price, @discount.percentage))
+      .modal-footer
+        .shared__purchase-button-container
+            button.upgrade-resume__subscription__button data-toggle="modal" data-target="#credit-card-modal" = t('.proceed')
+        p.upgrade-footer = t('.ends', date: 1.year.ago.strftime('%Y-%m-%d'))

@@ -1,0 +1,139 @@
+doctype html
+html
+  head
+    title 12 min
+    = stylesheet_link_tag 'application', media: 'all'
+    = csrf_meta_tags
+    meta content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1" name="viewport" /
+
+  body
+
+    div.page
+      header
+        - unless !user_signed_in? && request.original_url == root_url
+          .top-menu
+            .top-menu__left
+              - if user_signed_in?
+                = link_to '', library_index_path, class: 'top-menu__logo'
+              - else
+                = link_to '', root_path, class: 'top-menu__logo'
+            - unless subdomain?
+              .top-menu__center
+                .top-menu__item.dropdown
+                  a.top-menu__item__browse data-toggle="dropdown" href="#"
+                    i.top-menu__item__browse-icon
+                    = t('.browse')
+                  ul.top-menu__dropdown.browse.dropdown-menu role="menu" aria-labelledby="dLabel"
+                    li.top-menu__dropdown__item.browse
+                      = link_to t('.all'), category_path('all')
+                    li.top-menu__dropdown__item.browse
+                      = link_to t('.recent'), category_path('recent')
+                    - @tags.each do |tag|
+                      li.top-menu__dropdown__item.browse
+                        = link_to tag.name, category_path(tag)
+            - else
+              ul.nav.navbar-nav
+                li
+                  = link_to t('.books'), admin_books_path
+                li
+                  = link_to t('.discounts'), admin_discounts_path
+                li
+                  = link_to t('.tags'), admin_tags_path
+
+            - unless user_signed_in?
+              .top-menu__right
+                = link_to t('.login'), new_user_session_path(), class: 'cta-link'
+            - else
+              ul.top-menu__right
+                - if current_user.subscription.plan.is_trial? && !current_user.superuser?
+                  .top-menu__right__days-left style='display:block'
+                    = link_to (current_user.subscription.actived? ? (raw t('.trial_expiring', days: "<span class=\"top-menu__right__days-left_green\">#{distance_of_time_in_words(Date.today, current_user.subscription.expires_on)}</span>".html_safe())) : t('.trial_expired')), subscriptions_path, remote: true, class: '_vwo_coal_1405507222862 vwo_loaded'
+                - unless subdomain?
+                  li#search.top-menu__item 
+                    #sb-search.sb-search style=('display:block')
+                      form
+                        input#search.sb-search-input name="search" placeholder=(t('.search')) type="search" value=""
+                        input.sb-search-submit type="submit" value=""
+                        span.sb-icon-search
+                    .search__results
+                      ul.search__results__found-results
+                      ul.search__results__no-result
+                        li
+                          = t('.search_no_result')
+                  li.top-menu__item
+                    = link_to '', library_index_path, class: 'top-menu__item__icon-library', remote: true
+                li.top-menu__item.dropdown
+                  a.top-menu__item__icon-user data-toggle="dropdown" href="#"
+                  ul.top-menu__dropdown.custom-menu.dropdown-menu role="menu" aria-labelledby="dLabel"
+                    - unless subdomain?
+                      li.top-menu__dropdown__item
+                        = link_to subscriptions_path, remote: true, class: 'custom-item' do
+                          i.top-menu__dropdown__item-subscription
+                          = t('.upgrade_now')
+                      li.top-menu__dropdown__item
+                        = link_to new_user_invitation_path, remote: true, class: 'custom-item' do
+                          i.top-menu__dropdown__item-friends
+                          = t('.invite_friends')
+                      li.top-menu__dropdown__item
+                        = link_to user_path(current_user), remote: true, class: 'custom-item' do
+                          i.top-menu__dropdown__item-settings
+                          = t('.settings')
+                    li.top-menu__dropdown__item
+                      =link_to destroy_user_session_path, method: :delete, class: 'custom-item' do
+                        i.top-menu__dropdown__item-logout
+                        = t('.logout')
+        - else
+          - unless user_signed_in?
+            .pull-left.custom-logo
+              = link_to '', root_url(), class: 'top-menu__logo'
+            .pull-right.custom-login
+              = link_to t('.login'), new_user_session_path(), class: 'cta-link'
+      - unless user_signed_in? || request.original_url == root_url || request.original_url.split('?').first == promotion_subscriptions_url
+        .signup-bar__container
+          .signup-bar
+            .signup-bar__left
+              p.signup-bar__headline
+                = t('.signup_headline')
+              p.signup-bar__sub-headline
+                = t('.signup_subheadline')
+            .signup-bar__right
+              = link_to t('.join'), new_user_registration_path(), class: 'button join_now custom-join'
+
+      div#flash-message
+        = render 'shared/flash'
+
+      - if (current_page?(library_index_path) || current_page?(authenticated_root_path)) && user_signed_in? && !subdomain?
+        = render 'library/menu'
+
+      main role="main"
+
+        == yield
+
+      .layout-footer
+
+    footer
+      .container 
+        .navigation.left
+          a href = "https://app.adjust.io/h0697l_s8gnbj" target="_blank" Read Anywhere. Get Blinkist for iPhone, iPad and Android.
+        .navigation.right
+          ul
+            a href = "http://support.blinkist.com/hc" target="_blank" Help
+            li
+              = link_to ('About'), about_path
+            li
+              = link_to ('How it works'), how_it_works_path 
+            li
+              = link_to ('Partner'), publishers_path
+            li
+              = link_to ('Disclaimer'), disclaimer_path
+            li
+              = link_to ('Terms and Privacy'), privacy_path
+
+    = javascript_include_tag 'application'
+    = javascript_include_tag 'https://js.iugu.com/v2'
+    javascript:
+      I18n.defaultLocale = "#{I18n.default_locale}";
+      I18n.locale = "#{I18n.locale}";
+    = render 'shared/iugu.js.erb'
+    = render 'shared/credit_card_modal_form'
+    = render 'shared/load_credit_card_form.js.erb'

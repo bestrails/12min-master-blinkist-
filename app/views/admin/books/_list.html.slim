@@ -1,0 +1,29 @@
+.container
+  .pull-right
+    = link_to t('.create'), new_admin_book_path, class: 'btn btn-primary', remote: true
+
+  - if @books.nil?
+    .center-block
+      p
+        = t('.no_books')
+  - else
+    table.table
+      tr
+        th
+          = t('.title')
+        th
+          = t('.author')
+        th
+          = t('.actions')
+      - @books.each do |book|
+        tr
+          td
+            = book.title
+          td
+            = book.author
+          td
+            = link_to edit_admin_book_path(book.id), remote: true do
+              i.fa.fa-edit
+            = "&nbsp;".html_safe
+            = link_to admin_book_path(book.id), method: :delete, data: { title: t('.modal.confirm.title'), confirm: t('.modal.confirm.sure') }, remote: :true do
+              i.fa.fa-trash-o

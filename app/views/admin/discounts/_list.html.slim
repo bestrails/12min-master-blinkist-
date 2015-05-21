@@ -1,0 +1,29 @@
+.container
+  .pull-right
+    = link_to t('.create'), new_admin_discount_path, class: 'btn btn-primary', remote: true
+
+  - if @discounts.nil?
+    .center-block
+      p
+        = t('.no_discounts')
+  - else
+    table.table
+      tr
+        th
+          = t('.code')
+        th
+          = t('.percentage')
+        th
+          = t('.actions')
+      - @discounts.each do |discount|
+        tr
+          td
+            = discount.code
+          td
+            = discount.percentage
+          td
+            = link_to edit_admin_discount_path(discount), remote: true do
+              i.fa.fa-edit
+            = "&nbsp;".html_safe
+            = link_to admin_discount_path(discount), method: :delete, data: { title: t('.modal.confirm.title'), confirm: t('.modal.confirm.sure') }, remote: :true do
+              i.fa.fa-trash-o

@@ -1,0 +1,31 @@
+$("main").html("<%= escape_javascript(render 'form', url: admin_books_path(), method: :post) %>");
+
+$('.admin-book-form input[name="book[lessons][]"]').tagsInput({
+  'defaultText': I18n.t('admin.books.form.add_lessons'),
+  'width': '100%',
+  'delimiter':'|'
+});
+
+$('.admin-book-form input[name="book[keys][]"]').tagsInput({
+  'defaultText': I18n.t('admin.books.form.add_keys'),
+  'width': '100%',
+  'delimiter':'|'
+});
+
+$('.admin-book-form input[name="book[tag_list]"]').tagsInput({
+  'autocomplete_url': '/categories',
+  'autocomplete': { 
+    selectFirst:true, 
+    autoFill:true,
+    messages: {
+        noResults: '',
+        results: function() {}
+    }
+  },
+  'defaultText': I18n.t('admin.books.form.add_tags'),
+  'width': '100%'
+});
+
+var converter1 = Markdown.getSanitizingConverter();
+var editor1 = new Markdown.Editor(converter1);
+editor1.run();

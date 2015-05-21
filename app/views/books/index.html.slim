@@ -1,0 +1,16 @@
+body.welcome__index.inside
+  - if current_user.sign_in_count == 1
+    .create__library__header__container
+      .create__library__header
+        .create__library__header__left
+          p.create__library__headline = t('.library_headline')
+          p.create__library__sub-headline = t('.library_sub_headline')
+        .create__library__header__right
+          = link_to t('.continue'), discount_index_path, class: 'button continue-to-library', disabled: true
+
+  .container
+    .dynamic-grid__container data-url="/welcome" style=("position: relative; height: 3639.7496948242188px;")
+      .dynamic-grid__element-size
+      .dynamic-grid__element-gutter
+      - @books.each do |book|
+        = render 'book', book: book

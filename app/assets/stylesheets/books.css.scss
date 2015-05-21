@@ -1,0 +1,99 @@
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.tagsinput {
+  input {
+    width: 100% !important;
+  }
+}
+
+.wmd-input {
+  width: 100%;
+  height: 300px;
+}
+
+.ui-autocomplete {
+  z-index: 3;
+  position: absolute;
+  width: 250px;
+  background: white;
+  border: 1px solid #e6e6e6;
+  list-style-type: none;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  margin-top: 1.5em;
+  margin-left: 0em;
+  padding-left: 0;
+
+  .ui-menu-item {
+    .ui-state-focus {
+      background-color: #f4f5f5;
+    }
+  }
+
+  li {
+    border-top: 1px solid #e6e6e6;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    -moz-backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    margin-bottom: -4px; 
+
+    a {
+      float: left;
+      width: 100%;
+      line-height: 1.3em;
+      color: #32353a;
+      text-decoration: none;
+      display: inline;
+      padding: 0.6em 1em 0.6em 1em;
+      font-size: 1.28571rem;
+      font-weight: 500;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #f4f5f5;
+      }
+    }
+  }
+
+  li:first-child {
+    border-top: none;
+
+    a:after, 
+    .ui-state-focus:after {
+      content: '';
+      position: absolute;
+      left: 20px;
+      top: -12px;
+      width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-bottom: 12px solid white;
+    }
+
+    a:hover:after, 
+    .ui-state-focus:hover:after,
+    .ui-state-focus:focus:after {
+      border-bottom: 12px solid #f4f5f5;
+    }
+
+    a:before, 
+    .ui-state-focus:before {
+      content: '';
+      position: absolute;
+      left: 20px;
+      top: -12px;
+      width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-bottom: 12px solid black;
+    }
+  }
+}

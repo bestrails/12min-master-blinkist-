@@ -1,0 +1,87 @@
+body.pages__homepage.inside
+.landingpage-main-section__container
+  .landingpage-main-section__inner-container
+    .landingpage-main-section__left
+      .landingpage-main-section__left_inner
+        .landingpage-main-section__headline
+          | A smarter you in 15 minutes
+        .landingpage-main-section__sub-headline
+          | Learn more, do more, be more—and still spend less time reading. We read 1,000 books a year for you and distill their key insights into powerful, actionable, 15-minute marvels.
+        a#landing_btn.button href=new_user_registration_path  Start your free trial
+.cms__blocks__features__features-external-container
+  .cms__blocks__features__features-container
+    .cms__blocks__features__feature-library
+      .cms__blocks__features__feature-library__graphic
+      .cms__blocks__features__feature-library__title
+        | Made for movers and shakers
+      .cms__blocks__features__feature-library__description
+        | Read a two-minute key message while you wait in line or a whole 15-minute insight summary over lunch: on iOS, Android, or the web.
+      
+    .cms__blocks__features__feature-people
+      .cms__blocks__features__feature-people__graphic
+      .cms__blocks__features__feature-people__title
+        | Choose audio or text
+      
+      .cms__blocks__features__feature-people__description
+        | Classics like The 7 Habits of Highly Effective People or newcomers like Thinking, Fast and Slow: whatever you want to read, we've got it—for your ears or your eyes.
+      
+    .cms__blocks__features__feature-anywhere
+      .cms__blocks__features__feature-anywhere__graphic
+      .cms__blocks__features__feature-anywhere__title
+        | From the best and brightest
+      
+      .cms__blocks__features__feature-anywhere__description
+        | Horowitz, Cialdini, Hsieh—the list goes on. Get the brightest ideas on business, marketing, psychology, and more from the  thought leaders you wish were your teachers.
+.cms__blocks__awards__container
+  h1.cms__blocks__awards__container-headline
+    | We'd like to thank the academy...
+  .cms__blocks__awards__logo-container
+    .cms__blocks__awards__logo.cms__blocks__awards__logo-appstore
+    .cms__blocks__awards__logo.cms__blocks__awards__logo-mobile
+  .store_button__container
+    a.store_button.store_button_app_store href="#" 
+    a.store_button.store_button_play_store href="#" 
+
+.cms__pages__index__blinks
+  .cms__pages__index__blinks-title
+    h3 Business, science, psychology, and more. What will you read today?
+  .container
+    #first.dynamic-grid__container data-url="/" style=("position: relative; height: 819.9686737060547px;") 
+      .dynamic-grid__element-size
+      .dynamic-grid__element-gutter
+        - @books.each do |book|
+          = render 'books/book', book: book
+.cms__pages__socialproof-container
+  .cms__pages__socialproof-headline
+    h1 Join 300,000 clever readers on their quest to get smarter
+  .cms__pages__socialproof__press-container
+    .cms__pages__socialproof__press.cms__pages__socialproof__press-forbes
+    .cms__pages__socialproof__press.cms__pages__socialproof__press-lifehacker_bw
+    .cms__pages__socialproof__press.cms__pages__socialproof__press-vb
+    .cms__pages__socialproof__press.cms__pages__socialproof__press-tnw_bw
+    .cms__pages__socialproof__press.cms__pages__socialproof__press-the__hundert
+  .cms__pages__socialproof__customer-stories
+    .cms__pages-socialproof__tweetboxes
+      ul
+        li
+          img alt=("Customer 1") src="/assets/pietro.png" /
+          a href="https://twitter.com/mrmademelunch" target="_blank"  @mrmademelunch
+          p “Thank you Blinkist. I aced a job interview also thanks to you all! The book in question was Getting Things Done!”
+        li
+          img alt=("KathleneHestir") src="/assets/kathlene.png" /
+          a href="https://twitter.com/mrmademelunch" target="_blank"  @KathleneHestir
+          p “I have an insatiable appetite for nonfiction, but limited time. Blinkist is a much more efficient way to read.”
+        li
+          img alt=("DawidPacha") src="/assets/dawid.png" /
+          a href="https://twitter.com/mrmademelunch" target="_blank"  @DawidPacha
+          p “When you have the Blinkist premium account with audio summaries, things like outdoor activities become so much fun.”
+
+.landingpage-cta_green__container
+  .landingpage-cta_green__inner-container
+    .landingpage-cta_green__headline
+      h1
+        | You were born curious.
+        br/
+        | Start learning now.
+      p Sign up to try Blinkist for free. You’ll get access to our whole library on any device, whether you’re online or off.
+    a.button href=new_user_registration_path  Start my 3-day trial

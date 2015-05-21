@@ -1,0 +1,13 @@
+.modal.fade#send-to-pocket-modal aria-hidden="true" aria-labelledby="mySmallModalLabel" role="dialog" tabindex="-1" 
+  .modal-dialog.modal-sm
+    .modal-content
+      .modal-header
+          button.close aria-label="Close" data-dismiss="modal" type="button" 
+            span aria-hidden="true"  &times;
+          h4.modal-title Pocket email
+      = form_for Book.new, :url => '', :html => { :method => :put, :remote => true, id: 'pocket' } do |f|
+        .modal-body
+          input type="email" name="pocket_email"
+        .modal-footer
+          = f.submit t('.submit')
+        

@@ -1,0 +1,12 @@
+body.forgot__password
+  .reset-password__container
+    .reset-password__header
+      = t('.reset_password')
+    .reset-password__cta__container
+      = form_for(resource, as: resource_name, url: password_path(resource_name), html: { method: :post, class: 'reset-password__form' }) do |f|
+        div style="margin:0;padding:0;display:inline"
+          = devise_error_messages!
+          .control-group
+            = f.email_field :email, autofocus: true, placeholder: 'E-mail'
+          control-group.submit style="font-size:5px"
+            = f.submit t('.send')

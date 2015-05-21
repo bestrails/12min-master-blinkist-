@@ -1,0 +1,14 @@
+.blink.dynamic-grid__element data-id=book.id style=("position: absolute; left: 0px; top: 0px;") 
+  = link_to book_path(book), remote: true do
+    .blink__image
+      img src=book.cover.url(:thumb) 
+    .blink__text.remove__bottom-border
+      .blinks-pack__text__author
+        = book.author
+      .blinks-pack__text__title
+        = book.title
+      .blinks-pack__text__description lang="en" 
+        p style=("overflow: hidden; text-overflow: ellipsis; -webkit-box-orient: vertical; display: -webkit-box; -webkit-line-clamp: 6;") 
+          = book.recommend
+    - if user_signed_in?
+      = action(current_user, book)

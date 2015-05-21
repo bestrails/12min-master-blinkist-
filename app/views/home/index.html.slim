@@ -1,0 +1,6 @@
+.container
+  .dynamic-grid__container data-url="/blinks" style=("position: relative; height: 3051.9059524536133px;") 
+    .dynamic-grid__element-size
+    .dynamic-grid__element-gutter
+      - @books.each do |book|
+        = render 'books/book', book: book

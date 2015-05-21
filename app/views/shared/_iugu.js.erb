@@ -1,0 +1,4 @@
+<script type="text/javascript">
+  Iugu.setAccountID("<%= ENV['IUGU_ID'] %>");
+  if ("<%= ENV['RAILS_ENV'] %>" === 'development') Iugu.setTestMode(true);
+</script>

@@ -1,0 +1,17 @@
+plans:
+  - name: "Trial"
+    price: 0.00
+    books_limit: 3
+    active_days: 3
+  - name: "Monthly"
+    price: 7.99
+    books_limit: 0
+    active_days: 30
+  - name: "Every 3 Months"
+    price: 5.00
+    books_limit: 0
+    active_days: 90
+  - name: "Yearly"
+    price: 4.17
+    books_limit: 0
+    active_days: 365

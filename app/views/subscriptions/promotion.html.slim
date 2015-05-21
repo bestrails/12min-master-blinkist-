@@ -1,0 +1,27 @@
+.marketing__container
+  .marketing__container__left_cta
+    .marketing__slogan
+      = t('.slogan')
+    .marketing__description
+      = t('.description')
+    .marketing__features
+      ul
+        li.marketing__features__item_library = t('.features.library')
+        li.marketing__features__item_summarized = t('.features.summarized')
+        li.marketing__features__item_devices = t('.features.devices')
+        li.marketing__features__item_time = t('.features.time')
+  .marketing__container__right_cta__form
+    .marketing__subscribe-container.marketing__subscribe-container_premium
+      h2 = t('.subscribe')
+      p = t('.promo', amount: get_montly_promotion_price(@yearly.price, @discount.percentage))
+      p.purchase__blocks__subscribe-container_bottom__product-selector__cta-closing__percentage-saved__appendix style=("color: #62af3c") 
+        = t('.save', percentage: number_to_percentage(@discount.percentage, precision: 0))
+      - if user_signed_in?
+        a.button.shared__purchase-button_subscribe_marketing data-toggle="modal" data-target="#promotion-modal"
+          = t('.activate')
+      - else
+        a.button.shared__purchase-button_subscribe_marketing data-toggle="modal" data-target="#signin-modal"
+          = t('.activate')
+
+= render 'promotion_modal'
+= render 'shared/signin_modal'

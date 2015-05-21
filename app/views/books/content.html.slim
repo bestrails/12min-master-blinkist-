@@ -1,0 +1,26 @@
+doctype html
+html.no-js lang="en" 
+  head
+    title = @book.title
+    = stylesheet_link_tag 'application'
+    = csrf_meta_tags
+  body style="background-color:white"
+    .reader__container__left
+      .reader__container__menu_bar
+        span.close
+          = link_to '', library_index_path, class: 'reader__close-icon'
+    .reader__container__right
+      .shared__reader__blink.reader__container__content
+        .chapter.chapter_visible style="display: block;"
+          h1
+            = @book.title
+          = raw @content.html_safe
+          .reader__container__buttons
+            .pull-left
+              = social_share_button_tag(@book.title, :popup => "true")
+            .reader__container__navigation_control
+              .reader__container__navigation_control__prev_button style=""
+                = link_to '', read_book_url(@book), { class: 'reader__finish-icon', method: :put }
+                
+    = javascript_include_tag 'application'
+

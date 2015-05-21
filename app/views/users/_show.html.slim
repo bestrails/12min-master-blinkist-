@@ -1,0 +1,52 @@
+.settings__container
+  .settings__headline
+    h2 = t('.settings')
+  .settings__content
+    .settings__content__headline
+      = t('.account')
+    .settings__content__left
+      .settings__content__description
+        = user.email
+    .settings__content__right
+      = link_to t('.change_password'), edit_user_url(user), class: 'button settings'
+  - unless user.subscription.plan.is_trial?
+    p.separator
+      i
+    .settings__content
+      .settings__content__headline
+        = t('.subscription')
+      .settings__content__left
+        .settings__content__description
+          = t('.subscription_info')
+      .settings__content__right
+        dl
+          dt
+            = t('.next_renewal')
+          dd = user.subscription.expires_on
+        = link_to t('.cancel_subscription'), user_path(user), class: 'settings settings__content__right__cancel-subscription', method: :delete, data: { title: t('.cancel_subscription'), confirm: t('.confirm_cancel_subscription') }, remote: true
+    p.separator
+      i
+    .settings__content
+      .settings__content__headline
+        span.kindle-button__kindle-color Kindle
+        = "&nbsp;".html_safe
+        = t('.connect')
+      .settings__content__left
+        .settings__content__description
+          = user.kindle
+          br
+            = t('.kindle_connect_info')
+      .settings__content__right
+        a.button.settings data-toggle="modal" data-target="#simplemodal-container" data-backdrop="static" data-keyboard="false" 
+          = t('.connect').capitalize
+  - else
+    p.separator
+      i
+    .settings__content
+      .settings__content__right
+        = link_to t('.upgrade_now'), subscriptions_path, remote: true, class: 'button settings'
+        = link_to t('.invite_friends'), new_user_invitation_path, remote: true, class: 'button settings'
+  p.separator
+    i
+  .settings__content
+    = link_to t('.delete'), user_path(user), class: 'settings__delete-user__trigger-form', method: :delete, data: { title: t('.delete_account'), confirm: t('.confirm_delete_account') }, remote: true

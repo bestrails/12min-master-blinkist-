@@ -1,0 +1,71 @@
+body.about  
+  .cms__static__teaser_about
+    .cms__static__teaser__content-container
+      .cms__static__teaser__content
+        h1 About Blinkist
+      ul.cms__static__teaser__menu
+        li.cms__static__teaser__menu-element_active
+          = link_to 'About Blinkist', about_path
+        li.cms__static__teaser__menu-element
+          = link_to 'Press', press_path
+        li.cms__static__teaser__menu-element
+          = link_to 'Jobs', jobs_path
+        li.cms__static__teaser__menu-element
+          a href = "http://support.blinkist.com/hc" target = "_blank"  Contacts
+      select#select.cms__static__teaser__menu_select name="select"
+        option value="/about"  About Blinkist   
+        option value="/press"  Press
+        option value="/jobs"  Jobs
+        option value="http://support.blinkist.com/hc"  Contacts
+  .cms__blocks__container
+    .cms__blocks__header
+      h2 Five things to know about Blinkist
+      p.cms__blocks__separator-line
+    .cms__blocks__paragraph-container
+      h3 1. With Blinkist, you always have time to read.
+      p
+        | We believe that great knowledge should be easily accessible to anyone, anytime. But between work, personal
+        | life, social life, and studies, finding time to read is tough. We want to change all of that with blinks:
+        | a new format that lets you learn deeply, wherever you are, in whatever time you have.
+    .cms__blocks__paragraph-container
+      h3 2. Fast, profound learning is a blink’s specialty.
+      p
+        | Blinks are powerful bites of insight from outstanding nonfiction. You can read a blink in less than two
+        | minutes, so with each book made up of about eight blinks, you can cover the work’s key insights in 15 minutes.
+    .cms__blocks__paragraph-container
+      h3 3. Your reading goes anywhere, on any device.
+      p
+        | Smartphones and tablets have rapidly changed how and where we read, so we made blinks with mobile in mind.
+        | Our apps were designed to give you the clearest, most beautiful reading experience, whether you’re using
+        | Blinkist on your iPhone, iPad, or the web.
+  .cms__blocks__testimonial-bar
+    .cms__blocks__testimonial-bar__slogan-container
+      .cms__blocks__testimonial-bar__slogan
+        h2 "Instead of needing to trawl the web for new knowledge, it's all there in one easy place."
+        p Brad Couper
+  .cms__blocks__container
+    .cms__blocks__paragraph-container
+      h3 4. Blinks aren’t meant to replace books – and we’d never want them to.
+      p
+        | Blinks are made to be brief, so their very format keeps them from filling a book’s formidable (if imaginary)
+        | shoes. We think of Blinkist the way that Neil Degrasse Tyson does 
+        a href="http://www.google.com/url?q=http%3A%2F%2Fwww.brainpickings.org%2Findex.php%2F2013%2F09%2F05%2Fneil-degrasse-tyson-on-the-art-of-the-soundbite%2F&sa=D&sntz=1&usg=AFQjCNHUb1ukzTTK-gwpgcJ3CBF73Ab7ww" target="_blank"
+          | a soundbite 
+        | as the beginning of a self-driven path toward learning. Get your bearings with Blinkist, then take your
+        | learning in whichever direction you choose.
+    .cms__blocks__paragraph-container
+      h3 5. Our Blinks are 100% original works.
+      p
+        | We start from scratch every time. Bright, inquisitive readers and writers dive deep into the books we
+        | blink in order to create thoughtful new content that imparts the original work’s key messages and intent.
+    p.cms__blocks__separator-line
+    .cms__blocks__bottom-cta
+      h2 You were born curious. Start learning now.
+      p
+        | Sign up to try Blinkist for 3 days, free.
+        br/
+        | You’ll get access to our whole library on any device,
+        br/
+        | whether you’re online or off.
+      a.button href=new_user_registration_path  Start my 3-day trial
+  

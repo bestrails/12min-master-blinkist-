@@ -1,0 +1,17 @@
+.reset-password__container
+  .reset-password__header
+    = t 'devise.invitations.edit.header'
+  .reset-password__cta__container
+    = form_for resource, :as => resource_name, :url => invitation_path(resource_name), :html => { :method => :put } do |f|
+      div style="margin:0;padding:0;display:inline" 
+        = devise_error_messages!
+        = f.hidden_field :invitation_token
+        = hidden_field :inviter, :referral_code, value: @referral_code
+        .reset-password__cta
+          .control-group
+            = f.label :password
+            = f.password_field :password, autofocus: true, autocomplete: "off", id: 'reset_password_email', placeholder: t('devise.invitations.edit.password')
+          .control-group
+            = f.password_field :password_confirmation, autocomplete: "off", id: 'reset_password_email', placeholder: t('devise.invitations.edit.repeat_password')
+          .control-group.submit
+            = f.submit t("devise.invitations.edit.submit_button")

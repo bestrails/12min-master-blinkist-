@@ -1,0 +1,10 @@
+<script>
+  $('#send-to-pocket-modal').on('show.bs.modal', function (e) {
+    var url = $(e.relatedTarget).data('pocket-url');
+    $('form#pocket', this).attr('action', url);
+  })
+
+  $('#send-to-pocket-modal form#pocket input[type=submit]').on('click', function (e) {
+    $('#send-to-pocket-modal').modal('hide');
+  })
+</script>

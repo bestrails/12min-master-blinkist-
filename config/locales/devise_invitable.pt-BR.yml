@@ -1,0 +1,29 @@
+pt-BR:
+  devise:
+    invitations:
+      send_instructions: 'Um e-mail convite foi enviado para %{email}.'
+      send_bulk_instructions: 'Obrigado por convidar seus amigos! Assim que eles aceitarem o convite, você ganhará o seu bônus!.'
+      invitation_token_invalid: 'O token convite fornecido não é válido!'
+      updated: 'Sua senha foi definida com sucesso. Você agora está assinado dentro'
+      no_invitations_remaining: 'Nenhum convite restante'
+      invitation_removed: 'Seu convite foi removido.'
+      new:
+        header: 'Enviar convite'
+        submit_button: 'Envie um convite'
+        title: 'Tenha acesso livre, convidando amigos para 12 min!'
+        info: 'Para cada amigo cadastrado, você ganha 7 dias de acesso ilimitado grátis.'
+        invite: 'Convide seus amigos por e-mail:'
+        send_now: 'Convidar agora!'
+      edit:
+        header: 'Definir a senha'
+        submit_button: 'Definir minha senha'
+        password: 'Senha'
+        repeat_password: 'Confirmação de senha'
+    mailer:
+      invitation_instructions:
+        subject: 'Instruções do convite'
+        hello: 'Olá %{email}'
+        someone_invited_you: 'Alguém convidou você para %{url}, você pode aceitá-lo através do link abaixo.'
+        user_invited_you: '%{user} convidou você para %{url}, você pode aceitá-lo através do link abaixo.'
+        accept: 'Aceitar convite'
+        ignore: 'Se você não quiser aceitar o convite, por favor, ignore este e-mail <br /> Sua conta não será criado até que você acesse o link acima e definir a sua senha.'

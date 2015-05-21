@@ -1,0 +1,5 @@
+users:
+  - email: "superuser@12min.com"
+    password: "R6g?V!"
+    password_confirmation: "R6g?V!"
+    role: "superuser"

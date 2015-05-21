@@ -1,0 +1,49 @@
+body.affiliates  
+  .cms__static__teaser_partners
+    .cms__static__teaser__content-container
+      .cms__static__teaser__content
+        h1 Partners
+      ul.cms__static__teaser__menu
+        li.cms__static__teaser__menu-element
+          = link_to 'Publishers', publishers_path
+        li.cms__static__teaser__menu-element.cms__static__teaser__menu-element_active
+          = link_to 'Affiliate Programs', affiliates_path
+      select#select.cms__static__teaser__menu_select name="select" 
+        option value="/affiliates"  Affiliate Program
+        option value="/publishers"  Publishers
+        
+  .cms__blocks__container
+    .cms__blocks__header
+      h2 Affiliate Program
+      p.cms__blocks__separator-line
+    .cms__blocks__paragraph-container
+      h3 Join the Blinkist Affiliate Program
+      p
+        | Do you have a blog, mailing list, or otherwise enormous army of followers? Then we've got something smart for
+        | you. With the Blinkist Affiliate Program, you can earn commission by referring your readers and followers to
+        | Blinkist. And we're confident it's great for your audience, too: people love Blinkist, so they'll thank you
+        | for
+        | introducing them to this powerful new way to learn.
+    .cms__blocks__header
+      h2 Your advantages:
+      p.cms__blocks__separator-line
+    .cms__blocks__paragraph-container
+      h3 1. Attractive commission
+      p
+        | We offer various commission schemes from one-time payouts for sign-ups and sales to long-term revenue share
+        | models.
+    .cms__blocks__paragraph-container
+      h3 2. Value for your readers through smart advertising
+      p
+        | Blinkist is very popular among readers and lifelong learners. Does that sound like the readers of your blog
+        | or mailing list, too? Right! That’s why Blinkist is the perfect product to advertise and recommend.
+    .cms__blocks__paragraph-container
+      h3 3. High conversion among all platforms
+      p
+        | Blinkist's browser-based app works for anyone, no matter which device they're using. Native apps for iOS,
+        | Android and Kindle boost retention and long-term revenue.
+    p.cms__blocks__separator-line
+    .cms__blocks__bottom-cta
+      h2 Ready to share something great? Become a Blinkist Affiliate Partner!
+      a.button href="http://affiliate.blinkist.com" target="_blank"  Sign up now
+  

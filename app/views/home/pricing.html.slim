@@ -1,0 +1,63 @@
+body.pricing
+  .cms__static__teaser_how_it_works
+    .cms__static__teaser__content-container
+      .cms__static__teaser__content
+        h1 How it works
+      ul.cms__static__teaser__menu
+        li.cms__static__teaser__menu-element
+          = link_to 'Making a Blink', how_it_works_path
+        li.cms__static__teaser__menu-element_active
+          = link_to 'Plans & Pricing', pricing_path
+        li.cms__static__teaser__menu-element
+          = link_to 'User stories', testimonials_path
+  .cms__blocks__container
+    .cms__blocks__header
+      h2 Plans &amp; Pricing
+      p.cms__blocks__separator-line
+    .cms__pages__plans-container
+      - @plans.each do |plan|
+        .cms__pages__plans__plan-container
+          p = plan.name
+          .cms__pages__plans__plan__price-container
+            .cms__pages__plans__plan__price-number
+              = plan.price.to_s.split('.')[0]
+            .cms__pages__plans__plan__price-currency
+              = plan.price.to_s.split('.')[1]
+          .shared__purchase-button-container
+            button.shared__purchase-button data-action="subscribe" data-default-text="Choose" name="button" type="button"  Choose
+    p.cms__blocks__separator-line_without-margin
+    .cms__pages__plans__paragraph-container_horizontal_with-margin
+      .cms__pages__plans__paragraph-container_half-width
+        h3 Can I test Blinkist before I subscribe?
+        p
+          | Of course you can! We want you to get to know Blinkist and what it’s like to use our service before you
+          | commit. Just sign up and you’ll get 3 free days of unlimited access to our library, no strings attached.
+      .cms__pages__plans__paragraph-container_half-width
+        h3 What do I get when I subscribe?
+        p
+          | You can expect at least 40 new books landing in the library every month. Plus, you’ll get fancy new
+          | features and feature improvements designed to make reading and remembering the key lessons from nonfiction
+          | books even easier.
+    .cms__pages__plans__paragraph-container_horizontal_with-margin
+      .cms__pages__plans__paragraph-container_half-width
+        h3 Can I buy gift cards or group licenses?
+        p
+          | Yes! If you want to buy a gift card or purchase Blinkist for a group of people or an organization,
+          | get in touch with us at
+          a href="mailto:hello@blinkist.com"  hello@blinkist.com
+      .cms__pages__plans__paragraph-container_half-width
+        h3 How can I pay?
+        p You can pay with any major credit card either on our website or through an iTunes In-App Purchase.
+    .cms__pages__plans__paragraph-container_horizontal_with-margin
+      .cms__pages__plans__paragraph-container_half-width
+        h3 Is there a cancellation period?
+        p
+          | Our subscriptions are auto-renewable, but you can cancel your subscription anytime up until 24 hours
+          | before the next renewal. We’d never want you to pay for something you don’t like or use, so we’ll
+          | send you a reminder before renewal happens.
+      .cms__pages__plans__paragraph-container_half-width
+        h3 Can I switch plans?
+        p
+          | If you’d like to switch subscription periods, say, from a monthly to a yearly plan in order to save money,
+          | just cancel your first subscription when it turns out and re-subscribe for the new duration.
+          | Don’t worry, we’ll save your reading stats!

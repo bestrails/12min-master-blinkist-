@@ -1,0 +1,8 @@
+- if notice.present?
+  .alert.alert-success.alert-dismissable
+    button type="button" class="close" data-dismiss="alert" aria-hidden="true"  &times
+    = notice
+- if alert.present?
+  .alert.alert-dismissable.alert-danger
+    button type="button" class="close" data-dismiss="alert" aria-hidden="true"  &times
+    = alert

@@ -1,0 +1,41 @@
+<script type="text/javascript">
+  $('input.cc-number').payment('formatCardNumber');
+  $('input.cc-cvc').payment('formatCardCVC');
+  $('input.cc-exp').payment('formatCardExpiry');
+
+  $('#credit-card').submit(function(evt) {
+    // workaround expiration date format
+    var exp = $('.cc-exp', this).val();
+    $('.cc-exp', this).val(exp.replace(/\s+/g, ''));
+
+    var form = $(this);
+    var getErrorMessages = function(errors) {
+      var list = '<ul>';
+      if (typeof errors === 'object') {
+        var keys = Object.keys(errors);
+        $(keys).each(function(i) {
+          list += '<li><p class="text-danger">' + I18n.t('shared.credit_card_modal_form.errors.'+keys[i]+'') + '</p></li>'
+        });      
+      } else {
+        list += '<li><p class="text-danger">' + errors + '</p></li>'
+      }
+      
+      list += '</ul>';
+      return list;
+    };
+    var tokenResponseHandler = function(data) {
+        
+      if (data.errors) {
+        $('.modal-body .errors', form).html('<div class="center-block"><p class="text-danger">' + I18n.t('shared.credit_card_modal_form.errors.title') + '</p>' + getErrorMessages(data.errors) + '</div>');
+      } else {
+        $('button[type=submit]', form).replaceWith("<a class='btn btn-success' data-method='put' data-remote='true' \
+          href='/subscriptions/pay?token=" + data.id + "&plan_id=" + $('input#subscribe_product_id').val() + "&coupon=" + $('input#subscribe_coupon').val() + "' rel='nofollow' data-disable-with='\
+          " + I18n.t('shared.credit_card_modal_form.processing') + "'>\
+          " + I18n.t('shared.credit_card_modal_form.pay') + "</a>");
+      }
+    };
+    
+    Iugu.createPaymentToken(this, tokenResponseHandler);
+    return false;
+  });
+</script>

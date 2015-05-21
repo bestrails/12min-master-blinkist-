@@ -1,0 +1,33 @@
+#signin-modal.modal.fade aria-hidden="true" role="dialog" tabindex="-1" 
+  .modal-dialog.modal-sm
+    .modal-content
+      .reset-password__container
+        .reset-password__header
+          = t('.sign_in')
+        .reset-password__cta__container
+          .well
+            = link_to user_omniauth_authorize_path(:facebook, redirect_to: request.original_url), class: 'btn btn-block btn-facebook btn-login' do
+              i.fa.fa-facebook
+              = "&nbsp;".html_safe
+              = t('.facebook')
+            = link_to user_omniauth_authorize_path(:twitter, redirect_to: request.original_url), class: 'btn btn-block btn-info btn-login' do
+              i.fa.fa-twitter
+              = "&nbsp;".html_safe
+              = t('.twitter')
+            = link_to user_omniauth_authorize_path(:linkedin, redirect_to: request.original_url), class: 'btn btn-block btn-primary btn-login' do
+              i.fa.fa-linkedin
+              = "&nbsp;".html_safe
+              = t('.linkedin')
+          = form_for :user, url: user_session_path(redirect_to: request.original_url), html: { class: 'reset-password__form' } do |f|
+            div style="margin:0;padding:0;display:inline"
+              .reset-password__cta
+                .control-group
+                  = f.email_field :email, autofocus: true, id: 'reset_password_email', placeholder: "E-mail"
+                .control-group
+                  = f.password_field :password, autocomplete: "off", id: 'reset_password_email', placeholder: t('devise.sessions.new.password')
+                .control-group.submit
+                  = f.submit t('devise.sessions.new.sign_in')
+                .login__footer
+                  = link_to t('devise.sessions.new.forgot_password'), new_user_password_path
+                  br
+                  = link_to t('devise.sessions.new.sign_up'), new_user_registration_path

@@ -1,0 +1,5 @@
+<% unless @book.errors.empty? %>
+  $(".admin-discount-form .pull-right").before("<%= escape_javascript(parse_errors(@book.errors)) %>");
+<% else %>
+  $("main").html("<%= escape_javascript(render 'list') %>");
+<% end %>

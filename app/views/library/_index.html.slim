@@ -1,0 +1,64 @@
+body.index__index.inside
+  .container
+    .dynamic-grid__container data-url="/library" style=("position: relative; height: 661.249927520752px;") 
+      .dynamic-grid__element-size
+      .dynamic-grid__element-gutter
+      - if !close_info
+        .notification__trial-started.dynamic-grid__element.alert style=("position: absolute; left: 0px; top: 0px;") role="alert"
+          .notification__trial-started__image
+            img height="130" src=asset_path('trial_started.png') width="125" 
+          .notification__trial-started__text
+            .notification__trial-started__title = t('.trial_started')
+            p = t('.trial_info')
+          = link_to t('.ok'), set_session_close_info_users_path, method: :put, class: 'button button__green info-close', remote: true
+      - elsif current_user.subscription.plan.is_trial?
+        - if current_user.subscription.actived?
+          .dynamic-grid__element.notification__trial-expiring style="position: absolute; left: 0px; top: 0px;"
+            .notification__trial-expiring__cta
+              .notification__trial-expiring__image
+                img height="130" src=asset_path('trial_expiring.png') width="125" 
+              .notification__trial-expiring__text
+                .notification__trial-expiring__title = t('.trial_expiring_title', days: distance_of_time_in_words_to_now(current_user.subscription.expires_on))
+                p = t('.trial_expiring_info')
+                button.button.grey data-action="dismiss-dialog" data-action-url=".notification__trial-expiring" type="button" = t('.continue_trial')
+                a.button.green href="#" = t('.upgrade_now')
+            .notification__trial-expiring__referral
+              .notification__trial-expiring__title = t('.trial_referral_title')
+              p = t('.trial_referral_info')
+              = link_to t('.trial_referral_invite'), new_user_invitation_path, remote: true, class: 'button grey'
+        - else
+          .notification__trial-started.dynamic-grid__element.alert style=("position: absolute; left: 0px; top: 0px;") role="alert"
+            .notification__trial-expired__image
+              img height="130" src=asset_path('trial_expired.png') width="125" 
+            .notification__trial-expired__text
+              .notification__trial-expired__title = t('.trial_expired_title')
+              p
+                = t('.trial_expired_info')
+              = link_to t('.subscribe_now'), subscriptions_path, remote: true, class: 'button green'
+      
+      - if @books.count == 0
+        p.no-books-message
+          = raw t('.no_books', link: link_to(t('.here'), books_url))
+      - else
+        - @books.each  do |book|
+          .blink.dynamic-grid__element style=("position: absolute; left: 0px; top: 251px;") 
+            = link_to content_book_path(book) do
+              .blink__image
+                img src=book.cover.url(:thumb)
+              .blink__text
+                .blinks-pack__text__author = book.author
+                .blinks-pack__text__title
+                  = book.title
+                .blinks-pack__text__description lang="en" 
+                  p style=("overflow: hidden; text-overflow: ellipsis; -webkit-box-orient: vertical; display: -webkit-box; -webkit-line-clamp: 6;") 
+                    = book.recommend
+              .blink__button.add-to-library style="display:block" 
+                a.button.add-to-library data-toggle="modal" data-target="#send-to-pocket-modal" data-pocket-url=pocket_book_url(book)
+                  = t('.send_to_pocket')
+              - if current_user.kindle.presence
+                .blink__button.add-to-library style="display:block" 
+                  = link_to t('.send_to_kindle'), { :controller => 'books', :action => 'kindle', :id => book.id }, { :class => 'button add-to-library', :method => :put, :remote => true }
+
+  = render 'send_to_pocket_modal'
+  = render 'load_pocket_form.js.erb'
+

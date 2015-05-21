@@ -1,0 +1,58 @@
+body.making__a__blinks
+  .cms__static__teaser_how_it_works
+    .cms__static__teaser__content-container
+      .cms__static__teaser__content
+        h1 How it works
+      ul.cms__static__teaser__menu
+        li.cms__static__teaser__menu-element_active
+          = link_to 'Making a Blink', how_it_works_path
+        li.cms__static__teaser__menu-element
+          = link_to 'Plans & Pricing', pricing_path
+        li.cms__static__teaser__menu-element
+          = link_to 'User stories', testimonials_path
+      select#select.cms__static__teaser__menu_select name="select"
+        option value="/how_it_works" Making a Blink
+        option value="/pricing" Plans & Pricing
+        option value="/testimonials" User stories
+  .cms__blocks__container
+    .cms__blocks__header
+      h2 Making a Blink
+      p.cms__blocks__separator-line
+    .cms__blocks__paragraph-container_custom-width
+      h3 Great books. Smart people. No algorithms.
+      p
+        | We comb bestseller lists, review user suggestions, and solicit thought leader input to find the most intriguing
+        | reads out there. Next, our readers and writers dive into the selected texts and surface with the most valuable
+        | insights from each work. The resulting blinks are proofread and lovingly polished by human hands. By the time a
+        | book in blinks makes it to you, we trust that it is a skillfully, mindfully made bundle of mind-changing
+        | insights – and you can, too.
+    p.cms__blocks__separator-line
+    .cms__blocks__features__features-external-container
+      .cms__blocks__features__features-container
+        .cms__blocks__features__feature-bookmark
+          .cms__blocks__features__feature-bookmark__graphic
+          .cms__blocks__features__feature-bookmark__title
+            | 1. Find a book's most important insights
+        .cms__blocks__features__feature-note
+          .cms__blocks__features__feature-note__graphic
+          .cms__blocks__features__feature-note__title
+            | 2. Create a structure that brings the key ideas to light
+        .cms__blocks__features__feature-laptop
+          .cms__blocks__features__feature-laptop__graphic
+          .cms__blocks__features__feature-laptop__title
+            | 3. Unify it all with clear, thoughtful writing
+    p.cms__blocks__separator-line
+    .cms__blocks__bottom-cta
+      h2 You were born curious. Start learning now.
+      p
+        | Sign up to try Blinkist for 3 days, free.
+        br/
+        | You’ll get access to our whole library on any device,
+        br/
+        | whether you’re online or off.
+      a.button href=new_user_registration_path  Start my 3-day trial
+
+
+  
+
+

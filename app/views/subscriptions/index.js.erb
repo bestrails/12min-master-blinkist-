@@ -1,0 +1,24 @@
+$('.libray-menu__container').remove();
+$("main").html("<%= escape_javascript(render 'index') %>");
+
+$("select#subscribe_product_id").on('change', function(e) {
+  var selectedId = $('option:selected', this).data('plan-id');
+
+  var selectedName = $('option:selected', this).data('plan-name');
+  var selectedPrice = $('option:selected', this).data('price');
+
+  var maxPrice = $(this).data('max-price');
+
+  var percentageSaved = 100 - Number((((selectedPrice * 100) / maxPrice)).toFixed(0));
+
+  $('input#subscribe_product_id').val(selectedId);
+  $('button.shared__purchase-button_subscribe').html(I18n.t("subscriptions.index.upgrade", {price: selectedPrice, period: selectedName}))
+  
+  if (percentageSaved === 0) {
+    $('.purchase__blocks__subscribe-container_bottom__product-selector__cta-closing').hide();
+    return;
+  }
+
+  $('.purchase__blocks__subscribe-container_bottom__product-selector__cta-closing').show();
+  $('.purchase__blocks__subscribe-container_bottom__product-selector__cta-closing__percentage-saved').html(percentageSaved);
+});

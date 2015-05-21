@@ -1,0 +1,45 @@
+.purchase__index__subscribe-container
+  .purchase__blocks__subscribe-container_top
+    .purchase__blocks__subscribe-container_top__headline
+      h1 = t('.title')
+      h2 = t('.subtitle')
+    .purchase__blocks__subscribe-container_top__cta-contents
+      .purchase__blocks__subscribe-container_top__cta-content
+        .purchase__blocks__subscribe-container_top__cta-content__loop-sprite
+        .purchase__blocks__subscribe-container_top__cta-content__title
+          = t('.access')
+      .purchase__blocks__subscribe-container_top__cta-content
+        .purchase__blocks__subscribe-container_top__cta-content__books-sprite
+        .purchase__blocks__subscribe-container_top__cta-content__title
+          = t('.books')
+      .purchase__blocks__subscribe-container_top__cta-content
+        .purchase__blocks__subscribe-container_top__cta-content__tablets-sprite
+        .purchase__blocks__subscribe-container_top__cta-content__title
+          = t('.devices')
+  .purchase__blocks__subscribe-container_bottom
+    .purchase__blocks__subscribe-container_bottom__subscription-form
+      .shared__purchase-button-container
+        button.shared__purchase-button_subscribe data-toggle="modal" data-target="#credit-card-modal" = t('.upgrade', price: @plans.first.price, period: @plans.first.name)
+        input#subscribe_product_id name="plan_id" type="hidden" value= @plans.first.id
+      .purchase__blocks__subscribe-container_bottom__product-selector-container
+        p.purchase__blocks__subscribe-container_bottom__product-selector__cta-opening data-default-text=("Bill me") = t('.bill_me')
+        select#subscribe_product_id.purchase__blocks__subscribe-container_bottom__product-selector name="subscribe[product_id]" data-max-price=@plans.last.price
+          - @plans.each do |plan|
+            option data-price=plan.price data-plan-name=plan.name data-plan-id=plan.id
+              = plan.name.downcase
+        p.purchase__blocks__subscribe-container_bottom__product-selector__cta-closing
+          = t('.and')
+          span.purchase__blocks__subscribe-container_bottom__product-selector__cta-closing__percentage-saved__appendix = t('.save')
+          span.purchase__blocks__subscribe-container_bottom__product-selector__cta-closing__percentage-saved = get_saved_percentage(@plans.last.price, @plans.first.price)
+    .purchase__blocks__coupon-container
+      .purchase__blocks__show-coupon-form
+        a href="#"
+          = t('.disccount_code')
+      .purchase__blocks__coupon-form
+        form accept-charset="UTF-8" action="#" data-remote="true" method="post" 
+          div style="margin:0;padding:0;display:inline" 
+            input name="utf8" type="hidden" value="✓" /
+          input name="authenticity_token" type="hidden" value="AxCZ8ItylTlaEWaUX67Jhr1tdXLqTcxsQGLqyE5awaQ=" 
+            input#referral_path name="referral_path" type="hidden" value="#" 
+              input#coupon_coupon_code.coupon__form__text-field name="coupon[coupon_code]" type="text" value="" 
+                input.coupon__form__submit name="commit" type="submit" value="Apply" 

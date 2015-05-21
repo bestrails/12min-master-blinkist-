@@ -1,0 +1,35 @@
+article.product__container lang="en" 
+  .product__container-content
+    .product__top__container
+      .product__top__container__left
+        .product__info
+          p.product__title-authorName = @book.author
+          h1.product__title-subTitle = @book.title
+          p
+            = @book.recommend
+        .product__info__buttons
+          .product__info__buttons__left
+            - if user_signed_in?
+              = link_to t('.read_now'), content_book_path(@book), class: 'read-now-button'
+            - else
+              = link_to t('.sign_up'), new_user_registration_path(), class: 'read-now-button'
+      .product__top__container__right
+        img.product__image src=@book.cover.url(:full)
+    .product__middle__container
+      .product__info__bar
+        .product__info__bar__item
+          - unless @book.tags.empty?
+            .product__info__bar__item.categories
+              - @book.tags.each do |tag|
+                = link_to tag.name, category_path(tag)
+                = "&nbsp;".html_safe
+      div
+        h4 = t('.keys')
+        ul
+          - @book.keys.each do |key|
+            li = key
+      .product__middle__content
+        h4 = t('.lessons')
+        ul
+          - @book.lessons.each do |lesson|
+            li = lesson
