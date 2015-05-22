@@ -3833,6 +3833,11 @@ ul.top-menu__dropdown li:first-child.browse a:before {
   background-image: image-url("signup__bar-background-desktop.png");
   background-size: cover
 }
+
+body.making__a__blinks .signup-bar__container, body.about .signup-bar__container, body.affiliates .signup-bar__container, body.jobs .signup-bar__container, body.press .signup-bar__container, body.pricing .signup-bar__container, body.privacy .signup-bar__container, body.publishers .signup-bar__container, body.testimonials .signup-bar__container{
+  display: none;
+}
+
 @media (max-width:56.875em) {
   .signup-bar__container {
     background-image: url(/assets/signup__bar-background-mobile.png)
@@ -3865,6 +3870,7 @@ ul.top-menu__dropdown li:first-child.browse a:before {
   font-weight: bold;
   margin-bottom: 0
 }
+
 .signup-bar__sub-headline {
   font-size: 1.1rem;
   margin-bottom: 2em
@@ -3880,6 +3886,7 @@ ul.top-menu__dropdown li:first-child.browse a:before {
     text-align: center
   }
 }
+
 
 
 .cms__static__teaser__content {
