@@ -411,11 +411,16 @@ header, footer {
   overflow: visible
 }
 header {
+  
   background-color: white;
   width: 100%;
   -moz-box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.08);
   -webkit-box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.08);
   box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.08)
+}
+body.pages__homepage.inside header{
+  position: relative;
+  z-index: 1;
 }
 main {
   margin: 3em 0 4em 0
@@ -10663,4 +10668,10 @@ body.trial__signup .reset-password__container, body.signin .reset-password__cont
   body.categories .dynamic-grid__container{
     margin-top: 0;
   }
+}
+body.pages__homepage.inside #flash-message{
+  position: absolute;
+  top: 1em;
+  width: 100%;
+  z-index: 2;
 }
