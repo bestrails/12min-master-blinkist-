@@ -422,6 +422,12 @@ body.pages__homepage.inside header{
   position: relative;
   z-index: 1;
 }
+@media (max-width: 39.375em){
+  body.pages__homepage.inside header{
+    position: relative;
+    z-index: 1; 
+  }  
+}
 main {
   margin: 3em 0 4em 0
 }
@@ -10681,5 +10687,12 @@ body.welcome__index.inside .button.already-in-library{
 body.pages__homepage.inside .product__container{
   position: relative;
   z-index: 3;
-  max-width: 1110px;
+  max-width: 1140px;
+}
+@media (max-width: 39.375em) {
+  body.pages__homepage.inside .product__container{
+    position: relative;
+    z-index: 3;
+    max-width: 1140px;
+  }
 }
