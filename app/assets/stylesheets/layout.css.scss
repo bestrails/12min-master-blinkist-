@@ -10678,3 +10678,8 @@ body.pages__homepage.inside #flash-message{
 body.welcome__index.inside .button.already-in-library{
   color: rgb(56, 53, 53);;
 }
+body.pages__homepage.inside .product__container{
+  position: relative;
+  z-index: 3;
+  max-width: 1110px;
+}
