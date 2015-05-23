@@ -9637,7 +9637,8 @@ a.leaderboard__search-results__result__cta-button__read:hover:after {
     top: 5px;
     left: 5px;
     z-index: 1000;
-  }  
+  }
+
 }
 .no-books-message {
   position: absolute; 
@@ -10694,5 +10695,7 @@ body.pages__homepage.inside .product__container{
     position: relative;
     z-index: 3;
     max-width: 1140px;
+    top: -3em;
   }
+
 }
